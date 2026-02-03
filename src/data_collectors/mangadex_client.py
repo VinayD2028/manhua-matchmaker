@@ -9,11 +9,11 @@ from tqdm import tqdm
 BASE_URL = "https://api.mangadex.org"
 OUTPUT_FILE = "data/raw/mangadex_manhua.json"
 LIMIT = 100  # Max allowed by API per request
-TOTAL_TO_FETCH = 500  # Target number of titles (Reduced for Dev Speed)
+TOTAL_TO_FETCH = 20000  # Effectively unlimited for this category (Manhua is usually ~5k-8k on MD)
 RATE_LIMIT_SLEEP = 0.25  # 4 requests per second (safe side of 5/sec)
 
 def fetch_manhua():
-    print(f"Starting ingestion of {TOTAL_TO_FETCH} Manhua titles from MangaDex...")
+    print(f"Starting FULL ingestion of Manhua titles from MangaDex (Target: ~{TOTAL_TO_FETCH})...")
     
     manhua_list = []
     offset = 0
@@ -30,6 +30,7 @@ def fetch_manhua():
         "includes[]": ["cover_art", "author", "artist"] # Expand metadata if needed
     }
 
+    # We use a progress bar but with a dynamic description since exact total might obey filters
     pbar = tqdm(total=TOTAL_TO_FETCH)
     
     while len(manhua_list) < TOTAL_TO_FETCH:
@@ -42,7 +43,7 @@ def fetch_manhua():
                 results = data.get("data", [])
                 
                 if not results:
-                    print("No more results found.")
+                    print(f"No more results found at offset {offset}. Ingestion complete.")
                     break
                 
                 for manga in results:
@@ -104,6 +105,8 @@ def fetch_manhua():
                 
         except Exception as e:
             print(f"Exception occurred: {e}")
+            # If it's a critical networking error, maybe we shouldn't break immediately but retry? 
+            # For now, break to avoid infinite error loops.
             break
 
     pbar.close()

@@ -2,24 +2,43 @@ import requests
 
 MANGADEX_BASE = "https://api.mangadex.org"
 
-def get_chapters(manga_id, limit=100):
+def get_chapters(manga_id, limit_per_req=100):
     """
-    Fetch latest chapters for a manga (English or Chinese).
+    Fetch ALL chapters for a manga (English or Chinese) using pagination.
     """
-    params = {
-        "limit": limit,
-        "manga": manga_id,
-        "translatedLanguage[]": ["en", "zh"],
-        "order[chapter]": "asc", # Start from Ch 1
-        "contentRating[]": ["safe", "suggestive", "erotica", "pornographic"]
-    }
-    try:
-        r = requests.get(f"{MANGADEX_BASE}/chapter", params=params)
-        if r.status_code == 200:
-            return r.json().get('data', [])
-        return []
-    except:
-        return []
+    all_chapters = []
+    offset = 0
+    
+    while True:
+        params = {
+            "limit": limit_per_req,
+            "offset": offset,
+            "manga": manga_id,
+            "translatedLanguage[]": ["en", "zh"],
+            "order[chapter]": "asc", 
+            "contentRating[]": ["safe", "suggestive", "erotica", "pornographic"]
+        }
+        try:
+            r = requests.get(f"{MANGADEX_BASE}/chapter", params=params)
+            if r.status_code == 200:
+                data = r.json().get('data', [])
+                if not data:
+                    break
+                    
+                all_chapters.extend(data)
+                
+                # Check if we reached the end
+                total_items = r.json().get('total', 0)
+                if len(all_chapters) >= total_items:
+                    break
+                
+                offset += len(data)
+            else:
+                break
+        except:
+            break
+            
+    return all_chapters
 
 def get_chapter_pages(chapter_id):
     """
