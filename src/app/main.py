@@ -97,10 +97,13 @@ class App:
         st.markdown("Describe the *exact* vibe you want. Example: *'Generic isekai but the MC is a skeleton'*")
         
         query = st.text_input("Search Query", placeholder="e.g. Cultivation manhua where he is evil")
+        # Search Limit Slider
+        num_results = st.sidebar.slider("Number of results to show", 10, 100, 20)
         
         if query:
-            results = rec.recommend(query, top_k=10) # Increased top_k to 10
+            results = rec.recommend(query, top_k=num_results)
             
+            st.write(f"Showing top {len(results)} matches for: **{query}**")
             for res in results:
                 with st.container():
                     col1, col2 = st.columns([1, 4])
@@ -116,7 +119,13 @@ class App:
                             
                     with col2:
                         st.markdown(f"### {res['title']} <span style='font-size:0.6em; color:grey'>({res.get('year', 'N/A')})</span>", unsafe_allow_html=True)
-                        st.markdown(f"**Match Score:** `{res['score']:.2f}` | *{res['match_reason']}*")
+                        st.markdown(f"**Relevance:** `{res['score']:.2f}` | **{res['match_reason']}**")
+                        
+                        with st.expander("Why this match?"):
+                            st.write(f"- 🧠 Vibe Similarity: `{res['dense_score']:.2f}`")
+                            st.write(f"- 🔑 Keyword Match: `{res['sparse_score']:.2f}`")
+                            if res.get('title_boost', 0) > 0:
+                                st.write(f"- 🚀 Title Boost: `+{res['title_boost']:.2f}`")
                         
                         # Tags
                         st.caption(f"Tags: {', '.join(res['tags'][:5])}")

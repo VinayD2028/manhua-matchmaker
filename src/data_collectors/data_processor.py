@@ -1,9 +1,9 @@
 import json
 import pandas as pd
-from thefuzz import fuzz
-from thefuzz import process
+from rapidfuzz import fuzz
 from tqdm import tqdm
 import os
+from collections import defaultdict
 
 # Paths
 MANGADEX_FILE = "data/raw/mangadex_manhua.json"
@@ -26,63 +26,80 @@ def normalize_title(title):
     return title.lower().strip()
 
 def merge_datasets():
-    print("Starting Entity Resolution (Deduplication)...")
+    print("Starting Optimized Entity Resolution...")
     md_list, al_list = load_data()
     
-    # Convert Anilist to DataFrame for faster lookup
-    al_df = pd.DataFrame(al_list)
-    if not al_df.empty:
-        # Extract English title for matching
-        al_df['match_title'] = al_df['title'].apply(lambda x: x.get('english') or x.get('romaji') or "")
+    # PRE-PROCESS ANILIST FOR SPEED
+    # 1. Exact map for instant link (O(1))
+    # 2. Blocked map by first letter for narrowed fuzzy search
+    al_exact_map = {}
+    al_blocked_map = defaultdict(list)
     
+    for al_item in al_list:
+        eng = normalize_title(al_item['title'].get('english'))
+        rom = normalize_title(al_item['title'].get('romaji'))
+        
+        if eng:
+            al_exact_map[eng] = al_item
+            al_blocked_map[eng[0]].append(al_item)
+        if rom:
+            al_exact_map[rom] = al_item
+            if not eng or rom[0] != eng[0]:
+                al_blocked_map[rom[0]].append(al_item)
+
     merged_data = []
     
     for md_item in tqdm(md_list, desc="Merging Records"):
         md_title = md_item.get('title', "")
+        norm_md_title = normalize_title(md_title)
+        
         best_match_score = 0
         best_al_record = None
         
-        # Fuzzy Match against Anilist if available
-        if not al_df.empty and md_title:
-            # Simple optimization: Filter by first letter could speed up, but dataset is small (500)
-            # We compare against all 500 Anilist titles (small enough for brute force 500x500 = 250k checks)
+        # Priority 1: Exact Match (Fast)
+        if norm_md_title and norm_md_title in al_exact_map:
+            best_al_record = al_exact_map[norm_md_title]
+            best_match_score = 100
+        elif norm_md_title:
+            # Priority 2: Blocked Fuzzy Match (only check records starting with same char)
+            first_char = norm_md_title[0]
+            candidates = al_blocked_map.get(first_char, [])
             
-            # Using Process.extractOne is actually slower than just iterating if we want specific logic
-            # Let's simple check strict exact matches first
-            exact_match = al_df[al_df['match_title'].str.lower() == md_title.lower()]
-            if not exact_match.empty:
-                best_al_record = exact_match.iloc[0].to_dict()
-                best_match_score = 100
-            else:
-                # Fallback to Fuzzy
-                for _, al_row in al_df.iterrows():
-                    score = fuzz.ratio(normalize_title(md_title), normalize_title(al_row['match_title']))
-                    if score > 85 and score > best_match_score: # Threshold 85%
+            for al_record in candidates:
+                al_titles = [
+                    normalize_title(al_record['title'].get('english')),
+                    normalize_title(al_record['title'].get('romaji'))
+                ]
+                
+                for t in al_titles:
+                    if not t: continue
+                    score = fuzz.ratio(norm_md_title, t)
+                    if score > 85 and score > best_match_score:
                         best_match_score = score
-                        best_al_record = al_row.to_dict()
+                        best_al_record = al_record
         
         # Create Golden Record
         golden_record = {
-            "id": md_item["id"], # MangaDex ID is primary key
+            "id": md_item["id"],
             "title": md_item["title"],
-            "description": md_item["description"], # Prefer MangaDex desc usually? Or longest?
+            "alt_titles": md_item.get("alt_titles", []),
+            "description": md_item["description"],
             "tags": md_item["tags"],
-            "official_en_link": md_item["official_en_link"],
-            "cover_art": md_item["cover_art_id"], # We need to resolve this to a URL later
+            "official_en_link": md_item.get("official_en_link"),
+            "cover_art": md_item.get("cover_art_id"),
             "year": md_item["year"],
-            # Enriched Fields from Anilist
+            # Enriched from Anilist
             "rating": best_al_record['averageScore'] if best_al_record else None,
             "popularity": best_al_record['popularity'] if best_al_record else 0,
             "anilist_id": best_al_record['id'] if best_al_record else None,
-            # Metadata
             "match_source": "MangaDex+Anilist" if best_al_record else "MangaDex Only",
             "match_score": best_match_score
         }
         
-        # Fallback: If MangaDex desc is empty, use Anilist
+        # Fallback metadata
         if not golden_record['description'] and best_al_record:
             golden_record['description'] = best_al_record.get('description', "")
-
+            
         merged_data.append(golden_record)
 
     # Save

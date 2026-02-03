@@ -1,9 +1,9 @@
-name: Daily Data Update
-
+name: Weekly Data Update
+  
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
+    # Runs at 00:00 UTC every Monday
+    - cron: '0 0 * * 1'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:

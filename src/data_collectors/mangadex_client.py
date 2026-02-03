@@ -71,30 +71,55 @@ def fetch_manhua():
                     raw_link = links.get("raw")
                     
                     # Extract Cover Art Filename
-                    # We need the relationship with type 'cover_art' and get its attributes->fileName
                     cover_filename = None
                     for rel in manga.get("relationships", []):
                         if rel["type"] == "cover_art" and "attributes" in rel:
                              cover_filename = rel["attributes"].get("fileName")
                              break
                     
+                    # Extract Alt Titles (for better search matching)
+                    alt_titles_list = []
+                    eng_alt_title = None
+                    for alt in attrs.get("altTitles", []):
+                        for lang, val in alt.items():
+                            if lang == "en":
+                                alt_titles_list.append(val)
+                                if not eng_alt_title:
+                                    eng_alt_title = val
+                            elif lang in ["ko-ro", "zh-ro"]:
+                                alt_titles_list.append(val)
+                    
+                    # FINAL TITLE SELECTION: Prefer English Alt Title over Romanized Main Title
+                    if eng_alt_title:
+                        # If current title is Romanized (e.g. ko-ro) or missing, use English
+                        if not attrs.get("title", {}).get("en"):
+                            title = eng_alt_title
+
                     entry = {
                         "id": manga["id"],
                         "title": title,
+                        "alt_titles": alt_titles_list,
                         "description": desc,
                         "tags": tags,
                         "status": attrs.get("status"),
                         "year": attrs.get("year"),
-                        "rating": attrs.get("contentRating"), # safe, suggestive, erotica
+                        "rating": attrs.get("contentRating"), 
                         "official_en_link": official_eng_link,
                         "raw_link": raw_link,
-                        "cover_art_id": cover_filename # Storing filename directly now
+                        "cover_art_id": cover_filename
                     }
                     manhua_list.append(entry)
                 
                 count_fetched = len(results)
                 offset += count_fetched
                 pbar.update(count_fetched)
+                
+                # Incremental Save every batch to prevent loss during interruption
+                if len(manhua_list) > 0:
+                    temp_file = OUTPUT_FILE + ".tmp"
+                    with open(temp_file, "w", encoding="utf-8") as f:
+                        json.dump(manhua_list, f, indent=4, ensure_ascii=False)
+                    os.replace(temp_file, OUTPUT_FILE)
                 
                 # Respect Rate Limit
                 time.sleep(RATE_LIMIT_SLEEP)

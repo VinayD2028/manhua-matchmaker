@@ -17,7 +17,7 @@ query ($page: Int) {
       lastPage
       hasNextPage
     }
-    media (countryOfOrigin: "CN", type: MANGA, sort: POPULARITY_DESC) {
+    media (countryOfOrigin_in: ["CN", "KR"], type: MANGA, sort: POPULARITY_DESC) {
       id
       title {
         romaji
@@ -38,41 +38,41 @@ query ($page: Int) {
 '''
 
 def fetch_anilist_data():
-    print("Starting ingestion from Anilist (Top Popular Manhua)...")
+    print("Starting ingestion from Anilist (Top Popular Manhua & Manhwa)...")
     
     manhua_list = []
-    page = 1
-    has_next = True
-    max_pages = 10 # 10 pages * 50 items = 500 items (Match dev dataset)
-
-    while has_next and page <= max_pages:
-        variables = {'page': page}
+    countries = ["CN", "KR"]
+    
+    for country in countries:
+        print(f"Fetching popular titles for country: {country}")
+        page = 1
+        has_next = True
         
-        try:
-            response = requests.post(URL, json={'query': QUERY, 'variables': variables})
+        while has_next:
+            variables = {'page': page, 'country': country}
+            # Update query to use $country variable
+            query = QUERY.replace('media (countryOfOrigin_in: ["CN", "KR"]', f'media (countryOfOrigin: "{country}"')
             
-            if response.status_code == 200:
-                data = response.json()
-                page_data = data['data']['Page']
-                media = page_data['media']
+            try:
+                response = requests.post(URL, json={'query': query, 'variables': variables})
                 
-                manhua_list.extend(media)
-                
-                print(f"Fetched page {page}. Total items: {len(manhua_list)}")
-                
-                has_next = page_data['pageInfo']['hasNextPage']
-                page += 1
-                
-                # Polite rate limiting (Anilist permits 90 req/min)
-                time.sleep(1) 
-                
-            else:
-                print(f"Error {response.status_code}: {response.text}")
+                if response.status_code == 200:
+                    data = response.json()
+                    page_data = data['data']['Page']
+                    media = page_data['media']
+                    
+                    manhua_list.extend(media)
+                    print(f"[{country}] Fetched page {page}. Total items: {len(manhua_list)}")
+                    
+                    has_next = page_data['pageInfo']['hasNextPage']
+                    page += 1
+                    time.sleep(1) 
+                else:
+                    print(f"Error {response.status_code}: {response.text}")
+                    break
+            except Exception as e:
+                print(f"Exception: {e}")
                 break
-                
-        except Exception as e:
-            print(f"Exception: {e}")
-            break
 
     # Save to JSON
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)

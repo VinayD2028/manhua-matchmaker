@@ -32,21 +32,35 @@ class ManhuaRecommender:
         self.embeddings = None
 
     def fit(self):
-        print("Encoding descriptions (this may take a moment)...")
+        print("Creating combined search text...")
+        # Combine everything for a much stronger semantic signal
+        self.df['combined_text'] = (
+            self.df['title'] + " " + 
+            self.df['title'] + " " + 
+            self.df['alt_titles'].apply(lambda x: " ".join(x)) + " " + 
+            self.df['tags'].apply(lambda x: " ".join(x)) + " " + 
+            self.df['description']
+        ).fillna("")
+
+        print("Encoding combined text (optimized batch size)...")
         # 1. Generate Embeddings (Dense)
-        self.embeddings = self.model.encode(self.df['description'].tolist(), show_progress_bar=True)
+        self.embeddings = self.model.encode(
+            self.df['combined_text'].tolist(), 
+            show_progress_bar=True, 
+            batch_size=128
+        )
         self.embeddings = np.array(self.embeddings).astype('float32')
         
         # 2. Build FAISS Index
         print("Building FAISS index...")
         dimension = self.embeddings.shape[1]
-        self.index = faiss.IndexFlatIP(dimension) # Inner Product (Cosine Sim if normalized)
+        self.index = faiss.IndexFlatIP(dimension) 
         faiss.normalize_L2(self.embeddings)
         self.index.add(self.embeddings)
         
-        # 3. TF-IDF (Sparse/Keyword)
+        # 3. TF-IDF
         print("Fitting TF-IDF model...")
-        self.tfidf_matrix = self.tfidf.fit_transform(self.df['description'])
+        self.tfidf_matrix = self.tfidf.fit_transform(self.df['combined_text'])
         
         print("Model training complete.")
         self.save()
@@ -74,37 +88,64 @@ class ManhuaRecommender:
             self.embeddings = data['embeddings']
         return True
 
-    def recommend(self, query, top_k=10):
+    def recommend(self, query, top_k=50):
         # 1. Dense Retrieval (Semantic Vibe)
         query_embedding = self.model.encode([query]).astype('float32')
         faiss.normalize_L2(query_embedding)
         
-        # Retrieve top 50 candidates for reranking
-        k_candidates = min(50, len(self.df))
+        # Retrieve top 200 candidates for reranking (increased from 50)
+        k_candidates = min(200, len(self.df))
+        if k_candidates == 0: return []
+        
         D, I = self.index.search(query_embedding, k_candidates)
         
         candidates_idx = I[0]
         dense_scores = D[0]
         
         # 2. Sparse Reranking (Keyword Specificity)
-        # Transform query to TF-IDF vector
-        query_tfidf = self.tfidf.transform([query])
+        query_tfidf = self.tfidf.transform([query.lower()])
+        query_words = set(query.lower().split())
         
         final_results = []
         
         for rank, idx in enumerate(candidates_idx):
             if idx == -1: continue
             
-            # Calculate Sparse Score (Cosine of TF-IDF vectors)
-            # We only compare query against this specific candidate
+            item = self.df.iloc[idx].to_dict()
+            title_lower = item['title'].lower()
+            alt_titles_lower = " ".join([t.lower() for t in item.get('alt_titles', [])])
+            
+            # CALCULATE SCORES
+            # Dense (Semantic)
+            dense_score = dense_scores[rank]
+            
+            # Sparse (Keyword)
             sparse_score = cosine_similarity(query_tfidf, self.tfidf_matrix[idx])[0][0]
             
-            # Hybrid Score Formula
-            # Dense captures meaning, Sparse captures specific keywords
-            # Logic: If query has specific rare words ("spider"), sparse score will be high
-            final_score = (dense_scores[rank] * 0.7) + (sparse_score * 0.3)
+            # Title Matching Bonus
+            title_boost = 0.0
+            query_lower = query.lower()
             
-            item = self.data[idx]
+            if query_lower in title_lower or query_lower in alt_titles_lower:
+                title_boost = 0.5 # Huge boost for direct title matches
+            elif any(word in title_lower.split() or word in alt_titles_lower.split() for word in query_words if len(word) > 3):
+                title_boost = 0.2 # Significant boost for keyword matches in title
+            
+            # Final Hybrid Score
+            final_score = (dense_score * 0.5) + (sparse_score * 0.3) + title_boost
+            
+            # Cap final score at 1.0
+            final_score = min(float(final_score), 1.0)
+            
+            # DETERMINE MATCH REASON
+            reason = "Matches plot vibe"
+            if title_boost >= 0.5:
+                reason = "🎯 Direct Title Match"
+            elif title_boost > 0:
+                reason = "⭐ Title Keyword Match"
+            elif sparse_score > 0.4:
+                reason = "🔍 Strong Keyword Match"
+            
             final_results.append({
                 "id": item['id'],
                 "title": item['title'],
@@ -113,10 +154,11 @@ class ManhuaRecommender:
                 "image": item.get('cover_art'), 
                 "official_link": item.get('official_en_link'),
                 "year": item.get('year'), 
-                "score": float(final_score),
-                "dense_score": float(dense_scores[rank]),
+                "score": final_score,
+                "dense_score": float(dense_score),
                 "sparse_score": float(sparse_score),
-                "match_reason": self._explain_match(query, item)
+                "title_boost": title_boost,
+                "match_reason": reason
             })
             
         # Sort by Final Hybrid Score
