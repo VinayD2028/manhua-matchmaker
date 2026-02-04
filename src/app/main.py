@@ -8,7 +8,8 @@ import pandas as pd
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 from src.models.recommender import ManhuaRecommender
-from src.app.utils import get_chapters, get_chapter_pages
+from src.app.utils import get_chapters, get_chapter_pages, fetch_image_bytes
+import base64
 
 # Page Config
 st.set_page_config(
@@ -37,8 +38,20 @@ st.markdown("""
         font-style: italic;
         font-size: 0.9em;
     }
+    /* Gapless Reader Fix */
+    .reader-container img {
+        display: block;
+        margin-bottom: -1px;
+    }
 </style>
 """, unsafe_allow_html=True)
+
+# Helper for Base64
+def get_image_as_base64(url):
+    bytes_data = fetch_image_bytes(url)
+    if bytes_data:
+        return f"data:image/jpeg;base64,{base64.b64encode(bytes_data).decode()}"
+    return None
 
 # Application Logic
 class App:
@@ -109,11 +122,14 @@ class App:
                     col1, col2 = st.columns([1, 4])
                     
                     with col1:
-                        # Cover Image Logic
+                        # Cover Image Logic - Use Proxy
                         if res.get('image'): 
-                            # https://uploads.mangadex.org/covers/{manga_id}/{cover_filename}
                             cover_url = f"https://uploads.mangadex.org/covers/{res['id']}/{res['image']}.256.jpg"
-                            st.image(cover_url, caption="Cover", use_container_width=True) 
+                            cover_bytes = fetch_image_bytes(cover_url)
+                            if cover_bytes:
+                                st.image(cover_bytes, caption="Cover", use_container_width=True) 
+                            else:
+                                st.image("https://via.placeholder.com/150", caption="No Cover")
                         else:
                             st.image("https://via.placeholder.com/150", caption="No Cover")
                             
@@ -309,11 +325,9 @@ class App:
         with st.spinner(f"Loading {chapter_options[current_idx]}..."):
             pages = get_chapter_pages(current_chap['id'])
             if pages:
-                # Construct HTML - Final "Clean" Attempt
-                # Container: Flex column, centered items, dark background
-                # Images: Block, auto width (natural), max-width 100% (responsive), -1px bottom margin (gap fix)
+                # Construct HTML with Base64 Images to bypass hotlinking
                 html_content = """
-                <div style="
+                <div class="reader-container" style="
                     display: flex; 
                     flex-direction: column; 
                     align-items: center; 
@@ -324,28 +338,15 @@ class App:
                 ">
                 """
                 
+                # We limit the number of pages processed at once if needed, 
+                # but let's try all for now.
                 for img_url in pages:
-                    html_content += f"""
-                    <img src="{img_url}" style="
-                        display: block; 
-                        width: auto; 
-                        max-width: 100%; 
-                        height: auto; 
-                        margin: 0; 
-                        padding: 0; 
-                        border: none; 
-                        margin-bottom: -1px;
-                        user-select: none;
-                        -webkit-user-drag: none;
-                    " />
-                    """
+                    b64_img = get_image_as_base64(img_url)
+                    if b64_img:
+                        html_content += f'<img src="{b64_img}" style="display: block; width: auto; max-width: 100%; margin: 0; padding: 0; border: none; margin-bottom: -1px;" />'
                 
                 html_content += "</div>"
-                
-                # We minify it slightly just to be safe against newlines, though the triple quotes usually work if careful
-                html_content = html_content.replace('\n', '')
-                
-                st.markdown(html_content, unsafe_allow_html=True)
+                st.markdown(html_content.replace('\n', ''), unsafe_allow_html=True)
             else:
                 st.error("Could not load pages from MangaDex At-Home server.")
         

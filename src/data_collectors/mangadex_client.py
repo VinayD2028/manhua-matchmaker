@@ -25,7 +25,7 @@ def fetch_manhua():
         "offset": offset,
         "includedTagsMode": "AND",
         "excludedTagsMode": "OR",
-        "originalLanguage[]": ["zh", "zh-hk"],
+        "originalLanguage[]": ["zh", "zh-hk", "ko"],
         "order[followedCount]": "desc",
         "includes[]": ["cover_art", "author", "artist"] # Expand metadata if needed
     }

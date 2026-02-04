@@ -65,3 +65,19 @@ def get_chapter_pages(chapter_id):
         return page_urls
     except:
         return []
+
+def fetch_image_bytes(url):
+    """
+    Fetch an image from MangaDex with the necessary headers to bypass hotlinking protection.
+    """
+    headers = {
+        "Referer": "https://mangadex.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        if r.status_code == 200:
+            return r.content
+    except Exception as e:
+        print(f"Error fetching image: {e}")
+    return None
