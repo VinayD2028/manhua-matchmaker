@@ -77,7 +77,11 @@ class App:
         if not rec: return
         
         # Sidebar
-        st.sidebar.title("📚 Manhua Matchmaker")
+        if st.sidebar.button("📚 Manhua Matchmaker", use_container_width=True):
+            st.session_state["page"] = "Discover"
+            # Ensure index 0 (Discover) is selected if they were elsewhere
+            st.session_state["current_chapter_index"] = 0
+            st.rerun()
         
         # Navigation State Handling (Manual Sync)
         if "page" not in st.session_state:
@@ -154,7 +158,7 @@ class App:
                         if st.button(f"📖 Read {res['title']}", key=res['id']):
                             st.session_state['selected_manga'] = res['id']
                             st.session_state['selected_title'] = res['title']
-                            st.session_state['current_chapter_index'] = 0 # Reset to Ch 1
+                            st.session_state['current_chapter_index'] = 0 
                             st.session_state['page'] = "Reader" 
                             st.rerun() 
                             
@@ -169,7 +173,7 @@ class App:
         
         if not manga_id:
             st.info("Select a Manhua from the 'Discover' tab first.")
-            if st.button("Go to Overview"):
+            if st.button("Go to Home"):
                 st.session_state['page'] = "Discover"
                 st.rerun()
             return
@@ -208,13 +212,12 @@ class App:
                         st.session_state['current_chapter_index'] -= 1
                         st.rerun()
                 else:
-                    if st.button("⬅️ Overview", key=f"{key_prefix}_overview_prev", use_container_width=True):
+                    if st.button("⬅️ Home", key=f"{key_prefix}_home_prev", use_container_width=True):
                         st.session_state['page'] = "Discover"
                         st.rerun()
             
             # Center Dropdown & Refresh
             with col2:
-                # We need a unique key for each selectbox (top/bottom)
                 selected_opt = st.selectbox(
                     "Chapter Selection", 
                     options=chapter_options, 
@@ -223,16 +226,15 @@ class App:
                     label_visibility="collapsed"
                 )
                 
-                # Check if user changed selection
+                # Check if user changed selection via dropdown
                 new_idx = chapter_options.index(selected_opt)
-                if new_idx != current_idx:
+                if new_idx != st.session_state['current_chapter_index']:
                     st.session_state['current_chapter_index'] = new_idx
+                    # Force scroll to top on change
                     st.rerun()
 
-                # Refresh Button (Only show on top nav to avoid clutter, or both?)
-                # Adding it small below dropdown
                 if key_prefix == "top":
-                    if st.button("🔄 Refresh Images", key="refresh_chapter", help="Reload images if they failed to load"):
+                    if st.button("🔄 Refresh Images", key="refresh_chapter"):
                         st.rerun()
             
             # NEXT Button
@@ -242,7 +244,7 @@ class App:
                         st.session_state['current_chapter_index'] += 1
                         st.rerun()
                 else:
-                    if st.button("Overview ➡️", key=f"{key_prefix}_overview_next", use_container_width=True):
+                    if st.button("Home ➡️", key=f"{key_prefix}_home_next", use_container_width=True):
                         st.session_state['page'] = "Discover"
                         st.rerun()
 
