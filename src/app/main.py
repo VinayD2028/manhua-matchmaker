@@ -365,7 +365,7 @@ class App:
         3.  **Data Engineering**: ETL pipeline merging data from MangaDex and Anilist.
         4.  **Full-Stack App**: Streamlit interface with a custom image proxy reader.
         
-        *Built by [Your Name]*
+        *Built by [Vinay Devabhaktuni](https://github.com/vinu-ds)*
         """)
 
 if __name__ == "__main__":
