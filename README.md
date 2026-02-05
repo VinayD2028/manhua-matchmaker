@@ -38,23 +38,23 @@ The system follows a left-to-right data flow:
 
 ```mermaid
 flowchart LR
-    subgraph Data Sources
-        A[MangaDex API]
-        B[AniList API]
+    subgraph "Data Sources"
+        A["MangaDex API"]
+        B["AniList API"]
     end
 
-    subgraph Data Engineering
-        C[ETL Pipeline<br/>(Cleaning + Deduplication)]
-        D[Golden Record Store]
+    subgraph "Data Engineering"
+        C["ETL Pipeline<br/>(Cleaning + Deduplication)"]
+        D["Golden Record Store"]
     end
 
-    subgraph NLP & Search
-        E[Text Embeddings<br/>(TF-IDF → MiniLM)]
-        F[Vector Index<br/>(FAISS)]
+    subgraph "NLP & Search"
+        E["Text Embeddings<br/>(TF-IDF → MiniLM)"]
+        F["Vector Index<br/>(FAISS)"]
     end
 
-    subgraph Application Layer
-        G[Streamlit App<br/>(Search + Analytics)]
+    subgraph "Application Layer"
+        G["Streamlit App<br/>(Search + Analytics)"]
     end
 
     A --> C
@@ -63,7 +63,7 @@ flowchart LR
     D --> E
     E --> F
     F --> G
-    G -. Optional Reader Mode .-> A
+    G -. "Optional Reader Mode" .-> A
 ```
 
 ---
