@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import os
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from tqdm import tqdm
 
 # Constants
@@ -30,7 +30,7 @@ def fetch_manhua():
     is_incremental = len(existing_data) > 0
     if is_incremental:
         # Fetch items updated in the last 14 days to catch any missed updates
-        since_date = (datetime.utcnow() - timedelta(days=14)).strftime("%Y-%m-%dT%H:%M:%S")
+        since_date = (datetime.now(timezone.utc) - timedelta(days=14)).strftime("%Y-%m-%dT%H:%M:%S")
         print(f"Starting INCREMENTAL ingestion (Updated since: {since_date})...")
         order_key = "updatedAt"
     else:

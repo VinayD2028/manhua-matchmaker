@@ -43,7 +43,7 @@ jobs:
           git config --global user.email "actions@github.com"
           
           # Add the updated data and model files
-          git add data/raw/ data/processed/ models/
+          git add data/raw/ data/processed/
           
           # Commit if there are changes
           if git diff --staged --quiet; then

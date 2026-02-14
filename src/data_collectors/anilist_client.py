@@ -2,7 +2,7 @@ import requests
 import json
 import os
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # Constants
 URL = 'https://graphql.anilist.co'
@@ -10,7 +10,7 @@ OUTPUT_FILE = "data/raw/anilist_manhua.json"
 
 # GraphQL Query Template
 QUERY_TEMPLATE = '''
-query ($page: Int, $country: CountryCode, $updatedAt: Int) {
+query ($page: Int, $country: CountryCode) {
   Page (page: $page, perPage: 50) {
     pageInfo {
       total
@@ -18,7 +18,7 @@ query ($page: Int, $country: CountryCode, $updatedAt: Int) {
       lastPage
       hasNextPage
     }
-    media (countryOfOrigin: $country, type: MANGA, sort: UPDATED_AT_DESC, updatedAt_greater: $updatedAt) {
+    media (countryOfOrigin: $country, type: MANGA, sort: UPDATED_AT_DESC) {
       id
       title {
         romaji
@@ -53,7 +53,7 @@ def fetch_anilist_data():
     is_incremental = len(existing_data) > 0
     
     # Use 14 days ago for incremental updates (in Unix timestamp)
-    updated_since = int((datetime.utcnow() - timedelta(days=14)).timestamp()) if is_incremental else 0
+    updated_since = int((datetime.now(timezone.utc) - timedelta(days=14)).timestamp()) if is_incremental else 0
     
     print(f"Starting ingestion from Anilist (Incremental: {is_incremental}, Since: {updated_since})...")
     
@@ -68,8 +68,7 @@ def fetch_anilist_data():
         while has_next and page <= 50: # Cap at 50 pages (2500 items per country/run)
             variables = {
                 'page': page, 
-                'country': country,
-                'updatedAt': updated_since if is_incremental else 0
+                'country': country
             }
             
             try:
@@ -82,10 +81,24 @@ def fetch_anilist_data():
                     
                     if not media:
                         break
-                        
-                    new_manhua.extend(media)
-                    print(f"[{country}] Fetched page {page}. Total items this run: {len(new_manhua)}")
                     
+                    # Search for items updated after our threshold
+                    added_in_page = 0
+                    for item in media:
+                        # If incremental, we stop when we hit items older than our threshold
+                        # (Since we sort by UPDATED_AT_DESC)
+                        if is_incremental and item.get('updatedAt', 0) < updated_since:
+                            has_next = False
+                            break
+                        
+                        new_manhua.append(item)
+                        added_in_page += 1
+                    
+                    print(f"[{country}] Fetched page {page}. Added {added_in_page} items. Total this run: {len(new_manhua)}")
+                    
+                    if not has_next:
+                        break
+                        
                     has_next = page_data['pageInfo']['hasNextPage']
                     page += 1
                     time.sleep(1) # Rate limit respect
@@ -100,14 +113,16 @@ def fetch_anilist_data():
                 break
 
     # Merge and deduplicate
-    if is_incremental:
+    if is_incremental and new_manhua:
         print(f"Merging {len(new_manhua)} new/updated records with {len(existing_data)} existing records...")
         full_map = {item["id"]: item for item in existing_data}
         for item in new_manhua:
             full_map[item["id"]] = item
         final_list = list(full_map.values())
-    else:
+    elif not is_incremental:
         final_list = new_manhua
+    else:
+        final_list = existing_data
 
     # Save to JSON
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
@@ -118,4 +133,5 @@ def fetch_anilist_data():
 
 if __name__ == "__main__":
     fetch_anilist_data()
+
 
