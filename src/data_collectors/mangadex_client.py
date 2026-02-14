@@ -3,37 +3,60 @@ import pandas as pd
 import time
 import os
 import json
+from datetime import datetime, timedelta
 from tqdm import tqdm
 
 # Constants
 BASE_URL = "https://api.mangadex.org"
 OUTPUT_FILE = "data/raw/mangadex_manhua.json"
 LIMIT = 100  # Max allowed by API per request
-TOTAL_TO_FETCH = 20000  # Effectively unlimited for this category (Manhua is usually ~5k-8k on MD)
+OFFSET_LIMIT = 10000 # MangaDex hard limit for offset
+TOTAL_TO_FETCH = 10000 # Updated from 20000 to obey API limits
 RATE_LIMIT_SLEEP = 0.25  # 4 requests per second (safe side of 5/sec)
 
+def load_existing_data():
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading existing data: {e}")
+    return []
+
 def fetch_manhua():
-    print(f"Starting FULL ingestion of Manhua titles from MangaDex (Target: ~{TOTAL_TO_FETCH})...")
+    existing_data = load_existing_data()
+    existing_ids = {item["id"] for item in existing_data}
     
+    is_incremental = len(existing_data) > 0
+    if is_incremental:
+        # Fetch items updated in the last 14 days to catch any missed updates
+        since_date = (datetime.utcnow() - timedelta(days=14)).strftime("%Y-%m-%dT%H:%M:%S")
+        print(f"Starting INCREMENTAL ingestion (Updated since: {since_date})...")
+        order_key = "updatedAt"
+    else:
+        print(f"Starting FULL ingestion (Target: {TOTAL_TO_FETCH})...")
+        order_key = "followedCount"
+        since_date = None
+
     manhua_list = []
     offset = 0
     
-    # Filter for Chinese (zh) and Hong Kong Chinese (zh-hk)
-    # Order by 'followedCount' desc to get popular ones first
     params = {
         "limit": LIMIT,
         "offset": offset,
         "includedTagsMode": "AND",
         "excludedTagsMode": "OR",
         "originalLanguage[]": ["zh", "zh-hk", "ko"],
-        "order[followedCount]": "desc",
-        "includes[]": ["cover_art", "author", "artist"] # Expand metadata if needed
+        "order[" + order_key + "]": "desc",
+        "includes[]": ["cover_art", "author", "artist"]
     }
-
-    # We use a progress bar but with a dynamic description since exact total might obey filters
-    pbar = tqdm(total=TOTAL_TO_FETCH)
     
-    while len(manhua_list) < TOTAL_TO_FETCH:
+    if since_date:
+        params["updatedAtSince"] = since_date
+
+    pbar = tqdm(total=TOTAL_TO_FETCH if not is_incremental else 1000)
+    
+    while offset < OFFSET_LIMIT:
         try:
             params["offset"] = offset
             response = requests.get(f"{BASE_URL}/manga", params=params)
@@ -46,38 +69,32 @@ def fetch_manhua():
                     print(f"No more results found at offset {offset}. Ingestion complete.")
                     break
                 
+                new_items_count = 0
                 for manga in results:
                     attrs = manga.get("attributes", {})
                     
-                    # Extract English Title (fallback to any title)
+                    # Extract Data (Existing logic)
                     title = attrs.get("title", {}).get("en")
                     if not title:
-                        # Grab first available title
                         vals = list(attrs.get("title", {}).values())
                         title = vals[0] if vals else "Unknown Title"
                         
-                    # Extract Description
                     desc = attrs.get("description", {}).get("en", "")
                     if not desc and attrs.get("description"):
-                         # Fallback to first available description
                          desc = list(attrs.get("description", {}).values())[0]
 
-                    # Extract Tag names safely
                     tags = [t["attributes"]["name"]["en"] for t in attrs.get("tags", []) if "attributes" in t and "name" in t["attributes"]]
                     
-                    # Extract External Links (Official TL)
                     links = attrs.get("links", {}) or {}
                     official_eng_link = links.get("engtl")
                     raw_link = links.get("raw")
                     
-                    # Extract Cover Art Filename
                     cover_filename = None
                     for rel in manga.get("relationships", []):
                         if rel["type"] == "cover_art" and "attributes" in rel:
                              cover_filename = rel["attributes"].get("fileName")
                              break
                     
-                    # Extract Alt Titles (for better search matching)
                     alt_titles_list = []
                     eng_alt_title = None
                     for alt in attrs.get("altTitles", []):
@@ -89,11 +106,8 @@ def fetch_manhua():
                             elif lang in ["ko-ro", "zh-ro"]:
                                 alt_titles_list.append(val)
                     
-                    # FINAL TITLE SELECTION: Prefer English Alt Title over Romanized Main Title
-                    if eng_alt_title:
-                        # If current title is Romanized (e.g. ko-ro) or missing, use English
-                        if not attrs.get("title", {}).get("en"):
-                            title = eng_alt_title
+                    if eng_alt_title and not attrs.get("title", {}).get("en"):
+                        title = eng_alt_title
 
                     entry = {
                         "id": manga["id"],
@@ -106,42 +120,51 @@ def fetch_manhua():
                         "rating": attrs.get("contentRating"), 
                         "official_en_link": official_eng_link,
                         "raw_link": raw_link,
-                        "cover_art_id": cover_filename
+                        "cover_art_id": cover_filename,
+                        "updated_at": attrs.get("updatedAt")
                     }
+                    
                     manhua_list.append(entry)
+                    new_items_count += 1
                 
-                count_fetched = len(results)
-                offset += count_fetched
-                pbar.update(count_fetched)
-                
-                # Incremental Save every batch to prevent loss during interruption
-                if len(manhua_list) > 0:
-                    temp_file = OUTPUT_FILE + ".tmp"
-                    with open(temp_file, "w", encoding="utf-8") as f:
-                        json.dump(manhua_list, f, indent=4, ensure_ascii=False)
-                    os.replace(temp_file, OUTPUT_FILE)
-                
-                # Respect Rate Limit
+                offset += len(results)
+                pbar.update(len(results))
                 time.sleep(RATE_LIMIT_SLEEP)
                 
+            elif response.status_code == 400:
+                print(f"Reached API limit or invalid request at offset {offset}. Stopping.")
+                break
+            elif response.status_code == 429:
+                print("Rate limited. Sleeping for 30s...")
+                time.sleep(30)
             else:
                 print(f"Error {response.status_code}: {response.text}")
-                time.sleep(5) # Backoff on error
+                break
                 
         except Exception as e:
             print(f"Exception occurred: {e}")
-            # If it's a critical networking error, maybe we shouldn't break immediately but retry? 
-            # For now, break to avoid infinite error loops.
             break
 
     pbar.close()
     
+    # Merge and Deduplicate
+    if is_incremental:
+        print(f"Merging {len(manhua_list)} new/updated records with {len(existing_data)} existing records...")
+        # Dictionary to store merged items, new items overwrite old ones by ID
+        full_map = {item["id"]: item for item in existing_data}
+        for item in manhua_list:
+            full_map[item["id"]] = item
+        final_list = list(full_map.values())
+    else:
+        final_list = manhua_list
+
     # Save to JSON
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(manhua_list, f, indent=4, ensure_ascii=False)
+        json.dump(final_list, f, indent=4, ensure_ascii=False)
         
-    print(f"Successfully saved {len(manhua_list)} titles to {OUTPUT_FILE}")
+    print(f"Successfully saved {len(final_list)} total titles to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     fetch_manhua()
+
