@@ -2801,13 +2801,13 @@
             "Full Color",
             "Tragedy"
         ],
-        "status": "hiatus",
+        "status": "ongoing",
         "year": 2017,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/home?seriesId=50465822",
         "cover_art_id": "a368ecd4-c230-467a-8c25-5f3d85af1429.jpg",
-        "updated_at": "2026-02-14T00:56:54+00:00"
+        "updated_at": "2026-06-05T20:36:30+00:00"
     },
     {
         "id": "02792e77-d4e5-4789-a086-9f5609e533f3",
@@ -4849,8 +4849,8 @@
         "id": "931fd4fd-6c22-485e-b717-2dce335500b1",
         "title": "God of Martial Arts",
         "alt_titles": [
+            "God of Martial Arts",
             "GoMA",
-            "Juéshì Wǔshén",
             "Peerless Martial God",
             "PMG"
         ],
@@ -4873,7 +4873,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "http://www.manhuatai.com/jueshiwushen/",
-        "cover_art_id": "6d6dcc4a-ae39-44f4-a6a5-2f0b997043b4.jpg"
+        "cover_art_id": "6d6dcc4a-ae39-44f4-a6a5-2f0b997043b4.jpg",
+        "updated_at": "2026-06-07T19:53:27+00:00"
     },
     {
         "id": "1a008e7e-0885-4830-92c6-16b3bbe4f5d4",
@@ -7478,7 +7479,6 @@
         "description": "Luo Zheng, now a humble slave was born as the eldest son of a wealthy family. Due to his family's decline, the kidnapping of his sister by a powerful force, he can now only be stepped upon by others. However, heaven never seals off all exits. An ancient book left by his father reveals a secret divine technique, giving the reader immense power! But what is behind this power? This is a contest against fate.",
         "tags": [
             "Action",
-            "Long Strip",
             "Martial Arts",
             "Harem",
             "Wuxia",
@@ -7491,7 +7491,7 @@
         "official_en_link": null,
         "raw_link": "http://ac.qq.com/Comic/comicInfo/id/536658",
         "cover_art_id": "601a10fc-61aa-4102-9387-f6bf613fb934.jpg",
-        "updated_at": "2026-04-16T22:41:33+00:00"
+        "updated_at": "2026-06-04T23:37:00+00:00"
     },
     {
         "id": "14b81959-13ed-46eb-a277-da66f672acb5",
@@ -9826,9 +9826,10 @@
         "status": "completed",
         "year": 2020,
         "rating": "safe",
-        "official_en_link": null,
-        "raw_link": "https://www.tappytoon.com/en/comics/my-red-string-of-fate",
-        "cover_art_id": "b1e0f305-9c63-4e7b-a337-37f4dd693d6e.png"
+        "official_en_link": "https://www.tappytoon.com/en/comics/my-red-string-of-fate",
+        "raw_link": null,
+        "cover_art_id": "b1e0f305-9c63-4e7b-a337-37f4dd693d6e.png",
+        "updated_at": "2026-06-01T19:51:15+00:00"
     },
     {
         "id": "f0d61c20-48e7-4e63-b40d-cb497dc1ed45",
@@ -11401,8 +11402,6 @@
         "title": "My Father Is a Tyrant",
         "alt_titles": [
             "Choose Your Real Father From the Following Tyrants",
-            "Выбрать настоящего отца среди тиранов",
-            "Как избрать отца среди тиранов",
             "Choose Your Real Daddy Tyrant"
         ],
         "description": "Four tyrants. Which one of them is my father?!  \nAfter working herself to death, professor Jaehee Cheon is reincarnated as a princess in a fantasy novel. Now, she must find her father from the four candidates before her, or face death — again. Will Jaehee get her happy ending?  \n\n\n---",
@@ -11420,9 +11419,10 @@
         "status": "ongoing",
         "year": null,
         "rating": "safe",
-        "official_en_link": null,
-        "raw_link": "https://manta.net/series/1243",
-        "cover_art_id": "356ac5c0-7a06-47a8-a079-5f11bc55b231.jpg"
+        "official_en_link": "https://manta.net/series/1243",
+        "raw_link": "https://page.kakao.com/content/64883222",
+        "cover_art_id": "3cc973d5-91f4-4a19-a5d6-38ac2acdba89.jpg",
+        "updated_at": "2026-06-02T21:49:41+00:00"
     },
     {
         "id": "83328446-ba9b-467d-83d1-37241f1ab4d2",
@@ -26559,7 +26559,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=809618",
-        "cover_art_id": "fdb9950e-909c-4211-ae40-4a37190bd5fe.jpg"
+        "cover_art_id": "d50ad111-4d92-429e-9ea9-6cf6580539bd.jpg",
+        "updated_at": "2026-06-04T04:30:27+00:00"
     },
     {
         "id": "41854f71-2a63-4d7b-8e65-e9b0f40214f4",
@@ -31294,9 +31295,10 @@
         "status": "completed",
         "year": null,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/mojito/info",
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/3178/",
-        "cover_art_id": "9cd71710-4f7b-46d7-814e-b68cfe8fd954.jpg"
+        "cover_art_id": "9cd71710-4f7b-46d7-814e-b68cfe8fd954.jpg",
+        "updated_at": "2026-06-07T02:50:54+00:00"
     },
     {
         "id": "0f01506d-9fb0-428d-8304-9f2a1f2a29da",
@@ -37608,9 +37610,10 @@
         "status": "completed",
         "year": 2017,
         "rating": "erotica",
-        "official_en_link": null,
+        "official_en_link": "https://www.lezhinus.com/en/comic/moonlightgarden",
         "raw_link": "https://www.lezhin.com/ko/comic/flower_garden",
-        "cover_art_id": "fd7543e9-d18c-4112-b478-fd13d266e2a6.jpg"
+        "cover_art_id": "fd7543e9-d18c-4112-b478-fd13d266e2a6.jpg",
+        "updated_at": "2026-06-08T04:01:56+00:00"
     },
     {
         "id": "14773caf-e1f6-4a08-922f-66b5bd47424a",
@@ -53932,8 +53935,7 @@
         "id": "b38e3aa4-7bfd-4fd4-b353-0a00847c6190",
         "title": "I've Been Proposed to by a Villain",
         "alt_titles": [
-            "Agyeogege Cheonghon Badatseumnida",
-            "Agyeogege Cheonghonbadassseupnida",
+            "I've Been Proposed to by a Villain",
             "I Got a Proposal From a Villain",
             "I Got Married to a Villain"
         ],
@@ -53951,7 +53953,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/home?seriesId=57236684",
-        "cover_art_id": "8e213837-b711-4635-8f48-26584376bf15.jpg"
+        "cover_art_id": "8e213837-b711-4635-8f48-26584376bf15.jpg",
+        "updated_at": "2026-06-04T16:07:45+00:00"
     },
     {
         "id": "615bdf9a-049d-4cd2-9edc-78b66d305c8c",
@@ -54943,12 +54946,13 @@
             "Adaptation",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2021,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webtoons.com/en/fantasy/monster-dukes-daughter/list?title_no=4469",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=765158",
-        "cover_art_id": "919adc00-ba2a-4b7a-9418-fdc11981bff8.jpg"
+        "cover_art_id": "919adc00-ba2a-4b7a-9418-fdc11981bff8.jpg",
+        "updated_at": "2026-06-02T20:24:41+00:00"
     },
     {
         "id": "d30f84bd-c129-4da9-bbd2-3675712a3191",
@@ -57811,12 +57815,13 @@
             "Web Comic",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": null,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/9807/",
-        "cover_art_id": "548e47c6-d0c0-4617-aac6-c115b6f15a1e.jpg"
+        "cover_art_id": "548e47c6-d0c0-4617-aac6-c115b6f15a1e.jpg",
+        "updated_at": "2026-06-01T16:00:27+00:00"
     },
     {
         "id": "b9ad2728-b052-4203-8263-fcd36c85ea26",
@@ -93796,6 +93801,7 @@
             "Romance",
             "Boys' Love",
             "Reverse Harem",
+            "Sexual Violence",
             "Drama",
             "Fantasy",
             "Web Comic",
@@ -93807,7 +93813,8 @@
         "rating": "suggestive",
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc35946",
-        "cover_art_id": "26eed495-bda2-4f7d-87b9-2895f0ae474a.png"
+        "cover_art_id": "26eed495-bda2-4f7d-87b9-2895f0ae474a.png",
+        "updated_at": "2026-06-04T01:10:23+00:00"
     },
     {
         "id": "d176655a-179c-40fb-8710-c2c37d27caca",
@@ -104194,12 +104201,13 @@
             "Web Comic",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2022,
         "rating": "suggestive",
-        "official_en_link": null,
-        "raw_link": "https://manta.net/series/1767",
-        "cover_art_id": "e7e584ce-d149-499a-881f-764d9116c106.png"
+        "official_en_link": "https://manta.net/series/1767",
+        "raw_link": null,
+        "cover_art_id": "e7e584ce-d149-499a-881f-764d9116c106.png",
+        "updated_at": "2026-06-06T18:52:46+00:00"
     },
     {
         "id": "d7a54def-ccc5-4f42-8e3f-13cea8e4bd8c",
@@ -137144,25 +137152,26 @@
     },
     {
         "id": "00e97356-c9aa-447c-a3e8-c5275b5c57e5",
-        "title": "럭키 미아!",
+        "title": "Lucky Mia!",
         "alt_titles": [
-            "Lucky Mia!",
-            "reokki mia!"
+            "Lucky Mia!"
         ],
         "description": "Nam Eunho, a student living alone with his younger sister, has known nothing but misfortune since a childhood accident. His only wish is to lead a normal, quiet life. But an unexpected encounter with the “campus goddess” turns everything upside down and may well change his fate…",
         "tags": [
+            "Long Strip",
             "Romance",
             "Comedy",
             "School Life",
-            "Slice of Life"
+            "Slice of Life",
+            "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
-        "rating": "suggestive",
+        "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=848471",
         "cover_art_id": "36ffda83-32cf-43fb-a473-666ab943a705.png",
-        "updated_at": "2026-04-26T12:19:53+00:00"
+        "updated_at": "2026-06-03T15:10:20+00:00"
     },
     {
         "id": "b0f22b19-bad6-434f-93dc-53076e5ded2e",
@@ -139207,7 +139216,7 @@
         "alt_titles": [
             "Irreverent Desires"
         ],
-        "description": "The esteemed Grand Imperial Minister Lu Shuyu was assassinated by malicious individuals operating from the shadows, plunging the world into crisis. Unexpectedly, seven years later, he is reborn in the body of his \"lunatic\" younger brother, Lu Ziyin. Despite this peculiar situation, Lu Shuyu is pleased to learn that his most pampered young pupil, Crown Prince Song Zhao Xing, has ascended the throne as Emperor. Lu Shuyu is overjoyed to see his work as a Laoshi (chief minister) bear fruit. However, one day he is stunned to hear the Emperor's scandalous decree: a vast array of handsome men are summoned so the Emperor can choose a male concubine. \"A male concubine?! How could my disciple be attracted to men? I must have made a mistake in his upbringing!\"",
+        "description": "The esteemed Grand Imperial Minister Lu Shuyu was assassinated by malicious individuals operating from the shadows, plunging the world into crisis. Unexpectedly, seven years later, he is reborn in the body of his \"lunatic\" younger brother, Lu Ziyin. Despite this peculiar situation, Lu Shuyu is pleased to learn that his most pampered young pupil, Crown Prince Song Zhao Xing, has ascended the throne as Emperor. Lu Shuyu is very happy to know that his work as a Laoshi has paid off. However, one day he is stunned to hear the Emperor's scandalous decree: a vast array of handsome men are summoned so the Emperor can choose a male concubine. \"A male concubine?! How could my disciple be attracted to men? I must have made a mistake in his upbringing!\"",
         "tags": [
             "Reincarnation",
             "Historical",
@@ -139223,7 +139232,7 @@
         "official_en_link": null,
         "raw_link": "https://ac.qq.com/Comic/comicInfo/id/654566",
         "cover_art_id": "8cc9a79f-d837-4be2-82d9-a04ea601543f.jpg",
-        "updated_at": "2026-05-20T15:56:38+00:00"
+        "updated_at": "2026-06-05T06:55:22+00:00"
     },
     {
         "id": "7853928d-df5b-425a-af77-3a90a0061837",
@@ -140747,7 +140756,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69117053",
         "cover_art_id": "0fa492fd-fbdf-4c8f-942f-a60fac1e6eb9.jpg",
-        "updated_at": "2026-05-25T10:09:18+00:00"
+        "updated_at": "2026-06-03T21:46:50+00:00"
     },
     {
         "id": "e5f98113-932c-4acd-8abe-854df3417982",
@@ -141673,7 +141682,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69079268?tab_type=about",
         "cover_art_id": "3b40d043-fdac-4143-a410-de9613f7923c.jpg",
-        "updated_at": "2026-05-23T21:41:12+00:00"
+        "updated_at": "2026-06-05T20:46:24+00:00"
     },
     {
         "id": "1e2f00e9-a9d8-4728-97f3-1ea5fcb7f882",
@@ -142169,13 +142178,15 @@
         "id": "82223d1f-b520-4d07-b466-87aba646957d",
         "title": "The Sea of Falling Ash",
         "alt_titles": [],
-        "description": "After his family's death, Yoo Haemin gives up on his dream of attending college because he can no longer play the piano due to a sudden hearing loss. While listening to someone's unfinished song he found on an old laptop, he is drawn by a scream from the upstairs neighbor and saves Shin Jaeyeon from being assaulted. As this incident brings them closer, the two realize they have a shared experience of a parent's sudden death and an obsession with music, and they feel an inexplicable attraction to each other...",
+        "description": "[Insecure Younger Top x Psycho Pretty Bottom]\n\nFollowing the abrupt loss of his family, Yu Haemin suddenly develops a hearing impairment, making him unable to play the piano and ultimately leading him to give up on going to college.\n\nWhile listening to someone's unfinished track found on an old laptop, Haemin hears a scream from the apartment above. Drawn upstairs, he ends up saving Shin Jaeyeon, who was in the middle of being physically assaulted.\n\nAs the two slowly grow closer after the incident, they realize just how similar their obsession with music and sudden death of their parents are, sparking an inexplicable mutual attraction…",
         "tags": [
             "Psychological",
             "Long Strip",
             "Boys' Love",
+            "Crime",
             "Drama",
             "Mystery",
+            "Music",
             "Full Color"
         ],
         "status": "completed",
@@ -142184,7 +142195,7 @@
         "official_en_link": null,
         "raw_link": "https://www.mrblue.com/webtoon/wt_000071024",
         "cover_art_id": "f2ea9241-baaa-4e95-be79-5869c76d2e83.png",
-        "updated_at": "2026-05-30T19:27:27+00:00"
+        "updated_at": "2026-06-04T01:07:36+00:00"
     },
     {
         "id": "b1c06a75-de31-4ae7-8666-b92922570eb2",
@@ -142314,7 +142325,7 @@
         "id": "a6faa7e9-fff9-4d1a-a330-c4d8a6f2fd3c",
         "title": "What's With Your Taste?",
         "alt_titles": [],
-        "description": "",
+        "description": "Sooyoung, a firm believer in no premarital sex, is a young master from a wealthy family, a so-called third-generation chaebol. Despite facing various risky situations growing up, Sooyoung fiercely protected his beliefs. Then one day, upon returning to Korea, he falls in love at first sight with Hajun, whom he randomly meets at a  party.\nHe never intended for it to happen, but before realizing it, Sooyoung had suddenly given away his \"first time\" to Hajun. \nLike a true virgin, Sooyoung was already dreaming of a whole life with Hajun, from dating, getting married, and even having children. But the next morning, he wakes up to an empty spot beside him in bed.\nSo, Sooyoung tracks him down and, right in front of the university gates, boldly shouts… \n\"You took my first time, so now take responsibility!”\nBut to his surprise, Hajun flatly rejects him, stating that chaebols simply aren't his taste. Not into rich guys? Seriously, what’s with his taste?!?!",
         "tags": [
             "Romance",
             "Comedy",
@@ -142326,7 +142337,7 @@
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/detail/manoftaste",
         "cover_art_id": "83878af4-0d65-481d-bd17-33c9809e5fae.jpg",
-        "updated_at": "2026-05-29T23:44:35+00:00"
+        "updated_at": "2026-06-04T01:29:53+00:00"
     },
     {
         "id": "1c0ba6ea-0f98-4da7-9069-0c30be7e7575",
@@ -142376,7 +142387,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69229506",
         "cover_art_id": "c1bea0a9-c10d-47e1-b90e-047f4daabb88.jpg",
-        "updated_at": "2026-05-28T14:46:55+00:00"
+        "updated_at": "2026-06-07T23:23:14+00:00"
     },
     {
         "id": "370814ca-d833-4207-882b-feba32518161",
@@ -142542,5 +142553,518 @@
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=849266",
         "cover_art_id": "e4ea5d6a-eb21-43e6-bea7-4ae18933560c.jpg",
         "updated_at": "2026-05-25T09:52:37+00:00"
+    },
+    {
+        "id": "c6afc15c-889e-4d8a-8282-1f99dd650c24",
+        "title": "Girl's Baduk",
+        "alt_titles": [
+            "Girl's Baduk",
+            "Her Game of Go"
+        ],
+        "description": "On a Go board as vast as the sea or the stars, a determined girl returns to the game to reclaim something precious she lost. \n\nWith a quiet boy who shares her unspoken longing, each placed stone tests memory, resolve, and skill. \n\nA gentle, competitive coming-of-age where every move opens a new path forward.",
+        "tags": [
+            "Traditional Games",
+            "Psychological",
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/drama/her-name-of-go/list?title_no=10168",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=842839",
+        "cover_art_id": "22936074-1b31-47d5-9112-aa4e8e8fe199.jpg",
+        "updated_at": "2026-06-08T00:17:23+00:00"
+    },
+    {
+        "id": "6c2cf707-366f-4b43-ae21-3b0e27e20844",
+        "title": "The Reason You Like Yanderes",
+        "alt_titles": [
+            "The Reason You Like Yanderes"
+        ],
+        "description": "",
+        "tags": [],
+        "status": "completed",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/artworks/143134367",
+        "cover_art_id": "9598d58d-c5fa-4d3b-8de2-72b6c2f792f7.png",
+        "updated_at": "2026-06-07T08:34:34+00:00"
+    },
+    {
+        "id": "29c5d87e-9abc-463c-9006-af97d35fb995",
+        "title": "Joker Danny",
+        "alt_titles": [
+            "Joker Danny",
+            "Clown Danny"
+        ],
+        "description": "In a small town in the countryside lives a boy named Danny, an orphan with a tear-shaped birthmark. While the town is peaceful, there are rumors of a plague spreading in the outside world, which turns people into flower petals…",
+        "tags": [
+            "Award Winning",
+            "Historical",
+            "Adventure",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "http://ac.qq.com/Comic/comicInfo/id/632996",
+        "cover_art_id": "d8a096f5-3c3a-4e1f-b7b9-347152c67381.png",
+        "updated_at": "2026-06-07T00:05:29+00:00"
+    },
+    {
+        "id": "8171c1af-3098-44fd-8265-78a5af4fa25b",
+        "title": "The Dream Girl",
+        "alt_titles": [
+            "The Dream Girl"
+        ],
+        "description": "",
+        "tags": [
+            "Romance",
+            "Self-Published",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/en/artworks/134088599",
+        "cover_art_id": "964458d3-1abf-45b8-a697-e14f120accb7.jpg",
+        "updated_at": "2026-06-06T08:47:09+00:00"
+    },
+    {
+        "id": "69e35e70-9a35-4334-ab95-473f1d7dc2da",
+        "title": "Solo Slime's Ascension",
+        "alt_titles": [
+            "Solo Slime's Ascension",
+            "Alone as a Slime",
+            "Alone as a Slime Mold"
+        ],
+        "description": "Reencarnei em outro mundo, mas acabei me tornando a criatura mais fraca que existe... Um slime! Alimentando-me de tudo, desde madeira podre até dragões poderosos, um dia chegarei ao topo e dominarei este mundo!",
+        "tags": [
+            "Reincarnation",
+            "Monsters",
+            "Action",
+            "Long Strip",
+            "Adventure",
+            "Magic",
+            "Isekai",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://www.webcomicsapp.com/comic/698c2f7f62661d2b7d590962",
+        "raw_link": "https://manga.bilibili.com/detail/mc39769",
+        "cover_art_id": "5a9c45eb-ba5d-4b5d-be45-1ee5a380ed00.png",
+        "updated_at": "2026-06-05T11:40:19+00:00"
+    },
+    {
+        "id": "eaf8386b-0fca-4aff-a0c4-8260c65d820c",
+        "title": "This Sweet Online Date Is a Disaster",
+        "alt_titles": [
+            "Sweet Online Dating Has Been Overturned?!",
+            "Tiantain de wanglian fanchele!?!"
+        ],
+        "description": "I was helping my sister win the heart of the game's top-ranked player, but it turned out to be a total disaster! I was even ridiculed by that gaming master!!! I guess no one can defy Murphy's Law! Just as the game was loading... Ding! Notice: Your husband is now online!",
+        "tags": [
+            "Long Strip",
+            "Comedy",
+            "Boys' Love",
+            "Video Games",
+            "Web Comic",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2022,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc31354",
+        "cover_art_id": "bbb6d9db-cc85-4330-9dc3-7250141e7d96.png",
+        "updated_at": "2026-06-04T23:15:03+00:00"
+    },
+    {
+        "id": "375ef790-a311-4a09-a668-f75ed2b054cb",
+        "title": "It shouldn't be like this!",
+        "alt_titles": [
+            "It shouldn't be like this!"
+        ],
+        "description": "",
+        "tags": [
+            "Romance",
+            "Comedy",
+            "Self-Published",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/en/artworks/144649486",
+        "cover_art_id": "846eb435-c7bf-4956-b2a7-5fbacfd961be.png",
+        "updated_at": "2026-06-04T19:57:20+00:00"
+    },
+    {
+        "id": "8ed0b6cd-8e2b-4e2f-b9a0-d168ff41367a",
+        "title": "Caregiving Alliance",
+        "alt_titles": [
+            "Caregiving Alliance"
+        ],
+        "description": "[Sunshine Person] [Youngest Daughter of a Prestigious Family] [A Pampered Child]\n\nJuwon enjoys a popular campus life, having earned nicknames like the ones above thanks to her gentle, cheerful personality and adorably attractive appearance that anyone would find likable.\n\nBut the reality is the complete opposite.\n\nEvery evening at sunset, the place she heads to is a nursing hospital on the outskirts of the city.\n\nThere, a mother waiting for death and an ill-tempered daughter caring for that mother spend their days.\n\nJuwon is living an exhausting double life to fulfill her mother's final wish: to be surrounded by lots of people.\n\nMeanwhile, unlike Juwon, Hangyeol is living the life of an outsider after returning to university.\n\nDespite his handsome looks, his intimidating aura and taciturn personality make it difficult for anyone to approach him, leaving him to endure a lonely college life.\n\nThen one day, the two meet in a hospital room.\n\nAnd not just under ordinary circumstances.\n\nHan-gyeol appears as a magical girl, wearing a loud, tight-fitting pink character T-shirt, her hair in pigtails, adorned with colorful hair clips, and even holding a magic wand.\n\nLike Juwon, Hangyeol is also caring for a sick younger sibling.\n\nThe moment they discover each other's secrets, the two form a caregiving alliance.\n\nThus begins their precarious double life—a campus-and-caregiving story shared by two secret caretakers!",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "School Life",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=850962",
+        "cover_art_id": "4c0fba6c-ac66-4729-837a-e8b1f7f2acc8.png",
+        "updated_at": "2026-06-04T03:07:34+00:00"
+    },
+    {
+        "id": "3a34f1cb-0390-4620-859c-175fbe740f87",
+        "title": "miHoYo – Honkai Gakuen 2 - Red Dance Fantasy",
+        "alt_titles": [],
+        "description": "",
+        "tags": [
+            "Oneshot"
+        ],
+        "status": "completed",
+        "year": 2017,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "df8d4c55-faeb-4985-b343-153f5f299bd9.jpg",
+        "updated_at": "2026-06-04T02:16:58+00:00"
+    },
+    {
+        "id": "85f627d9-8d25-4cc3-bf69-7dfdd376fee9",
+        "title": "Mumumu",
+        "alt_titles": [],
+        "description": "The Heavenly Demon, born once every ten thousand years. Two geniuses born in the same era. Who among them is truly the Heavenly Demon? And are these two allies or enemies? The progenitor of authentic traditional martial arts!",
+        "tags": [
+            "Historical",
+            "Action",
+            "Long Strip",
+            "Martial Arts",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=850649",
+        "cover_art_id": "3bd269b8-6b21-4ffa-848c-6b2378c459fd.jpg",
+        "updated_at": "2026-06-03T20:00:08+00:00"
+    },
+    {
+        "id": "b3448153-126c-4fe4-a5fd-d1bbe46e7c60",
+        "title": "Husband, the Emperor's Position Is Mine!",
+        "alt_titles": [
+            "Husband, the Throne Is Mine!"
+        ],
+        "description": "Chu Xi, the female emperor of a matriarchal nation, died from overwork and transmigrated into a patriarchal world. In a chance encounter, she met Xie Yi, a frail and sickly prince. Intending to kidnap the beauty, the two became acquainted. However, Chu Xi had always refused to surrender to fate and certainly didn’t plan on just going with the flow. What was the point of becoming a princess consort or empress? Doesn't opening her own harem sound better?",
+        "tags": [
+            "Reincarnation",
+            "Historical",
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "hiatus",
+        "year": 2021,
+        "rating": "safe",
+        "official_en_link": "https://coolmic.me/titles/4354",
+        "raw_link": "https://manga.bilibili.com/detail/mc29125",
+        "cover_art_id": "e5f6e8fc-0efd-4535-9794-8b8ea4e6201d.png",
+        "updated_at": "2026-06-03T16:30:27+00:00"
+    },
+    {
+        "id": "76c1063c-ec70-4a20-8f48-f7e710e79b7f",
+        "title": "Janggun's Butcher Shop",
+        "alt_titles": [
+            "Janggun's Butcher Shop"
+        ],
+        "description": "A shopping district is under crises because of some local goons who runs a butcher shop is threatening other shops to do business only with them...But the scenario changes with the arrival of this mysterious new man , Choi Jang Gun who has newly opened his butcher shop, Jang Gun's Butcher Shop.",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Crime",
+            "Mafia",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2018,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "7f0e4d59-6d39-42d9-b85b-79a33b06a002.png",
+        "updated_at": "2026-06-03T15:40:08+00:00"
+    },
+    {
+        "id": "6bd3abc8-34d2-4e9e-8a0f-0f00f49393b3",
+        "title": "Dummy Yandere",
+        "alt_titles": [
+            "Dummy Yandere"
+        ],
+        "description": "",
+        "tags": [
+            "Oneshot",
+            "Comedy",
+            "Self-Published",
+            "Web Comic"
+        ],
+        "status": "completed",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/en/artworks/145498339",
+        "cover_art_id": "b339b1ec-fb94-4574-b38b-0bb31e8187f9.png",
+        "updated_at": "2026-06-03T15:39:56+00:00"
+    },
+    {
+        "id": "44138fe5-321e-4cd9-b63e-0fede0e32ed7",
+        "title": "Summer Snow",
+        "alt_titles": [
+            "Summer Snow"
+        ],
+        "description": "One day, in the middle of summer, it suddenly starts to snow. What sort of changes will the snow bring?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "School Life",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2018,
+        "rating": "safe",
+        "official_en_link": "https://toomics.com/en/webtoon/episode/toon/4955",
+        "raw_link": null,
+        "cover_art_id": "4df25c3b-fbfb-49c7-91de-656e144da5a0.jpg",
+        "updated_at": "2026-06-03T15:39:50+00:00"
+    },
+    {
+        "id": "4efdc248-b7d3-4267-aabd-024d476f7d82",
+        "title": "When Sadness Drives Me Mad",
+        "alt_titles": [
+            "When Sadness Drives Me Mad"
+        ],
+        "description": "",
+        "tags": [
+            "Psychological",
+            "Long Strip",
+            "Crime",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/challenge/list?titleId=849974",
+        "cover_art_id": "b340735a-1885-4f02-b378-7b717785dea9.png",
+        "updated_at": "2026-06-03T15:39:48+00:00"
+    },
+    {
+        "id": "40677996-3301-412a-99dd-b5c8bf3e3f7b",
+        "title": "Return of the Hound",
+        "alt_titles": [
+            "Return of the Hound",
+            "The Returning Instinct of a Hound",
+            "The Return Instinct of the Hunting Dog",
+            "Bloodhound's Regression Instinct"
+        ],
+        "description": "After being brainwashed by the emperor, Yahn has served him as his loyal puppet. Upon finding out that he has been played by the emperor, Yahn vows vengeance, but he falls to the mighty emperor’s powers. However, instead of dying, Yahn opens his eyes to find that he has gone back in time, to when he used to be a soldier in training. Will he now seek vengeance on the emperor, or will he go look for his family? The choice is now in his hands.",
+        "tags": [
+            "Time Travel",
+            "Action",
+            "Long Strip",
+            "Martial Arts",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "cancelled",
+        "year": 2023,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/fantasy/return-of-the-hound/list?title_no=6543",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=818850",
+        "cover_art_id": "7b0d3c5a-560c-44eb-85be-98233cc1ec64.jpg",
+        "updated_at": "2026-06-03T15:02:17+00:00"
+    },
+    {
+        "id": "4bc53cff-2ae3-48d9-8ffb-ed2fbbcc7dbc",
+        "title": "A Certain Month, a Certain Day",
+        "alt_titles": [
+            "A Certain Month, a Certain Day"
+        ],
+        "description": "A birthday day for Wang An, an ordinary college student.",
+        "tags": [
+            "Oneshot",
+            "Slice of Life"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/7621/?cps=undefined",
+        "cover_art_id": "37e00aa9-b431-47c1-b5fe-574de0303420.jpg",
+        "updated_at": "2026-06-03T08:50:09+00:00"
+    },
+    {
+        "id": "c3f41466-8fe3-44a8-bc86-80760eb38744",
+        "title": "Flowers",
+        "alt_titles": [
+            "Flowers"
+        ],
+        "description": "A tender tale of love and loss, where someone dear reappears in a different form of life.",
+        "tags": [
+            "Oneshot",
+            "Slice of Life"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/13899/?cps=undefined7643",
+        "cover_art_id": "15d4f343-ec12-42ae-be33-b59daa588534.jpg",
+        "updated_at": "2026-06-03T03:26:36+00:00"
+    },
+    {
+        "id": "9d37dce0-370c-4cdc-a664-b92d6ecce381",
+        "title": "Love and Social Anxiety",
+        "alt_titles": [
+            "Love and Social Anxiety"
+        ],
+        "description": "Not wanting to be bothered, Yu Xiaoyou, who suffers from social anxiety, is always mistaken for being aloof and cold. During a temporary reassignment, she meets Lin Yan, who is exceptionally skilled at social interactions. Though they are complete opposites, Yu finds herself relating to him in some ways…",
+        "tags": [
+            "Oneshot",
+            "Drama",
+            "Slice of Life"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc36922?from=manga_index",
+        "cover_art_id": "c032fa67-8a22-47b7-8921-1c9f0641671f.jpg",
+        "updated_at": "2026-06-03T03:22:35+00:00"
+    },
+    {
+        "id": "f0c85ab8-14e2-4f06-b26c-5fd2149e92d0",
+        "title": "Daydreaming in the Hidden Mountain",
+        "alt_titles": [
+            "Daydreaming in the Hidden Mountain",
+            "Dream Talking in the Hidden Mountain"
+        ],
+        "description": "A masked person taking shelter at an old temple narrates a story, about a wayward princess and her ethereally handsome consort, to a girl painting there while they wait out a deluge.",
+        "tags": [
+            "Historical",
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Mystery"
+        ],
+        "status": "completed",
+        "year": 2017,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc25794",
+        "cover_art_id": "39784bdf-b4bd-40aa-a0c0-55ee5c9c35bc.png",
+        "updated_at": "2026-06-02T18:04:58+00:00"
+    },
+    {
+        "id": "66605a2d-f3fb-44e6-8a4a-945016b3d7bf",
+        "title": "Blind Devotion",
+        "alt_titles": [
+            "Blind Devotion",
+            "Exhuma - Blind Obedience"
+        ],
+        "description": "Young Hwa-Rim, having freed Jin, a serpent god sealed away by a shaman, has her body taken over by him, and the shaman sacrifices her own life to save Hwa-Rim. Years later, now a high school student, Hwa-Rim lives in hiding, constantly on the run from Jin, who is still relentlessly searching for her. One day, Bong-Gil, a classmate of hers, is possessed by Jin, and Jin attempts to use Bong-Gil to track down Hwa-Rim...\n\nNote: This series serves as a prequel to the 2024 film Exhuma (파묘).",
+        "tags": [
+            "Thriller",
+            "Reincarnation",
+            "Demons",
+            "Long Strip",
+            "Gore",
+            "Drama",
+            "School Life",
+            "Horror",
+            "Mystery",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=850546",
+        "cover_art_id": "7d9e9eab-0bfc-49d9-80f8-a6e522338a50.jpg",
+        "updated_at": "2026-06-02T11:20:21+00:00"
+    },
+    {
+        "id": "62b89dad-2eb9-4e8d-a672-2db6cfe94e32",
+        "title": "His Apple",
+        "alt_titles": [
+            "Ta de pingguo"
+        ],
+        "description": "Linling, an ordinary high school girl, is actually the daughter of the Scarlet-Haired Witch — an existence akin to a max-level top player! However, she’s being hounded by a handsome and frivolous miscreant prince from another world for an unpaid debt. Thus begins the countdown for an emotional game with debt on the line…",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Magic",
+            "Isekai",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/8146/",
+        "cover_art_id": "cd5fed3a-3383-45a1-9303-d7c0c7dbba8c.png",
+        "updated_at": "2026-06-01T23:47:21+00:00"
+    },
+    {
+        "id": "786810b6-d24f-4144-9878-3c83ddbf0589",
+        "title": "Lord Preston's Secret Tutor",
+        "alt_titles": [],
+        "description": "Du jour au lendemain, Jacqueline Somerset s'est retrouvée sans le sou à la suite du décès de son père et de la faillite de sa famille. Elle est engagée comme treizième gouvernante au manoir des Preston. Malgré ses relations tendues avec le marquis, connu pour son caractère exigeant, elle va au-delà de la simple survie pour découvrir ses secrets cachés et se rapproche peu à peu de lui.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=848884",
+        "cover_art_id": "b7fce046-2edb-4ce5-abe9-1f65f7dd194d.jpg",
+        "updated_at": "2026-06-01T07:41:14+00:00"
     }
 ]
