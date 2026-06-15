@@ -3196,7 +3196,8 @@
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/action/eleceed/list?title_no=1571",
         "raw_link": "https://comic.naver.com/webtoon/list.nhn?titleId=717481",
-        "cover_art_id": "52cf193d-6862-43e8-9de4-1025c0e6e297.jpg"
+        "cover_art_id": "52cf193d-6862-43e8-9de4-1025c0e6e297.jpg",
+        "updated_at": "2026-06-11T08:57:01+00:00"
     },
     {
         "id": "1fcaaa65-6fa4-4772-9006-b905101905d7",
@@ -4018,9 +4019,10 @@
         "status": "hiatus",
         "year": 2020,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.tappytoon.com/en/book/i-stan-prince",
         "raw_link": "https://page.kakao.com/home?seriesId=54187777&page=1",
-        "cover_art_id": "16a9137c-9dd2-41bf-9e99-23845424c2fd.jpg"
+        "cover_art_id": "16a9137c-9dd2-41bf-9e99-23845424c2fd.jpg",
+        "updated_at": "2026-06-11T05:29:13+00:00"
     },
     {
         "id": "69e218ec-93eb-4025-ae39-33d47b1160e0",
@@ -5341,7 +5343,8 @@
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/fantasy/the-extras-academy-survival-guide/list?title_no=6465",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=820097",
-        "cover_art_id": "71670fb9-4950-4bda-89a9-7934737f77df.jpg"
+        "cover_art_id": "e3099394-b192-440a-a32f-6a203d75759d.jpg",
+        "updated_at": "2026-06-14T14:01:54+00:00"
     },
     {
         "id": "8f884297-28e4-49d8-a298-8367666a4076",
@@ -10828,9 +10831,10 @@
         "status": "completed",
         "year": 2019,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/return-survival/info",
         "raw_link": "https://page.kakao.com/home?seriesId=53146570",
-        "cover_art_id": "763000af-3b08-47b8-83c6-d84a94c24ef2.jpg"
+        "cover_art_id": "763000af-3b08-47b8-83c6-d84a94c24ef2.jpg",
+        "updated_at": "2026-06-15T00:45:29+00:00"
     },
     {
         "id": "b2ae13e3-bea1-4f11-bfbe-4269f66e74f8",
@@ -11180,9 +11184,9 @@
         "id": "79469364-39c5-4f70-8af8-f5e1c9894aa7",
         "title": "The Lone Necromancer",
         "alt_titles": [
-            "The Only Necromancer",
+            "The Lone Necromancer",
             "Solo Necromancy",
-            "Na Honja Nekeuromaenso"
+            "The Only Necromancer"
         ],
         "description": "Seongwu is a former special forces soldier who has returned to college after completing his national service. His ordinary life as a student is shattered during class one day when he and his fellow students are faced with a mysterious prompt asking them to “select a role.”\n\nSeongwu chooses the necromancer, a rare ability that grants him the power to control the undead.\n\nWith the campus and outside world seemingly on the brink of collapse, Seongwu must use his newfound powers to battle fearsome monsters and help save his fellow students. But will they make it out alive?\n\n---\n\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/BOY/silingfashiwanglingzhipeizhe/list?title_no=1981)\n\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/lone-necromancer/list?title_no=3619)\n\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/the-lone-necromancer/list?title_no=4063)",
         "tags": [
@@ -11201,12 +11205,13 @@
             "Adaptation",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2021,
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/fantasy/the-lone-necromancer/list?title_no=3690",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=780170",
-        "cover_art_id": "cc36ce0c-a37d-4f4d-9a7f-dfa3ef80f640.jpg"
+        "cover_art_id": "cc36ce0c-a37d-4f4d-9a7f-dfa3ef80f640.jpg",
+        "updated_at": "2026-06-10T02:19:16+00:00"
     },
     {
         "id": "bd1bf883-c7d4-4f4d-857c-29e2470cb693",
@@ -21666,7 +21671,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/necromancer-academy-and-the-genius-summoner/info",
         "raw_link": "https://page.kakao.com/content/62727430",
-        "cover_art_id": "ca176324-2e24-4d37-aa13-21220cf743d9.png"
+        "cover_art_id": "ca176324-2e24-4d37-aa13-21220cf743d9.png",
+        "updated_at": "2026-06-11T08:51:41+00:00"
     },
     {
         "id": "63293b63-209a-4872-8a63-6e499bade5a1",
@@ -34818,7 +34824,7 @@
         "id": "68ef68e9-ce1e-4529-8e6e-eac4c80b4cb4",
         "title": "The Black Leopard Family's Snow Leopard Baby",
         "alt_titles": [
-            "Heukpyo Gamunui Seolpyo Aginim",
+            "The Black Leopard Family's Snow Leopard Baby",
             "The Snow Leopard Baby of the Black Leopard Family",
             "Baby Snow Leopard of the Black Leopard Family"
         ],
@@ -34839,7 +34845,7 @@
         "official_en_link": "https://tapas.io/series/the-black-leopard-familys-snow-leopard-baby/info",
         "raw_link": "https://page.kakao.com/content/65913268",
         "cover_art_id": "3bffbb28-6694-4f96-ae63-804a2f73021c.jpg",
-        "updated_at": "2026-05-31T20:41:59+00:00"
+        "updated_at": "2026-06-08T09:07:16+00:00"
     },
     {
         "id": "adc92bc9-32e4-4dcb-98b4-4b66890987b9",
@@ -37087,10 +37093,11 @@
     },
     {
         "id": "92d3e351-4802-4e74-bbc4-e771a977b572",
-        "title": "Getting to Know Grace",
+        "title": "Taming Grace",
         "alt_titles": [
             "Taming Grace",
-            "My Fair Grace"
+            "My Fair Grace",
+            "Getting to Know Grace"
         ],
         "description": "Andrew is the only daughter of the famous Grace family. She also has an incurable disease. Due to her family's high status in society, Andrew grew up with no friends save for her maid, Herta, whom she has become intensely infatuated with. Little does she know, her family is responsible for ruining Herta's life. Can Andrew break the hierarchy and be with her? Or will Herta end her suffering first…",
         "tags": [
@@ -37107,7 +37114,7 @@
         "official_en_link": "https://tapas.io/series/gettingtoknowgrace",
         "raw_link": null,
         "cover_art_id": "40b00961-99f1-441d-bd7a-5242e9a7ee2a.jpg",
-        "updated_at": "2026-03-28T15:08:01+00:00"
+        "updated_at": "2026-06-10T08:01:19+00:00"
     },
     {
         "id": "db1f4c31-f92f-4f4f-a8c6-fc898e432888",
@@ -40607,7 +40614,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/comic/ep_list/BnS2",
-        "cover_art_id": "e1dafc75-f4ca-48d3-ae3d-71a0568726b3.jpg"
+        "cover_art_id": "e1dafc75-f4ca-48d3-ae3d-71a0568726b3.jpg",
+        "updated_at": "2026-06-11T08:26:54+00:00"
     },
     {
         "id": "beab7f00-ac83-4dc6-8861-6a49ecb6db05",
@@ -46989,9 +46997,10 @@
     },
     {
         "id": "f7e181df-21ee-4fa0-993c-6cf22f24fac3",
-        "title": "Goddess of Jealousy",
+        "title": "Universe's Most Jealous Goddess",
         "alt_titles": [
-            "Universe's Most Jealous Goddess"
+            "Universe's Most Jealous Goddess",
+            "Goddess of Jealousy"
         ],
         "description": "The bubbly and innocent little idol, Xiao Fengyu, encountered the calm and collected award-winning actress, He Yunhan. Soon after, they met once again as trainee and mentor in a reality show. This seemed like a great opportunity to get close to the goddess, but why could she constantly feel potential rivalry no matter where she went?\r\n\r\nShaDiaoDan arranged the little star XiaoFengYu to accidently meet HeYunHan, an ascetic actress, and the two are in a variety show as an instructor and trainee, It seems like a good opportunity to get intimate with goddess, but how can it seem to be full of crisis everywhere?",
         "tags": [
@@ -47006,7 +47015,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc29633",
-        "cover_art_id": "1049fa6d-c77b-4533-ad77-dbc6ef244ed5.jpg"
+        "cover_art_id": "1049fa6d-c77b-4533-ad77-dbc6ef244ed5.jpg",
+        "updated_at": "2026-06-10T08:03:54+00:00"
     },
     {
         "id": "fc57d3ec-1743-4976-a11a-a101508e5f75",
@@ -54206,6 +54216,7 @@
         "alt_titles": [],
         "description": "A daily slice-of-life adventure set in Jam To Cham's alternative Blue Archive timeline where Sensei came to help Abydos 2 years earlier.",
         "tags": [
+            "Loli",
             "Romance",
             "Comedy",
             "Sexual Violence",
@@ -54221,7 +54232,8 @@
         "rating": "suggestive",
         "official_en_link": null,
         "raw_link": "https://www.pixiv.net/en/users/10626273",
-        "cover_art_id": "11fb215c-c9fa-4448-b6c2-f53497ea2c1f.jpg"
+        "cover_art_id": "11fb215c-c9fa-4448-b6c2-f53497ea2c1f.jpg",
+        "updated_at": "2026-06-08T06:40:52+00:00"
     },
     {
         "id": "5999bada-d731-41ba-858c-209b91aa3bb5",
@@ -55743,9 +55755,10 @@
     },
     {
         "id": "19f7ffb3-92de-4ce5-ae0f-b943f0df76f0",
-        "title": "Global Examination",
+        "title": "Global University Entrance Examination",
         "alt_titles": [
-            "Global University Entrance Examination"
+            "Global University Entrance Examination",
+            "Global Examination"
         ],
         "description": "This is a test that puts your life at stake. Pass the test and survive. When the two-faced examiner Qin Jiu meets the cold examinee You Huo, the two amnesiacs are put head to head in a fight by the inhumane system. However, they form a tactic agreement. The system collapses after a series of warnings and the erased memories gradually become clearer. It turns out that at the end of this smoke-filled world, you are still the first person I met. The world is brilliant and grand. Welcome home.",
         "tags": [
@@ -55761,7 +55774,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc28455?from=manga_detail",
-        "cover_art_id": "ccd352d2-4991-47e3-bc27-c4e24fc526e0.jpg"
+        "cover_art_id": "ccd352d2-4991-47e3-bc27-c4e24fc526e0.jpg",
+        "updated_at": "2026-06-11T08:27:53+00:00"
     },
     {
         "id": "77d4b6db-3b6e-4915-b34c-1875e887bea0",
@@ -56062,9 +56076,10 @@
     },
     {
         "id": "5b7c30c5-42ae-46e8-8a19-5da4e69c2351",
-        "title": "Third Ending",
+        "title": "The Third Ending",
         "alt_titles": [
-            "The Third Ending"
+            "The Third Ending",
+            "Third Ending"
         ],
         "description": "Suh Yoonseul has had life easy—everyone likes him, he’s good at his job, basically everything has always worked out as smooth as butter. However, there’s something that brings all of his good luck down, and it’s the infrequent dreams he has of Kang Jun. Who knew that rejecting a guy once would hang so heavy on your life? To make things worse, after he runs into Jun the dreams keep on coming daily. At his wit’s end, Yoonseul takes some advice from a friend so that he can free himself from this jinx. It’s simple. Make Kang Jun think that he’s a nice person. That can’t be hard, right?",
         "tags": [
@@ -56082,7 +56097,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/comic/ep_list/3rd_end",
-        "cover_art_id": "8a915190-b974-46b4-9a8f-7dd08c35e3eb.jpg"
+        "cover_art_id": "8a915190-b974-46b4-9a8f-7dd08c35e3eb.jpg",
+        "updated_at": "2026-06-11T08:38:07+00:00"
     },
     {
         "id": "9c602cff-b6a0-46b0-b9b5-e21fd563321c",
@@ -57511,26 +57527,32 @@
     },
     {
         "id": "50b5e15e-342c-421e-a8df-9fc90f315bcc",
-        "title": "Lv.99 Burning Flame Princess",
+        "title": "Lv. 99 Princess of Black Flame",
         "alt_titles": [
-            "Lv.99 Black Flame Princess"
+            "Lv.99 Black Flame Princess",
+            "Lv.99 Burning Flame Princess"
         ],
-        "description": "Cha Eunha, a first-generation hunter who disappeared inside the mysterious Unknown Gate has returned. Wearing a black dress and carrying a parasol, she stayed behind to save her comrades and survived alone, fighting monsters for decades. Then one day, a human appears before her and Eunha finally finds her way back to the real world. “Welcome to the world 30 years later, senior.” What awaits her is not the world she left, but one that has moved on without her.",
+        "description": "When portals called “gates” opened in 1997, humanity was thrown into chaos as monsters ravaged the planet. Countless lives were lost, including Eunha Cha’s mother. Left to fend for herself, Eunha one day mysteriously awakens a new power. Drafted into the military to fight alongside other Hunters, she sets out on what was supposed to be a routine mission inside a C-rank gate. But when she becomes trapped inside, she’s forced to fight relentlessly against waves of monsters as the gate resets endlessly... until a voice calls out to her.",
         "tags": [
+            "Monsters",
             "Action",
             "Long Strip",
             "Romance",
+            "Adventure",
             "Drama",
             "Fantasy",
             "Web Comic",
+            "Supernatural",
+            "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2025,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webtoons.com/en/action/lv-99-princess-of-black-flame/list?title_no=8999",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=838075",
-        "cover_art_id": "093259f2-2bca-406b-ad5a-f2ec3b14cda8.jpg"
+        "cover_art_id": "093259f2-2bca-406b-ad5a-f2ec3b14cda8.jpg",
+        "updated_at": "2026-06-10T05:00:03+00:00"
     },
     {
         "id": "64e87c04-821e-4bc0-a091-cab9b0ac0901",
@@ -60518,9 +60540,10 @@
     },
     {
         "id": "9c5c4695-8148-4f3d-94ad-75fa60e96aa4",
-        "title": "My Bias Is Showing?!",
+        "title": "My Bias Appeared?!",
         "alt_titles": [
-            "My Bias Appeared?!"
+            "My Bias Appeared?!",
+            "My Bias Is Showing?!"
         ],
         "description": "When high school teacher Na Aejoon shows up for work on an ordinary day, he never expects to bump into his favorite celebrity in the hallway. But when his school becomes a filming location for a show starring Choi Siyeol, his bias from the idol group A-One, that’s exactly what happens! If that’s not enough to give a fanboy a heart attack, Siyeol takes an interest in Aejoon and asks him to join the show as his “co-teacher.” Desperate to keep his fan life a secret, Aejoon is forced to put his acting skills to the test, and not just on camera. But as he spends more and more time with Siyeol, the deception becomes harder to keep up. Not to mention, he might not be the only one keeping secrets…",
         "tags": [
@@ -60534,7 +60557,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.tappytoon.com/en/comics/my-bias-is-showing-m",
-        "cover_art_id": "c77b9ba4-606a-483c-83e8-72f162615b8e.jpg"
+        "cover_art_id": "c77b9ba4-606a-483c-83e8-72f162615b8e.jpg",
+        "updated_at": "2026-06-11T08:34:01+00:00"
     },
     {
         "id": "ee335a38-71da-42d4-9939-16815125d072",
@@ -80622,7 +80646,7 @@
         "id": "598aafe6-3f6d-44f1-9ce1-6b664e3ac33c",
         "title": "Become Her Bride",
         "alt_titles": [
-            "그녀의 신부가 되었다"
+            "Become Her Bride"
         ],
         "description": "Dokyung, the successor of Hanshin Group, had to live as a man and an idiot, hiding her identity through the scheme of her stepmother, Chairman Park. In order to pay her father's debt, Saebom must become Dokyung's bride. In this way, two women got married under complicated conditions.",
         "tags": [
@@ -80637,7 +80661,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/comic/ep_list/her_bride",
-        "cover_art_id": "04e9045f-394d-4f5e-a404-3cdb6c7b7d4b.jpg"
+        "cover_art_id": "04e9045f-394d-4f5e-a404-3cdb6c7b7d4b.jpg",
+        "updated_at": "2026-06-10T08:04:36+00:00"
     },
     {
         "id": "85c2dee7-3bd7-45de-8470-3ef3deab4558",
@@ -90768,11 +90793,11 @@
         "id": "504cb09b-6f5d-4a2c-a363-6de16f8d96cc",
         "title": "The Fallen House of Ardan",
         "alt_titles": [
-            "When I Returned Home, My Family Was Ruined",
+            "The Fallen House of Ardan",
             "I Regressed to My Ruined Family",
-            "Hoigwihaessdeoni Gamuni Manghaessda",
             "When I Returned, My Family Was Ruined",
-            "The Fallen House of Ardan"
+            "The Fallen House of Ardan",
+            "When I Returned Home, My Family Was Ruined"
         ],
         "description": "Ethan Ardan definitely remembers dying, so when he wakes up in a dreary room with his sister who'd died, he can only presume it's the afterlife. \n\nIt turns out Ethan has been reborn into an alternate timeline where his relatives bankrupted his family and dragged it into disgrace while he was in a 10 year-long coma! \n\nNow, it's up to Ethan to use his powerful skills from his past life to reunite his family, and to make his relatives rue the day they started a fight with House Ardan!",
         "tags": [
@@ -90790,7 +90815,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/the-fallen-house-of-ardan/info",
         "raw_link": "https://page.kakao.com/content/60659272",
-        "cover_art_id": "51ebaf79-7c48-4b70-8303-a4d7a40e7887.jpg"
+        "cover_art_id": "51ebaf79-7c48-4b70-8303-a4d7a40e7887.jpg",
+        "updated_at": "2026-06-08T21:28:46+00:00"
     },
     {
         "id": "200af351-8826-43f8-80d7-7191c9d5996d",
@@ -94553,25 +94579,29 @@
     },
     {
         "id": "fb1362d6-95dc-404e-8664-0fa417bb83b2",
-        "title": "The Beloved New Daughter-in-law Of The Wolf Mansion",
+        "title": "Little Red Baby Bird",
         "alt_titles": [
+            "The Beloved New Daughter-in-law Of The Wolf Mansion",
             "The Beloved New Baby of the Wolf Manor"
         ],
-        "description": "The sole heir of the notoriously frail Wolf family, Arsen, has died. The culprits were his father and half-sibling.\n\nThey killed the heir with a lie, promising to use the family's healing abilities.\n\nAs a result, the family was destroyed, and I was also caught up in it and died.\nBut then...\n\"My lady, wake up!\"\n\nWhen I opened my eyes, I had returned to being seven years old, before my death!\n\n\"Please let me marry Arsen!\"\n\nI can't die unfairly again. I secretly requested a contract marriage with the Wolf family behind my father's back.",
+        "description": "After her first molt reveals red feathers symbolic of a curse, Lindsey Raniero of the Eagle Clan is shunned by her family and dies alone. She awakens in the past, only 7 years old. Wishing to escape her fate, Lindsey takes her bird form to run away and makes a deal with the rival Wolf Clan: She will wed their ailing heir and heal him with her clan's power in exchange for their protection. But surrounded by wolves and with her family now on her tail, can this little bird live to spread her wings?",
         "tags": [
+            "Time Travel",
             "Long Strip",
             "Romance",
             "Drama",
             "Fantasy",
             "Web Comic",
+            "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2024,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/little-red-baby-bird/info",
         "raw_link": "https://page.kakao.com/content/65100136?tab_type=about",
-        "cover_art_id": "b9f4a647-4760-4708-8299-944d388e6948.jpg"
+        "cover_art_id": "99e83c0a-e00b-44bb-bb9d-ccc0ff15fae9.jpg",
+        "updated_at": "2026-06-15T03:10:31+00:00"
     },
     {
         "id": "869c270f-d691-47a5-ae91-169ac26962a4",
@@ -98577,7 +98607,9 @@
     {
         "id": "19670112-2e76-4b2d-b6c5-d1d6c9018129",
         "title": "Mr. Liar",
-        "alt_titles": [],
+        "alt_titles": [
+            "Mr. Liar"
+        ],
         "description": "Coquettish Lawyer x Tsundere Detective! Officer Shen, the human-lie-detector detective, finds it difficult to resist the smooth-talking lawyer, his nemesis who spits out lies like flowing electric current. \"You used to be my closest friend, yet you ruined my reputation. Now you actually dare to come back and lick me?!” The elite police officer, after demoted to the Useless Department, meets his Mr. Liar again. Can the past misunderstandings between them be resolved? Can they go back to how they were in the past?",
         "tags": [
             "Action",
@@ -98594,7 +98626,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/7117/",
-        "cover_art_id": "36466cfe-02ed-4c5e-9c5e-d656aa4e9bf9.png"
+        "cover_art_id": "36466cfe-02ed-4c5e-9c5e-d656aa4e9bf9.png",
+        "updated_at": "2026-06-11T08:28:54+00:00"
     },
     {
         "id": "0ff29e48-714f-4e4a-874b-a916b2954093",
@@ -102279,7 +102312,9 @@
     {
         "id": "947ab92d-4622-4fd1-a463-ed305b6bf468",
         "title": "My Employer Can Only Sleep If I Hug Her",
-        "alt_titles": [],
+        "alt_titles": [
+            "My Employer Can Only Sleep If I Hug Her"
+        ],
         "description": "Xia Yu, a college student, takes on a strange part-time job: she's asked to accompany her employer to sleep?",
         "tags": [
             "Long Strip",
@@ -102292,7 +102327,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/7323/",
-        "cover_art_id": "8507de1e-4e55-476c-ae33-0ff082aabd0e.png"
+        "cover_art_id": "8507de1e-4e55-476c-ae33-0ff082aabd0e.png",
+        "updated_at": "2026-06-10T08:05:57+00:00"
     },
     {
         "id": "cf6f5b90-5653-4ee3-88ff-472c85eae8cc",
@@ -103704,7 +103740,9 @@
     {
         "id": "1ba9bbcb-f0cc-458b-97a1-472df8fbb3f5",
         "title": "Cabbage Under Radish",
-        "alt_titles": [],
+        "alt_titles": [
+            "Cabbage Under Radish"
+        ],
         "description": "The Deity of Cabbage and the Deity of Radish work together in harmony to create the perfect Kimchi. However, the Deity of Cabbage can only moan helplessly under the Deity of Radish?!",
         "tags": [
             "Historical",
@@ -103721,7 +103759,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": null,
-        "cover_art_id": "539b0979-2748-46e2-8a32-7629ee152459.jpg"
+        "cover_art_id": "539b0979-2748-46e2-8a32-7629ee152459.jpg",
+        "updated_at": "2026-06-11T08:39:50+00:00"
     },
     {
         "id": "dc7281ca-add4-419f-86f2-322ef39d75d8",
@@ -106899,7 +106938,9 @@
     {
         "id": "0f35cc87-4d4f-4a66-a297-ebb74a21427a",
         "title": "Same Bed, Different Dreams",
-        "alt_titles": [],
+        "alt_titles": [
+            "Same Bed, Different Dreams"
+        ],
         "description": "Jung Hyun is a policeman and a boyfriend to someone who thinks he looks good in erotic costumes.  \r\n  \r\nBurdened by his lover’s constant request for roleplay, Hyun plans to ask Doyoon for a normal relationship. But Doyoon’s answer is…  \r\n“Can’t you wear this just once?”",
         "tags": [
             "Long Strip",
@@ -106914,7 +106955,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/comic/ep_list/shinbba_D",
-        "cover_art_id": "2e03bc49-e0f6-4fb1-bd27-67b992726923.jpg"
+        "cover_art_id": "2e03bc49-e0f6-4fb1-bd27-67b992726923.jpg",
+        "updated_at": "2026-06-11T08:38:45+00:00"
     },
     {
         "id": "fca41209-7807-446e-909a-40ba8dbe0818",
@@ -114239,7 +114281,7 @@
         "id": "6737f7c1-fa30-4a22-9f83-d56f2ac9aeeb",
         "title": "Guiding Him Patiently",
         "alt_titles": [
-            "循循善诱"
+            "Guiding Him Patiently"
         ],
         "description": "Fashion stylist Ji Xun, who travels through ancient times, expects to marry a rich and beautiful woman and reach the pinnacle of his life, but instead he is targeted by a man who stares him down! Is all this a bad debt in this life or an unresolved bond from his past life?",
         "tags": [
@@ -114256,7 +114298,8 @@
         "rating": "safe",
         "official_en_link": "https://m.wecomics.com/comic/index/id/1197?id=1197",
         "raw_link": "https://ac.qq.com/Comic/comicInfo/id/648096",
-        "cover_art_id": "17e58fd2-7334-42d1-9793-e56715e33ebe.jpg"
+        "cover_art_id": "17e58fd2-7334-42d1-9793-e56715e33ebe.jpg",
+        "updated_at": "2026-06-11T08:27:31+00:00"
     },
     {
         "id": "bc2b6c7e-d97a-4c3c-abd1-df9f3d5112bf",
@@ -124972,7 +125015,9 @@
     {
         "id": "4ab8e659-c359-43ba-a5e9-5bf75a78e4b8",
         "title": "A Grand Ambition",
-        "alt_titles": [],
+        "alt_titles": [
+            "A Grand Ambition"
+        ],
         "description": "The most handsome man, Junho, appears in front of Yoonsu, the president of a tailor shop, whose dream is to dress the world’s handsomest men in suits. Please be my model!!!",
         "tags": [
             "Long Strip",
@@ -124987,7 +125032,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/comic/ep_list/aspiration/",
-        "cover_art_id": "9c77438c-a8d2-43fe-b4d6-1321d66637b6.jpg"
+        "cover_art_id": "9c77438c-a8d2-43fe-b4d6-1321d66637b6.jpg",
+        "updated_at": "2026-06-11T08:43:13+00:00"
     },
     {
         "id": "85de9508-1607-41ec-9843-abf4aa7853fe",
@@ -131691,7 +131737,7 @@
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=703847",
         "cover_art_id": "e0e55e00-d718-43ed-bb22-425899b9299f.png",
-        "updated_at": "2026-03-02T17:03:53+00:00"
+        "updated_at": "2026-06-14T22:02:46+00:00"
     },
     {
         "id": "1fdfa04e-b88b-48d8-9a30-9f8393447dae",
@@ -135971,7 +136017,7 @@
     },
     {
         "id": "a48921a9-1c3d-4c4e-8a63-f03199210136",
-        "title": "Zìzuò Duōqíng",
+        "title": "FALSA ILUSIÓN",
         "alt_titles": [],
         "description": "Dos personas que se desprecian mutuamente pero creen que son extremadamente atractivas, al mismo tiempo piensan que la otra se ha enamorado de ellas, y en una serie de malentendidos, se ven profundamente atrapadas, incapaces de separarse.",
         "tags": [
@@ -135989,7 +136035,7 @@
         "official_en_link": null,
         "raw_link": "https://weibo.cn/u/2447895282?luicode=10000011&lfid=1076035347832569#&video",
         "cover_art_id": "5b15d421-031c-4d64-9de5-9650349a8bd9.jpg",
-        "updated_at": "2026-05-20T15:57:52+00:00"
+        "updated_at": "2026-06-10T21:43:54+00:00"
     },
     {
         "id": "18686c96-bba8-45bd-8a6e-b4203085b96b",
@@ -137823,13 +137869,13 @@
             "Vampires",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2025,
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/26760/",
         "cover_art_id": "dc91b05b-db32-4c3f-9abc-30f2a6a2e9da.png",
-        "updated_at": "2026-05-20T15:55:40+00:00"
+        "updated_at": "2026-06-13T08:08:59+00:00"
     },
     {
         "id": "16a13904-0a16-4a99-b820-9bf1e37bce2c",
@@ -140366,21 +140412,23 @@
         "alt_titles": [
             "The Scandal Maker Has Returned"
         ],
-        "description": "“You know it, Uncle. That I’m not the ‘Scandal Maker.'”\n\nFramed for her cousin Bella’s crimes, labeled a “Scandal Maker” and branded a “thief” who coveted a duke’s belongings — all that was left for Harriet Lysterwell was a ruined name and a life stained by false infamy. But the moment she discovers that behind every one of those tragedies was Bella’s chilling smile, she makes a decision:\n\nShe will become the real Scandal Maker.",
+        "description": "They call Harriet Listerwell the Scandal Maker, but the reputation was carefully crafted by her cousin Bella. At an imperial banquet, another of Bella’s schemes unfolds—framing Harriet in a way which insults the handsome and formidable Duke Cedric Kailas. Disgraced, Harriet is sent to a convent. In exile, she discovers a troubling truth: Bella’s family may have been behind the death of her parents. Now Harriet is returning to the glittering society that condemned her. The Scandal Maker is back—and this time, she intends to live up to the name.",
         "tags": [
             "Long Strip",
             "Romance",
             "Drama",
             "Fantasy",
+            "Web Comic",
+            "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webtoons.com/en/romance/the-scandal-maker-has-returned/list?title_no=10201",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=849277",
         "cover_art_id": "9cbd5b97-108d-4786-babe-00cb38f6047f.jpg",
-        "updated_at": "2026-05-14T16:12:23+00:00"
+        "updated_at": "2026-06-11T04:58:46+00:00"
     },
     {
         "id": "2b4d30da-29b2-47a3-a3e4-b0fd4fdc7e1c",
@@ -142362,6 +142410,7 @@
         "id": "c6bf25fd-4262-46cc-a784-fd2c2314e0c5",
         "title": "Got Dropped into a Ghost Story, Still Gotta Work",
         "alt_titles": [
+            "Got Dropped into a Ghost Story, Still Gotta Work",
             "Even if I fall into a ghost story, I still have to go to work"
         ],
         "description": "I sacrificed my precious vacation to attend a pop-up event of “a certain modern fantasy” I loved so much.\n\nAnd on that very day, I got transported into that fantasy world.\nAs none other than a newly hired employee at a renowned major corporation!\n\nA dream workplace with tons of benefits, a high salary, and kind, competent supervisors.\n\nUsing my knowledge of the world, I quickly climb the corporate ladder!\n\nBut am I happy, you ask?\n\nPlease, let me go back home.",
@@ -142387,7 +142436,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69229506",
         "cover_art_id": "c1bea0a9-c10d-47e1-b90e-047f4daabb88.jpg",
-        "updated_at": "2026-06-07T23:23:14+00:00"
+        "updated_at": "2026-06-12T13:52:11+00:00"
     },
     {
         "id": "370814ca-d833-4207-882b-feba32518161",
@@ -142587,14 +142636,20 @@
             "The Reason You Like Yanderes"
         ],
         "description": "",
-        "tags": [],
+        "tags": [
+            "Oneshot",
+            "Psychological",
+            "Romance",
+            "Self-Published",
+            "Web Comic"
+        ],
         "status": "completed",
         "year": 2026,
         "rating": "suggestive",
         "official_en_link": null,
         "raw_link": "https://www.pixiv.net/artworks/143134367",
         "cover_art_id": "9598d58d-c5fa-4d3b-8de2-72b6c2f792f7.png",
-        "updated_at": "2026-06-07T08:34:34+00:00"
+        "updated_at": "2026-06-08T06:17:32+00:00"
     },
     {
         "id": "29c5d87e-9abc-463c-9006-af97d35fb995",
@@ -143066,5 +143121,607 @@
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=848884",
         "cover_art_id": "b7fce046-2edb-4ce5-abe9-1f65f7dd194d.jpg",
         "updated_at": "2026-06-01T07:41:14+00:00"
+    },
+    {
+        "id": "e61b532b-841f-44fc-8738-8a9b0ba13224",
+        "title": "One Coin Closer to Holiness",
+        "alt_titles": [
+            "I Will Buy Divine Power With Money!"
+        ],
+        "description": "When a former detective wakes up as Ordelle Kyris, the villainess and fake saint of the novel \"Idella the Holy,\" she is entrusted with the task of saving the Sun God and this world from disappearing forever. However, being a fake, her divine power is close to nothing. And the only way to increase it is... money! From securing rich followers to starting a new business, Ordelle strives to gather funds and gain more power. Will this fake yet fiery saint successfully climb the ladder of holiness?",
+        "tags": [
+            "Reincarnation",
+            "Long Strip",
+            "Romance",
+            "Fantasy",
+            "Villainess",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": "https://tapas.io/series/one-coin-closer-to-holiness/info",
+        "raw_link": "https://page.kakao.com/content/66803639",
+        "cover_art_id": "92bb86d9-b586-4fb0-8a99-3766219c8b6c.jpg",
+        "updated_at": "2026-06-15T03:22:25+00:00"
+    },
+    {
+        "id": "ef105a86-4b7e-4ac4-b45c-b7d83b8f5b5e",
+        "title": "Teto X Egen",
+        "alt_titles": [],
+        "description": "Haeseon, a driven \"Teto girl\" whose entire life revolves around her career, and Seonho, a quiet \"Egen guy\" who wants nothing more than to stay home with his cat.\n\nLiving in entirely different worlds, the two were like parallel lines destined never to cross. That is, until they are forced onto the same Task Force team—and to make matters worse, they discover they live right next door to each other! As their daily routines become hopelessly entangled, Seonho's \"first love\" suddenly enters the picture...!\n\nWhat will become of this chaotic, nerve-wracking, and strangely heart-fluttering romance between two complete opposites?",
+        "tags": [],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.millie.co.kr/v4/book/d33de8cd228a43af",
+        "cover_art_id": "d93f4e1d-cb32-4e8c-800c-b49263a90349.png",
+        "updated_at": "2026-06-15T02:46:28+00:00"
+    },
+    {
+        "id": "d870648b-9c7b-4efa-8ead-d721ac181c63",
+        "title": "The Story of Ishimi",
+        "alt_titles": [
+            "Ishimi's Story"
+        ],
+        "description": "",
+        "tags": [
+            "Historical",
+            "Long Strip",
+            "Boys' Love",
+            "Drama",
+            "Fantasy"
+        ],
+        "status": "completed",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.bomtoon.com/detail/storyofisimi",
+        "cover_art_id": "b4b89c43-5ff9-49b0-adb6-400f09178cde.jpg",
+        "updated_at": "2026-06-14T17:58:07+00:00"
+    },
+    {
+        "id": "7f627920-d80c-4646-a9d0-8e5628a917c1",
+        "title": "The Genius Spearman Who Doesn't Die",
+        "alt_titles": [
+            "The Genius Spearman Who Doesn't Die"
+        ],
+        "description": "In this life, I’ll be the one who rules the battlefield.” Damian, a centurion in the Baroque Kingdom’s punishment unit, dies nameless on some forgotten front at the age of thirty, regretting only one thing: “Damn it… If I’d just had one more chance, I really would’ve ruled the battlefield with these guys.” When he opens his eyes again, he’s gone back seventeen years—this time with a perfectly intact mana core that actually lets him learn magic. This time, he swears, he won’t be swept along by an age of endless war. He’ll climb higher than anyone and become the one who dominates it. Reborn in the past, Damian raises his spear toward the world and begins carving out the future he couldn’t reach before.",
+        "tags": [
+            "Reincarnation",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "31421b08-9d0a-48d3-a444-5a28c38f4849.png",
+        "updated_at": "2026-06-14T15:59:04+00:00"
+    },
+    {
+        "id": "a1b806d3-fab0-4ada-bf10-791f082e9f79",
+        "title": "The Lover who Only Exists In My Eyes",
+        "alt_titles": [
+            "The Lover who Only Exists In My Eyes"
+        ],
+        "description": "",
+        "tags": [
+            "Official Colored",
+            "Psychological",
+            "Romance",
+            "Self-Published",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/artworks/126337648",
+        "cover_art_id": "b46c1e2a-f7a4-43e1-84b9-3ab83bfd3355.jpg",
+        "updated_at": "2026-06-14T10:03:08+00:00"
+    },
+    {
+        "id": "8e7a7da7-2744-4876-8adb-9aa3af055a1b",
+        "title": "Scissor Seven: Black and White Twin Dragons 3",
+        "alt_titles": [
+            "Scissor Seven: Black and White Twin Dragons 3"
+        ],
+        "description": "Después del colapso de Mo Lang, Bai Qi se dispone a buscarlo y traerlo de vuelta a casa.",
+        "tags": [
+            "Sci-Fi",
+            "Action",
+            "Demons",
+            "Long Strip",
+            "Comedy",
+            "Mecha",
+            "Martial Arts",
+            "Adventure",
+            "Magic",
+            "Wuxia",
+            "Supernatural",
+            "Full Color",
+            "Tragedy"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "fd8e56f3-767f-4348-b602-2c2af25b02d8.jpg",
+        "updated_at": "2026-06-13T20:11:06+00:00"
+    },
+    {
+        "id": "73703e17-79cb-4557-a33b-ec688d47d86d",
+        "title": "Wu Liu Qi: Heibai Shuanglong 2",
+        "alt_titles": [
+            "Scissor Seven: Black and White Twin Dragons 2"
+        ],
+        "description": "Sequel to [Wu Liu Qi: Heibai Shuanglong](https://mangadex.org/title/757ffc27-5baf-40c3-9bad-3a1859837936)",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Crime",
+            "Adventure",
+            "Magic",
+            "Fantasy",
+            "Supernatural",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2022,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/m/detail/mc32597",
+        "cover_art_id": "545ce353-da1d-48f4-bcd5-5222095d9580.jpg",
+        "updated_at": "2026-06-13T19:51:38+00:00"
+    },
+    {
+        "id": "3105f27b-831c-42e7-a0cb-5dc1e8fd473d",
+        "title": "Tsun-Yandere",
+        "alt_titles": [
+            "Tsun-Yandere"
+        ],
+        "description": "",
+        "tags": [
+            "Oneshot",
+            "Romance",
+            "Comedy",
+            "Self-Published",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/artworks/136093088",
+        "cover_art_id": "db454ea1-481e-4022-a8cb-01f1099bb75f.jpg",
+        "updated_at": "2026-06-12T06:15:49+00:00"
+    },
+    {
+        "id": "bbbb65a4-bafa-4538-ae73-038b6de70123",
+        "title": "Master's Pet",
+        "alt_titles": [
+            "Master's Pet"
+        ],
+        "description": "When Ein is brought in to the Marquess Howard’s manor, he finds himself serving TWO masters. Unaware of the tension between the two brothers, Ein seeks out ways to be as useful as possible. As he teaches the naïve Collin during the day and gives his body to the Marquess at night, Ein will find his eagerness to serve… put to the test. While one may lay claim to his body—for now—which master will be the one to claim his heart?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Sexual Violence",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2020,
+        "rating": "erotica",
+        "official_en_link": "https://tapas.io/series/masters-pet-mature/info",
+        "raw_link": "https://ridibooks.com/books/2404001719",
+        "cover_art_id": "c19f502c-0901-4f9f-ba63-3e4c04a80883.jpg",
+        "updated_at": "2026-06-11T11:51:04+00:00"
+    },
+    {
+        "id": "bf70ab29-7c39-4f81-9c7c-624d44ea254f",
+        "title": "Gangster Champaign",
+        "alt_titles": [
+            "Gangster Champaign",
+            "Can a Gangster Leave the Gang?"
+        ],
+        "description": "Hyungwon, a member of the Viper Gang, decides to leave the gang and flee the country. He still has a long way to go, but in a weak moment, he ends up having a one-night stand with Sungjin…But who really is Sungjin?\n\n---\n- **Note:** \nPart of Bomtoon Short Story [<Gangster Champaign>](https://twitter.com/studio_Weiib/status/1410190460086149126) and the 2nd Story (Ch.6-9) on [<Lezhin>](https://www.lezhin.com/ko/comic/gayng)\n---\n- [Original Webtoon <Mr.Blue>](https://m.mrblue.com/webtoon/detail.asp?pid=wt_000049115&directview=ok&_AD=Y)\n- [Original Webtoon <Naver>](https://series.naver.com/comic/detail.nhn?originalProductId=442500)",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Mafia",
+            "Police",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2021,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.bomtoon.com/comic/ep_list/jopok_X/",
+        "cover_art_id": "89c4838a-68b1-41b8-bb29-6d6935855c26.jpg",
+        "updated_at": "2026-06-11T08:40:20+00:00"
+    },
+    {
+        "id": "55a940e9-0780-4507-ad04-d0d139686dd2",
+        "title": "Emergency Stairway",
+        "alt_titles": [
+            "Emergency Stairway"
+        ],
+        "description": "[From Kidari Studio's Penis Navidad Collection]  \n  \nJonghyun, who works at a hotel to pay off his brother’s debt, scrapes by with just enough money to pay the private loan sharks, who also pay him visits at the hotel. He can barely stand it. Soon, Youngjin, a red-haired bully, tells him that he would help pay off his debts if he goes out with him…?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.bomtoon.com/comic/ep_list/e_stairs",
+        "cover_art_id": "83bd363e-5f67-454a-a615-b667b2f5b9af.jpg",
+        "updated_at": "2026-06-11T08:39:16+00:00"
+    },
+    {
+        "id": "7e9a30b4-5eae-411f-a9cb-fb91cf24f10f",
+        "title": "Home Five",
+        "alt_titles": [],
+        "description": "His hobby is to shop and film unboxing videos. Seo Doha, who lives in the present with the YOLO lifestyle, is in danger after being kicked out of his house in the middle of winter. Doha’s underclassman from college shows him a home-share + cafe called “HOME 5.” Seeing no reason to refuse, Doha immediately signs the contract. It’s only after signing the contract that Doha reads the name written on the contract. \n“Oh…Siwoon?” Why is he here?! This is the story of my first love and our future cohabitation!",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2022,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.lezhinus.com/en/comic/home5",
+        "cover_art_id": "13936770-bd67-4ca9-af67-735280784fda.jpg",
+        "updated_at": "2026-06-11T08:37:25+00:00"
+    },
+    {
+        "id": "fae66343-6f5d-4ecb-8363-5295e5726dc9",
+        "title": "Neo Antique Partner",
+        "alt_titles": [
+            "Neo Antique Partner",
+            "Travel Short Stories Vacation Sex"
+        ],
+        "description": "Sick of his repetitive lifestyle, Gaeul decides to go on the trip he’s been putting off due to his many fears. He arrives in Paris with an excited heart in anticipation of a new relationship, but Gaeul’s partner doesn’t show up. Tired of waiting, he goes to find his partner, but to make matters worse, he bumps into someone who takes Gaeul’s precious handkerchief as garbage…?\n\n---\n- **Note:** \nPart of Bomtoon [<Travel Short Stories Vacation Sex>](https://twitter.com/studio_Weiib/status/1471043087007105026) and the 10th Story (Ch.33-36) on [<Lezhin>](https://www.lezhin.com/ko/comic/vacationsex)",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2021,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.bomtoon.com/comic/ep_list/neoantique/?p_id=tw1652",
+        "cover_art_id": "c2146323-630b-495d-aa0b-f146173826ab.jpg",
+        "updated_at": "2026-06-11T08:37:13+00:00"
+    },
+    {
+        "id": "73a6be16-181a-4f8f-9740-497d7840b2a8",
+        "title": "Halloween Is Nothing Special",
+        "alt_titles": [
+            "Halloween Is Nothing Special",
+            "Quite The Ordinary Halloween"
+        ],
+        "description": "Halloween. It might be a special day for some, but at the same time, it might be a meaningless day for others. Jinyoung, who lost his boyfriend, Eunchan, 3 years ago, spends his Halloween in the least special way possible. No wait, he was trying to spend it that way.\nSo why did the dead Eunchan suddenly appear next to him after all this time?",
+        "tags": [
+            "Ghosts",
+            "Long Strip",
+            "Boys' Love",
+            "Fantasy",
+            "Web Comic",
+            "Supernatural",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2021,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.bomtoon.com/comic/ep_list/nospecialH/",
+        "cover_art_id": "bcec5886-a5fe-4e30-896d-7ab06a783af3.png",
+        "updated_at": "2026-06-11T08:34:58+00:00"
+    },
+    {
+        "id": "f8a3925d-0b62-4c8a-b9cc-25fe5890bfec",
+        "title": "Starry Night",
+        "alt_titles": [
+            "Starry Night"
+        ],
+        "description": "Chi Xing, who was nicknamed, “star of calamity”, would run into all sorts of bad luck every day. But after he met the arrogant, antisocial, Ling Ye, who had deformed legs, he unexpectedly discovered that his suffering physique improved. Whenever he was with Ling Ye, he could turn danger into safety, and Ling Ye’s gaze always made Chi Xing feel like they had met before, a feeling of familiarness. They both don’t know that their common past of suffering and agony would cause them to be tangled up together……",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Drama",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2020,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://ac.qq.com/Comic/comicInfo/id/648268",
+        "cover_art_id": "d666efab-c2fe-4c36-90b2-82dce87459fd.jpg",
+        "updated_at": "2026-06-11T08:34:32+00:00"
+    },
+    {
+        "id": "fad4585f-7325-4f8f-979c-470d5e33e142",
+        "title": "A Very Fine Cotton Candy",
+        "alt_titles": [
+            "A Very Fine Cotton Candy",
+            "A Tiny Bit of Cotton Candy"
+        ],
+        "description": "“How can someone not fall in love?”\n\nYohan, a 9-year-old rescued with the help of Sungjin, a high school student passing by. As a result, their relationship continued as Yohan’s family sponsored Sungjin. Yohan gives his heart to Sungjin who stood by his side.\n\nYohan and Sungjin, who became lovers over the time.\n\nYohan tries his best to become a great, competent, handsome, friendly, and mature lover who’s not an embarrassment to Sungjin... But, sometimes, he reaches his limit…",
+        "tags": [
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Crime",
+            "Mafia",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2021,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "7064549c-2023-4477-8668-7b674b26dcbc.jpg",
+        "updated_at": "2026-06-11T08:32:44+00:00"
+    },
+    {
+        "id": "11626d3c-f096-4d54-ab6e-362dd32c61e0",
+        "title": "Antidote",
+        "alt_titles": [
+            "Antidote"
+        ],
+        "description": "A good-for-nothing young master without a single redeeming feature is driven out of his house by his family with nothing but the clothes he has on. A street thug with a dark childhood who is plagued with a mental illness. A fight at the dumpster started a no discord, no concord* destiny between Cheng Ke, the young master who has an extreme disability in living and taking care of himself, and Jiang Yudou, the guy who loves using brute force without reason. Ever since then, they became the only redemption in each other’s dark life.  \n  \nYou’re my antidote, and I’ll take you when I’m sick.  \n  \n(*Note: No discord, no concord is a chinese proverb that means if there is no fighting, there can be no friendship made.)",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "hiatus",
+        "year": 2020,
+        "rating": "safe",
+        "official_en_link": "https://www.bilibilicomics.com/detail/mc31?utm_source=mgd",
+        "raw_link": null,
+        "cover_art_id": "924694f5-e778-48a4-b7d1-9ecfa1dd709f.jpg",
+        "updated_at": "2026-06-11T08:28:28+00:00"
+    },
+    {
+        "id": "67476afe-013c-4fb1-8fc4-ef16a7b95ff6",
+        "title": "Poison Antidote",
+        "alt_titles": [
+            "Poison Antidote"
+        ],
+        "description": "A dangerous journey gave Gu Ming the chance to meet the warm light that once existed in his heart -- Li Shuo. But now known as Wei San, he has already lost all memories about Gu Ming and is now an assassin. Does mutual destruction or mutual redemption await the two... A world ravaged by a mysterious organization, and a chaotic city filled with violence and madness. For the sake of revenge, and for the sake of saving Li Shuo from a cruel fate, Gu Ming will have no hesitation, even if he has to fall into a deep swamp of darkness.",
+        "tags": [
+            "Action",
+            "Romance",
+            "Boys' Love",
+            "Crime"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://ac.qq.com/Comic/comicInfo/id/650556",
+        "cover_art_id": "32add76f-f105-4ce4-8fff-0768d8b1baf0.jpg",
+        "updated_at": "2026-06-11T08:24:09+00:00"
+    },
+    {
+        "id": "393b0cdb-75a4-4f4a-a7ad-7f62333f7aa5",
+        "title": "Sissy",
+        "alt_titles": [
+            "Sissy"
+        ],
+        "description": "Paranoid and scumbag top x Gentle and feeble bottom. Since young, Li Chengxiu has already gotten his fill of all the bitterness life could offer. And now, he longs to be loved. Shao Qun is the heir of his impressive and wealthy family. His stubborn, boisterous, and unruly personality was on full display during his high school years. It all started from him getting close to him out of curiosity. From bullying him to being attracted to him. Those unripened and inexperienced feelings occurred at the wrong time, destined to hurt. Although originally wishing to ditch the past and start from scratch, they meet each other once again. Will their reencounter be the beginning of happiness or the continuation of pain?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2021,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/11036/",
+        "cover_art_id": "af1dc1b1-c9d7-497f-83f7-10b330bbac51.jpg",
+        "updated_at": "2026-06-11T08:23:12+00:00"
+    },
+    {
+        "id": "f4363697-c13e-40c4-9379-c19294065131",
+        "title": "Pick Me, Darling!",
+        "alt_titles": [],
+        "description": "“What’s there to think about? I’ll just have them all!!”   \nDrinking after witnessing his boyfriend cheating on him, Yejun drunkenly runs into a telephone pole with a flyer stating it’ll grant a wish attached to it. He wishes for a gentle guy, a rich, good looking guy, and every other type of guy.   \nFrom that day on, he gets strangely involved with the men around him..?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "c7e20f54-91c4-4a56-bb2f-dbe17cbc9e99.png",
+        "updated_at": "2026-06-11T08:22:19+00:00"
+    },
+    {
+        "id": "756a3083-dedd-46e6-83f1-b11231568bfe",
+        "title": "BL's Standard",
+        "alt_titles": [
+            "BL's Standard"
+        ],
+        "description": "“Back then… Do you remember?”  \nLee Sihyun transfers schools on a warm spring day. But he bumps into “that guy” he didn't want to see!",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "da8bf757-0027-4212-adb8-575f316f79d8.jpg",
+        "updated_at": "2026-06-11T08:21:30+00:00"
+    },
+    {
+        "id": "feb9c041-6748-4668-a799-16bac63bd361",
+        "title": "How to Hate Mate",
+        "alt_titles": [
+            "How to Hate Mate"
+        ],
+        "description": "Everyone’s twenties are sprinkled with regrets, but Subin’s is spent stumbling from one mistake to the next. He gets drunk, comes out of the closet and clumsily confesses his feelings to his straight roommate all in one night.   \nIt takes two years, but he starts to pull his life together. That is, until his old roommate, Hyunwoo, returns from the military.",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://page.kakao.com/home?seriesId=59604421",
+        "cover_art_id": "1aec6bf9-5f22-436b-9ead-2b93d2d0343f.jpg",
+        "updated_at": "2026-06-11T08:18:36+00:00"
+    },
+    {
+        "id": "507eeb57-e212-4111-814e-2d71c5daf47b",
+        "title": "Butterfly Trap",
+        "alt_titles": [
+            "Butterfly Trap",
+            "Hudie Xianjing"
+        ],
+        "description": "Ling Feng is a true winner in life. Money, status, friends; he has it all. But on the very day he’s about to reach the peak of his life at 27, he suddenly finds himself in a parallel world, reduced to a miserable bottom-dweller of society... and even becomes a murderer?!\n\nJust as he hits rock bottom, he receives a mysterious time-travel app from who-knows-where, asking him:\n\n“Do you want to return to the life you were meant to live?”",
+        "tags": [
+            "Sci-Fi",
+            "Time Travel",
+            "Long Strip",
+            "Drama",
+            "Horror",
+            "Fantasy",
+            "Supernatural",
+            "Mystery"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/m/detail/mc36541",
+        "cover_art_id": "8657a4e8-f3cc-407e-804e-4d56c3a4e333.png",
+        "updated_at": "2026-06-10T15:38:42+00:00"
+    },
+    {
+        "id": "df78dccf-f311-4ad8-a9c1-221a772da352",
+        "title": "How to Create Happiness",
+        "alt_titles": [
+            "How to Create Happiness",
+            "How to Make Happiness",
+            "To Make You Happy"
+        ],
+        "description": "College student Soshin Kang has made a deal with the devil. When poverty and violent loan sharks force Soshin to take up an offer from Aram, Soshin’s high school friend-turned-bully, to live in Aram’s lavish house with all expenses paid, it seems like a dream come true. Although Aram appears sweet and gentle, in reality, she is a cold, manipulative stalker who is obsessed with Soshin and will stop at nothing to keep her to herself. As people around her begin to get hurt, Soshin finds herself in a race against time to uncover the truth and escape Aram’s grasp.",
+        "tags": [
+            "Psychological",
+            "Long Strip",
+            "Romance",
+            "Girls' Love",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2021,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/thriller/to-make-you-happy/list?title_no=5180",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=784840",
+        "cover_art_id": "a6e1097b-9510-4a1e-8bd8-3053ce663046.jpg",
+        "updated_at": "2026-06-10T08:02:38+00:00"
+    },
+    {
+        "id": "ad25b2d6-a189-4cfd-a9e8-a11df20b0c19",
+        "title": "Donut and Circus",
+        "alt_titles": [
+            "Donut and Circus"
+        ],
+        "description": "Welcome to the Cake Circus! The circus is leaving for another performance today. Donut wants to get on stage, but what if he messes up? Donut has a long way to go! Will he be able to finish the performance safely?",
+        "tags": [
+            "Thriller",
+            "Animals",
+            "Long Strip",
+            "Crime",
+            "Post-Apocalyptic",
+            "Drama",
+            "Mystery",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=844787",
+        "cover_art_id": "79bfe4de-a2cd-4210-919e-5fddd0759b96.jpg",
+        "updated_at": "2026-06-09T22:37:27+00:00"
+    },
+    {
+        "id": "eafbbdd3-ab64-4a6f-a08b-bf3855350c2f",
+        "title": "Senpai-chan's a Man?!",
+        "alt_titles": [
+            "Senpai-chan's a Man?!"
+        ],
+        "description": "Senpai-chan, who looks like a girl, is not only a man, but also seems like an airhead...?!\n\n(Source: Bilibili, edited)",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Office Workers",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc40584",
+        "cover_art_id": "e3b3a9e1-9e00-4d62-97c3-754c3cf23ecb.png",
+        "updated_at": "2026-06-09T22:31:11+00:00"
     }
 ]
