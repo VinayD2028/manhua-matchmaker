@@ -10527,13 +10527,13 @@
             "Slice of Life",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2020,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webtoons.com/en/romance/yeonwoos-innocence/list?title_no=7180",
         "raw_link": "https://comic.naver.com/webtoon/list.nhn?titleId=752532",
         "cover_art_id": "ca42c3bb-f062-4c99-9f81-b6dd2b2cdb10.jpg",
-        "updated_at": "2026-04-23T17:39:12+00:00"
+        "updated_at": "2026-06-15T15:09:24+00:00"
     },
     {
         "id": "1596722b-bd80-431c-9721-96458dde8a4c",
@@ -24593,7 +24593,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/royal-marriage/info",
         "raw_link": "https://page.kakao.com/home?seriesId=59624189",
-        "cover_art_id": "684516e4-0111-4933-827f-dfc906ffdb17.jpg"
+        "cover_art_id": "684516e4-0111-4933-827f-dfc906ffdb17.jpg",
+        "updated_at": "2026-06-21T13:06:47+00:00"
     },
     {
         "id": "213310fb-c046-416f-9b07-c1d0442eb198",
@@ -33618,12 +33619,13 @@
             "Supernatural",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2022,
         "rating": "suggestive",
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc32425",
-        "cover_art_id": "7ba50291-6162-4ae4-8116-ff69f227b4f4.jpg"
+        "cover_art_id": "7ba50291-6162-4ae4-8116-ff69f227b4f4.jpg",
+        "updated_at": "2026-06-17T02:50:36+00:00"
     },
     {
         "id": "d76d1db5-3488-4f1b-a5e1-10288056e531",
@@ -49639,10 +49641,8 @@
     },
     {
         "id": "67f7d17a-d448-411d-ab6a-5649b3ebe7f0",
-        "title": "Myth of Chinese Monsters",
+        "title": "Non-Human",
         "alt_titles": [
-            "Myth of Chinese Monsters",
-            "No God No Human",
             "Non-Human"
         ],
         "description": "Chinese Mythical Beasts living in modern China.",
@@ -49667,7 +49667,7 @@
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/531/",
         "cover_art_id": "347ca1fd-1b24-4a34-a38a-3ff88a1113bb.jpg",
-        "updated_at": "2026-05-12T02:08:34+00:00"
+        "updated_at": "2026-06-16T13:50:14+00:00"
     },
     {
         "id": "72fe7dfa-d428-436a-a926-3a241d4e3e8d",
@@ -50642,28 +50642,32 @@
     },
     {
         "id": "705c1e78-db1d-47af-98d4-f8d0b5ce24c3",
-        "title": "The Villainous Sister Hides Her Wealth",
+        "title": "Why Yuria Hid Her Wealth",
         "alt_titles": [
+            "The Villainous Sister Hides Her Wealth",
             "The Villainess Hides Her Wealth"
         ],
         "description": "I've become the villainess older sister who, out of jealousy for the heroine, committed evil deeds and faced ruin. But I only realized this was a novel world after I'd already done all those bad things.\n\n'Is it worth groveling to these people?'\n\nMy father who only expects understanding and sympathy from me, my brother who only cares for my half-sister, and the male leads who are hostile towards me—I'm sick of them all.\n\nFor complete independence, now is the time to... hide my money!\n\n\"Did you hear? The Empire's economic journal just updated their list of the '10 people who control the Empire's economy'!\"\n\"And the number one is Lady Primrose!\"\n\"Oh my, so how rich is she?\"\n\nOne day, the business I'd been hiding due to my villainess image was revealed. But people's reactions were strange.\n\n\"Family ties are something you can't cut off, no matter how much you hate it.\"\n\"I don't know either. Why I came to you instead of Lilika.\"\n\"Is it so hard to give me just one chance?\"\n\nIt was ridiculous that the love I had longed for only came after I had given up on it.\nAnd their belief that I would willingly take their hands was arrogant to the end.\n\n\"Go away.\"\n\nTo the men who asked to be partners, I replied with a bright smile.",
         "tags": [
             "Reincarnation",
+            "Time Travel",
             "Long Strip",
             "Romance",
             "Isekai",
             "Drama",
             "Fantasy",
             "Villainess",
+            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2024,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/why-yuria-hid-her-wealth/info",
         "raw_link": "https://page.kakao.com/content/65666421",
-        "cover_art_id": "c5aa275b-282d-46f6-be88-ebab5a8568cc.jpg"
+        "cover_art_id": "1f535fab-a374-4eac-b141-570c69794a1b.jpg",
+        "updated_at": "2026-06-20T22:06:43+00:00"
     },
     {
         "id": "cb91d3f8-ac79-42a7-b1f1-232a2b34b3c8",
@@ -71971,12 +71975,13 @@
             "Long Strip",
             "Adaptation"
         ],
-        "status": "hiatus",
+        "status": "ongoing",
         "year": 2024,
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/action/why-i-quit-being-the-demon-king/list?title_no=6408",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=820897",
-        "cover_art_id": "b165b62b-7729-4a93-8a74-ecca718e6443.png"
+        "cover_art_id": "47570ef2-00a5-4000-afb0-a901fb51cfe1.jpg",
+        "updated_at": "2026-06-15T17:59:21+00:00"
     },
     {
         "id": "3aba89bf-265d-46bc-b59e-433fc3dcdbce",
@@ -75436,7 +75441,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.peanutoon.com/ko/comic/detail/9166",
-        "cover_art_id": "32ead13a-208e-4e86-b032-59e448abafaa.png"
+        "cover_art_id": "32ead13a-208e-4e86-b032-59e448abafaa.png",
+        "updated_at": "2026-06-16T18:09:50+00:00"
     },
     {
         "id": "02c072ca-05d9-4c38-8c9f-0464f75e62a6",
@@ -82492,7 +82498,8 @@
         "alt_titles": [
             "Genesis of the Battle God",
             "Birth of the New Body: Yangachi",
-            "The Birth of the God of War"
+            "The Birth of the God of War",
+            "Rise of the God of War"
         ],
         "description": "In an era where mythology and reality have fused together, the powers of gods and heroes from ancient myths like those of Greece, Rome, Judea, and Egypt have descended upon the modern world of the 21st century. \n\nKen Yanagimoto, an Awakened One with physical abilities and senses far superior to those of ordinary people, has returned after five years of working as a mercenary overseas. Upon his return, he discovers that his parents have been killed and his sister has gone missing at the hands of the powerful organization Seven Star Society, which controls the political, financial, and media worlds. \n\nEnraged by the death of his parents and the disappearance of his sister, Ken vows revenge against the Seven Star Society and confronts various secret forces and injustices around the globe. \n\nAmid the grim reality of the dawn of a new era of human evolution, the story of one man who engages in mythical battles against the world begins.",
         "tags": [
@@ -82508,7 +82515,7 @@
         "official_en_link": "https://tapas.io/series/rise-of-the-god-of-war/info",
         "raw_link": "https://page.kakao.com/content/64649220",
         "cover_art_id": "b56dd55d-9560-46e3-8b5f-afcd80d6aadb.jpg",
-        "updated_at": "2026-04-23T16:30:09+00:00"
+        "updated_at": "2026-06-15T10:34:42+00:00"
     },
     {
         "id": "926a675b-110a-4764-9b29-c0247c23a3b6",
@@ -91130,12 +91137,13 @@
             "Drama",
             "Tragedy"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2018,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": null,
-        "cover_art_id": "1f8e5b5e-04e7-4a7e-a6d2-ceab896abfb9.jpg"
+        "cover_art_id": "1f8e5b5e-04e7-4a7e-a6d2-ceab896abfb9.jpg",
+        "updated_at": "2026-06-18T04:26:25+00:00"
     },
     {
         "id": "baff1fdc-676e-411b-bd56-b7b2a058cf79",
@@ -115558,16 +115566,14 @@
         "id": "c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d",
         "title": "A Thousand Petals",
         "alt_titles": [
-            "Cheongaeui Kkoch-ip"
+            "A Thousand Petals"
         ],
         "description": "An epic tale of romance like the thousand petals of a flower. The Emperor and his friend, General Jin, both lost their beloveds in the same tragedy. The tale of their children, Prince MuWon and SeulHyun, who start a friendship without knowing of each other’s true identities.\n\n---\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Seribu-Kelopak-Bunga/2116)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/83763)\n\n---\n\n- [Original Webtoon <RidiBooks>](https://ridibooks.com/books/297004915)\n\n- [Original Webtoon <Comico>](https://www.comico.kr/comic/3536)\n\n- [Original Webtoon <Mr.Blue>](https://www.mrblue.com/comic/chunf_w)\n\n- [Original Webtoon <kakao>](https://page.kakao.com/home?seriesId=46289436)\n\n- [Original Webtoon <Naver>](https://series.naver.com/comic/detail.series?productNo=1173406)\n\n- [Original Webtoon <Yes24>](http://www.yes24.com/Product/Goods/107664353)\n\n- [Original Webtoon <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=77583814)\n\n---\n\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45388856)\n\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/14287479)",
         "tags": [
             "Historical",
-            "Long Strip",
             "Romance",
             "Crossdressing",
             "Drama",
-            "Web Comic",
             "Full Color",
             "Tragedy"
         ],
@@ -115576,7 +115582,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://series.naver.com/comic/detail.series?productNo=1173406",
-        "cover_art_id": "e67ab88f-3212-434b-ae50-c032fb72d334.jpg"
+        "cover_art_id": "e67ab88f-3212-434b-ae50-c032fb72d334.jpg",
+        "updated_at": "2026-06-18T14:02:12+00:00"
     },
     {
         "id": "ff77825f-f0a2-4e34-9f3e-92c8019d515d",
@@ -132661,14 +132668,15 @@
     {
         "id": "b521f8b5-4616-4853-95c2-cadf7fadb74c",
         "title": "Once an Assassin, Now a Royal Nanny",
-        "alt_titles": [],
+        "alt_titles": [
+            "Once an Assassin, Now a Royal Nanny"
+        ],
         "description": "A year after her lover stabs her in the back, legendary assassin Kyla Angel wakes up in the body of Rachel Brown, a nanny tasked with caring for a neglected prince and princess. \n\nKnowing the man who betrayed her is still out there, Kyla must bide her time before she can sneak out of the palace and get revenge. But in the meantime, she must face her deadliest challenge yet: childcare. \n\nNow it's up to Kyla to figure out how to soothe a crying toddler with hands meant for throwing daggers and slitting throats...",
         "tags": [
             "Reincarnation",
             "Long Strip",
             "Romance",
             "Fantasy",
-            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
@@ -132676,9 +132684,9 @@
         "year": 2026,
         "rating": "safe",
         "official_en_link": "https://www.tappytoon.com/en/book/once-an-assassin-now-a-royal-nanny",
-        "raw_link": null,
-        "cover_art_id": "ef83acc1-a17d-421b-b20c-f0ae974ec41a.jpg",
-        "updated_at": "2026-04-09T19:17:36+00:00"
+        "raw_link": "https://page.kakao.com/content/63467942",
+        "cover_art_id": "9c5f7ca5-29ae-49e5-837d-9a882a17f435.jpg",
+        "updated_at": "2026-06-16T21:58:41+00:00"
     },
     {
         "id": "b56d8162-45ab-4f13-bd6d-f0f4b7e30d17",
@@ -135933,6 +135941,7 @@
         ],
         "description": "Hong Ijeong, who naturally likes people and is highly sociable, one day hears rumors about Ki Taerim, the biggest outcast in their department. With his thick glasses, messy hair, and loosely worn checkered shirt, Taerim looks exactly like a stereotypical loner. But Ijeong notices that everything he’s wearing is actually luxury brand items. Just as he decides to avoid getting involved with him at all costs, he runs into Taerim at the semester opening gathering… and somehow finds himself constantly drawn to him, taking care of him in subtle ways.\n\nFeeling uncomfortable with Ijeong’s kindness, Taerim decides to tease him after Ijeong notices a hickey on him, deliberately trying to seduce him. And Ijeong, falling for Taerim’s inexplicable charm, ends up spending the night with him…!",
         "tags": [
+            "Long Strip",
             "Romance",
             "Boys' Love",
             "Full Color"
@@ -135943,7 +135952,7 @@
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/detail/dnps_plum",
         "cover_art_id": "71d405ea-28c4-45ec-8e31-a5393646c91b.png",
-        "updated_at": "2026-04-19T15:42:39+00:00"
+        "updated_at": "2026-06-20T03:57:04+00:00"
     },
     {
         "id": "63efd165-b8d1-4abb-b99e-c7d533cad819",
@@ -138753,16 +138762,16 @@
     },
     {
         "id": "75aefd90-30af-4c9e-9adb-d4e347e8ec6b",
-        "title": "Chairman Kang, the New Employee",
+        "title": "Reborn Rookie",
         "alt_titles": [
+            "Reborn Rookie",
             "Chairman Kang, the New Employee",
-            "The New Employee Chairman Kang",
-            "Chairman Kang: The Newcomer"
+            "Chairman Kang: The Newcomer",
+            "The New Employee Chairman Kang"
         ],
-        "description": "I’m Kang Yong-ho, the Chairman of Choi Sung Group, one of South Korea’s top 10 conglomerates.\nJust when I was basking in the glory of my retirement declaration, out of the blue, a new employee fell from the sky and landed on my head. But hey, where’d my body go, and now I’ve turned into a new Employee?!\n\n“What’s this? Are you telling me to start with Excel or something?",
+        "description": "Yongho Kang, chairman of Choi Sung Group, wakes up in the body of the company’s newest recruit. Now that the seat of power is suddenly empty, his entire family starts scrambling for the position, and the group’s future looks far from secure. But Yongho isn’t about to sit back just because he’s now at the bottom of the corporate food chain. This is his company, and he’s going to save it himself. On this corporate battlefield, a newbie with a chairman’s mind is about to call the shots.",
         "tags": [
             "Long Strip",
-            "Adventure",
             "Office Workers",
             "Drama",
             "Web Comic",
@@ -138772,10 +138781,10 @@
         "status": "ongoing",
         "year": 2023,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webtoons.com/en/drama/reborn-rookie/list?title_no=10470",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=814766",
         "cover_art_id": "c5e675d7-767f-4cc5-a507-0a85100b1305.jpg",
-        "updated_at": "2026-04-23T14:38:08+00:00"
+        "updated_at": "2026-06-20T04:53:01+00:00"
     },
     {
         "id": "4075be1c-fac3-464f-9b44-3f1ad8882c57",
@@ -142186,12 +142195,14 @@
         ],
         "description": "“What the heck? Why is my body so tiny and chubby?!!”\nA 999-year-old imugi, only one year away from ascension, is unjustly killed. When they open their eyes again, they have become a one-year-old hatchling.\nWith all the memories of their past life intact, their second life begins. Experiencing unconditional love for the first time, they slowly—and then completely—melt into it.\nSurrounded by love, making companions, and expanding their world, the hatchling Rune begins a second life on the path toward becoming the dragon they could not become in their previous life!",
         "tags": [
+            "Long Strip",
             "Romance",
             "Comedy",
             "Magic",
             "Isekai",
             "Fantasy",
-            "Slice of Life"
+            "Slice of Life",
+            "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
@@ -142199,7 +142210,7 @@
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=850266",
         "cover_art_id": "60107902-5717-4140-ad5d-b9f406af0d8f.jpg",
-        "updated_at": "2026-05-31T10:09:39+00:00"
+        "updated_at": "2026-06-16T19:08:29+00:00"
     },
     {
         "id": "c8736457-f9e3-49fe-996c-e1ed0ed8bf5a",
@@ -142375,9 +142386,11 @@
         "alt_titles": [],
         "description": "Sooyoung, a firm believer in no premarital sex, is a young master from a wealthy family, a so-called third-generation chaebol. Despite facing various risky situations growing up, Sooyoung fiercely protected his beliefs. Then one day, upon returning to Korea, he falls in love at first sight with Hajun, whom he randomly meets at a  party.\nHe never intended for it to happen, but before realizing it, Sooyoung had suddenly given away his \"first time\" to Hajun. \nLike a true virgin, Sooyoung was already dreaming of a whole life with Hajun, from dating, getting married, and even having children. But the next morning, he wakes up to an empty spot beside him in bed.\nSo, Sooyoung tracks him down and, right in front of the university gates, boldly shouts… \n\"You took my first time, so now take responsibility!”\nBut to his surprise, Hajun flatly rejects him, stating that chaebols simply aren't his taste. Not into rich guys? Seriously, what’s with his taste?!?!",
         "tags": [
+            "Long Strip",
             "Romance",
             "Comedy",
-            "Boys' Love"
+            "Boys' Love",
+            "Full Color"
         ],
         "status": "completed",
         "year": 2025,
@@ -142385,7 +142398,7 @@
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/detail/manoftaste",
         "cover_art_id": "83878af4-0d65-481d-bd17-33c9809e5fae.jpg",
-        "updated_at": "2026-06-04T01:29:53+00:00"
+        "updated_at": "2026-06-15T17:15:41+00:00"
     },
     {
         "id": "1c0ba6ea-0f98-4da7-9069-0c30be7e7575",
@@ -143151,15 +143164,20 @@
         "id": "ef105a86-4b7e-4ac4-b45c-b7d83b8f5b5e",
         "title": "Teto X Egen",
         "alt_titles": [],
-        "description": "Haeseon, a driven \"Teto girl\" whose entire life revolves around her career, and Seonho, a quiet \"Egen guy\" who wants nothing more than to stay home with his cat.\n\nLiving in entirely different worlds, the two were like parallel lines destined never to cross. That is, until they are forced onto the same Task Force team—and to make matters worse, they discover they live right next door to each other! As their daily routines become hopelessly entangled, Seonho's \"first love\" suddenly enters the picture...!\n\nWhat will become of this chaotic, nerve-wracking, and strangely heart-fluttering romance between two complete opposites?",
-        "tags": [],
+        "description": "Haeseon, a driven \"Teto girl\" whose entire life revolves around her career, and Sunho, a quiet \"Egen guy\" who wants nothing more than to stay home with his cat.\n\nLiving in entirely different worlds, the two were like parallel lines destined never to cross. That is, until they are forced onto the same Task Force team—and to make matters worse, they discover they live right next door to each other! As their daily routines become hopelessly entangled, Sunho's \"first love\" suddenly enters the picture...!\n\nWhat will become of this chaotic, nerve-wracking, and strangely heart-fluttering romance between two complete opposites?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Slice of Life",
+            "Full Color"
+        ],
         "status": "ongoing",
         "year": 2026,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.millie.co.kr/v4/book/d33de8cd228a43af",
         "cover_art_id": "d93f4e1d-cb32-4e8c-800c-b49263a90349.png",
-        "updated_at": "2026-06-15T02:46:28+00:00"
+        "updated_at": "2026-06-21T01:55:31+00:00"
     },
     {
         "id": "d870648b-9c7b-4efa-8ead-d721ac181c63",
@@ -143167,7 +143185,7 @@
         "alt_titles": [
             "Ishimi's Story"
         ],
-        "description": "",
+        "description": "Content Warning: This work contains blood, violence, and graphic depictions. Reader discretion is advised.\n\nDue to human greed, the imugi* Ishimi was sealed away underground. \nWhen a mysterious child named Cheonseo stumbles into his prison and helps him regain his senses, Ishimi realizes that the boy is cursed with a cruel fate and destined to a life of one close call to death after another.\n\nIn exchange for helping Cheonseo avoid the countless brushes with death in his future, Ishimi asks for the boy's blood as payment, the only thing capable of restoring his strength. \n\nAnd… For some reason, Cheonseo accepts the dangerous deal without the slightest hesitation?\n\n*An imugi is a serpent-like creature that has yet to ascend and become a dragon.",
         "tags": [
             "Historical",
             "Long Strip",
@@ -143181,7 +143199,7 @@
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/detail/storyofisimi",
         "cover_art_id": "b4b89c43-5ff9-49b0-adb6-400f09178cde.jpg",
-        "updated_at": "2026-06-14T17:58:07+00:00"
+        "updated_at": "2026-06-22T00:05:23+00:00"
     },
     {
         "id": "7f627920-d80c-4646-a9d0-8e5628a917c1",
@@ -143723,5 +143741,439 @@
         "raw_link": "https://manga.bilibili.com/detail/mc40584",
         "cover_art_id": "e3b3a9e1-9e00-4d62-97c3-754c3cf23ecb.png",
         "updated_at": "2026-06-09T22:31:11+00:00"
+    },
+    {
+        "id": "c2792fcd-060d-4931-9115-6115d8c06cf0",
+        "title": "DOLLS Transmigration Fantasy",
+        "alt_titles": [
+            "DOLLS-穿越形态"
+        ],
+        "description": "A sudden transmigration cycle occurred, breaking the norms of a normal high school student, from that day onward, he enjoy the company of otherworlders but how he adapts to the comedic and absurd lifestyle when the impending threat of the world looms near…  \n  \n高中少年倪枫的日常生活被一连串离奇的穿越事件打破，从此他和穿越而来的人们一起过着没羞没臊的日子，但是这看似荒诞可笑的的生活却并没有那么简单，世界真正劫难正悄然临近……",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Comedy",
+            "Adventure",
+            "Self-Published",
+            "Drama",
+            "Fantasy"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "eca1a25b-76dc-4a7e-85ab-e66d842e932e.jpg",
+        "updated_at": "2026-06-22T01:21:53+00:00"
+    },
+    {
+        "id": "77bdd559-482e-44b3-8c73-cd7b615329df",
+        "title": "TS Zombie Virus",
+        "alt_titles": [
+            "TS Zombie Virus"
+        ],
+        "description": "",
+        "tags": [
+            "Oneshot",
+            "Genderswap",
+            "Comedy",
+            "Self-Published",
+            "Girls' Love"
+        ],
+        "status": "completed",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.pixiv.net/artworks/146277374",
+        "cover_art_id": "d64d1f84-7079-4f1d-809d-8742083b7b53.png",
+        "updated_at": "2026-06-21T11:21:40+00:00"
+    },
+    {
+        "id": "6a6ec826-7a96-4cf5-a4f1-dc3d4fcdd157",
+        "title": "Love Upset",
+        "alt_titles": [],
+        "description": "In the past, Ju-In, a promising baseball scout, meets high schooler Ki-Jeong, who dreams of becoming a pro player. While everyone else points out Ki-Jeong's limitations, Ju-In is the only one who recognizes his genius potential instantly and offers sincere advice to keep him from quitting. To Ki-Jeong, Ju-In was the only person in his entire life who believed in him exactly as he was.\n\n\"Ki-Jeong, your hands and feet are both bigger than mine. So you’ll grow even taller than me too.\"\n\nBut their happiness is short-lived. Without a single word, Ju-In steps down from his scouting position and vanishes completely.\n\n5 years later-\nJu-In returns to his old club under a new title as a strategic analyst manager, and there, he runs back into Ki-Jeong, who’s grown into a pro baseball player beyond recognition. Ju-In is flustered by how much Ki-Jeong has changed, yet he can't seem to look away...\n\n\"The number I couldn't get back then... can I have it now?\"\n\nTheir time, which had stood still with longing, begins to move once again on the burning mound.",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Sports",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://ridibooks.com/books/6295000001",
+        "cover_art_id": "a7da382f-968e-4bc5-a85b-2cb3648beaef.jpg",
+        "updated_at": "2026-06-20T21:11:09+00:00"
+    },
+    {
+        "id": "6f7d392a-b364-4e85-bfa2-5992f4118e1d",
+        "title": "CAUTION : FLAMMABLES",
+        "alt_titles": [
+            "No Open Flames"
+        ],
+        "description": "A burst water pipe, a massive rent hike, and a cheating boyfriend. Not a single thing is going right. On a whim, Lee-Sun brings home a man he found passed out drunk on the street and lets him sleep over. Turns out, that man is a rich underclassman from the same university department. And, he secretly has a thing for Lee-Sun...?!\n\"Are you regretting it now that we're living together and you never got to sleep with me?\"\n\"Yep.\"\nA mysterious man crashes into the everyday life of university student 'Na Lee-Sun', whose life motto is safety first!!\nA chaotic romance between a psycho beauty x a collector of absolute trash men!",
+        "tags": [
+            "Long Strip",
+            "Comedy",
+            "Boys' Love",
+            "School Life",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://ridibooks.com/books/505105784",
+        "cover_art_id": "bd915e52-5491-4299-b7a0-3a34ce1500b8.jpg",
+        "updated_at": "2026-06-20T21:07:07+00:00"
+    },
+    {
+        "id": "3407874a-3a2d-4dcf-a3ec-5de827ef84ca",
+        "title": "Pure Love Terrorism",
+        "alt_titles": [],
+        "description": "Bang! An entrance that could only be described as a disaster.'A passenger car that suddenly came charging in was enough to change Joo Ha-Nan's daily life in an instant.What he discovered inside the life-threatening accident was a man tied up from head to toe. The man he rescued in the heat of the moment was... huh? Forget crying-He had a pretty face and a suspicious attitude.'This guy... what is he?'He gives off a dangerous vibe...This man is...",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.mrblue.com/webtoon/wt_000077607",
+        "cover_art_id": "ff07419d-6ed5-4854-870c-bdaaad5dff9d.jpg",
+        "updated_at": "2026-06-20T20:55:15+00:00"
+    },
+    {
+        "id": "f81e9315-fc62-4be6-8330-58e1cdd2d67a",
+        "title": "The Symbiotic Relationship between Insomnia and Mysophobia",
+        "alt_titles": [],
+        "description": "Jin-Ha and Yeong-Jae of the group\nRunner's High are well-known enemies. One day, an incident occurs where Jin-Ha, who suffers from germophobia, pushes Yeong-Jae away onstage. Rumors about the bad blood between the members start spreading among the fans, causing a crisis right before the filming of their dormitory-style reality content...\nAfter much deliberation by the agency and their manager, Jin-Ha and Yeong-Jae end up sharing a dorm room together to prepare for the shoot!\nWill those two be okay...?!",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Music",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2025,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://ridibooks.com/books/5731000150",
+        "cover_art_id": "8047ab98-9d68-43be-a696-d06e93fe4602.png",
+        "updated_at": "2026-06-20T20:42:24+00:00"
+    },
+    {
+        "id": "dbbe8349-c526-47f6-8f48-fd642b96f473",
+        "title": "Like a Fever Dream",
+        "alt_titles": [
+            "Fever",
+            "Yeolbyeong"
+        ],
+        "description": "Myungha, cast out by his family and forced to live a lonely life as a gravekeeper, is suddenly tasked by his father with a peculiar “errand.” What seemed like a simple task brings him to none other than the estate of Grand Prince Howon, Yi Sa-hwon. In the blink of an eye, Myungha goes from being a gravekeeper to the wife of the enigmatic prince. Alone in an unfamiliar place, the only warmth Myungha can rely on comes from Sa-hwon’s kindness. Yet that kindness proves dangerous to trust, for the Sa-hwon of the night is an entirely different man...\n\n**Note:** The manhwa has a 15+ version and a 19+ version.",
+        "tags": [
+            "Historical",
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Drama",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2022,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.lezhin.es/detail/fiebre",
+        "cover_art_id": "7522e8e0-528a-4428-b3b2-6f1927146095.jpg",
+        "updated_at": "2026-06-19T20:59:46+00:00"
+    },
+    {
+        "id": "1c54c9c2-462a-4735-a1bb-a430656bb725",
+        "title": "Even If I Keep Spending, Money Keeps Piling Up",
+        "alt_titles": [
+            "Even If I Keep Spending, Money Keeps Piling Up"
+        ],
+        "description": "In an era where youth unemployment hits 1 million, Jung Jinho — jobless, zero qualifications.\n\"Come work at my company.\"\nAn unexpected offer from his own game's guild master — now a securities CEO — throws him into the real world!\nOne click of the mouse. Hundreds of millions move.\nThe legend of the mad stock genius — begins now!",
+        "tags": [
+            "Long Strip",
+            "Drama",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=851687",
+        "cover_art_id": "94285982-e4d9-436a-ac04-0d496efa5315.jpg",
+        "updated_at": "2026-06-18T23:18:48+00:00"
+    },
+    {
+        "id": "e9188a13-ae35-409f-990a-3cb698356bde",
+        "title": "Red Yaksha",
+        "alt_titles": [
+            "Red Yaksha"
+        ],
+        "description": "Before he can avenge his younger sister, the school bullies responsible for ruining her life die unexpectedly.\nRefusing to let death rob him of his revenge, Lee Seong-yul takes his own life and descends into the underworld, determined to hunt them down.\nNo matter how deep they hide in the endless layers of hell, he will chase them to the very end and make them pay for what they did to his sister.",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=850110",
+        "cover_art_id": "6a6c84a2-fdc5-498d-b3d5-d82558892c36.png",
+        "updated_at": "2026-06-18T17:44:39+00:00"
+    },
+    {
+        "id": "de5710b1-b631-41f4-8b01-6f42fdad9c41",
+        "title": "We never broke up",
+        "alt_titles": [
+            "We never broke up"
+        ],
+        "description": "Après la ruine financière de sa famille, Seo Eunha enchaîne les petits boulots pour joindre les deux bouts. Puis, un jour, dans la rue, elle tombe par hasard sur Han Wonseo, son premier amour perdu de vue depuis longtemps et son ex-petite amie. « On n’a même jamais rompu. » Wonseo s’immisce à nouveau dans la vie d’Eunha, affirmant qu’elles ne se sont jamais vraiment séparées. Bien qu’Eunha ressente un frémissement d’excitation, la réalité la rattrape vite : elle croule sous les dettes, et la peur l’empêche d’accepter l’amour de Wonseo. C’est alors qu’une nouvelle tombe comme un coup de massue : le minuscule studio d’Eunha est voué à la démolition. Elle se retrouve alors désespérément à la recherche d’un nouveau logement. Et c’est alors, presque comme si elle l’avait attendu, que Wonseo lui fait une proposition. « Tu as besoin d’argent, n’est-ce pas ? » Malgré le ressentiment, le chagrin et les sentiments enfouis, Eunha se retrouve une fois de plus entraînée dans une relation profonde et compliquée avec Wonseo.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Girls' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": null,
+        "rating": "erotica",
+        "official_en_link": "https://manta.net/en/series/we-never-broke-up-full-ver?seriesId=3813",
+        "raw_link": "https://www.bomtoon.com/detail/neverbokeup_19",
+        "cover_art_id": "1e350f2c-c18e-444e-abbd-23cc3745da32.png",
+        "updated_at": "2026-06-18T17:38:42+00:00"
+    },
+    {
+        "id": "921e672c-9b37-4e7b-9017-da67b8bbef4c",
+        "title": "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family",
+        "alt_titles": [
+            "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family"
+        ],
+        "description": "Tang So-hwa est une génie du poison qui connaît absolument tous les poisons existants sous le ciel, surnommée le \"Maître de la Dissolution de Tous les Poisons\" (Mandokhaesa). À la suite de la trahison de son mari — le chef de la famille/secte Namgoong —, sa propre famille est totalement exterminée. Seule survivante, So-hwa massacre la secte Namgoong à l'aide du poison avant de se suicider. Mais à peine a-t-elle fermé les yeux, après avoir accompli cette vengeance tant espérée, qu'elle les rouvre pour s'apercevoir qu'elle est revenue à ses 17 ans, à l'âge d'or de la secte Tang de Sichuan... ?!",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Martial Arts",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=851025",
+        "cover_art_id": "33f794b5-37ef-40a6-92f2-418e6ed2dc13.jpg",
+        "updated_at": "2026-06-18T17:23:47+00:00"
+    },
+    {
+        "id": "fa630ee8-f31a-4fd3-89ed-2e341633e53c",
+        "title": "A Match with Me",
+        "alt_titles": [
+            "A Match with Me",
+            "Let's fight",
+            "Let's play a match"
+        ],
+        "description": "Park Ki-hyun is a high school student more confident than anyone when it comes to fighting. He naturally assumed he would be the center of attention at his new school after transferring, but— “Huh, knocking someone out with a single blow was my specialty...?” The result was a single round! Faced with an overwhelming opponent, Ki-hyun’s pride shatters into pieces, but driven solely by his determination to win, he eventually steps onto the mat— Hey, let's have a match!!",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Sports",
+            "Martial Arts",
+            "School Life",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=848874",
+        "cover_art_id": "837384ff-281e-4167-9db3-57536c8e9228.png",
+        "updated_at": "2026-06-18T17:21:18+00:00"
+    },
+    {
+        "id": "0530d4b9-abfa-4a0a-9cbb-0b135a0a00b9",
+        "title": "My Wife Waited in the Wheat Fields",
+        "alt_titles": [
+            "My Wife Waited in the Wheat Fields"
+        ],
+        "description": "It was an arranged marriage, so he ran away on the very first night of their wedding. Abandoning even his name, he lived in hiding for ten years. When news of his father's death reached him, he finally returned home. There, he found the wife he had only seen once and believed had long since left. She was still as beautiful as ever.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "Fantasy",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://series.naver.com/comic/detail.series?productNo=14200331",
+        "cover_art_id": "db03dd8f-b7fa-41e8-b520-a8d2572f61b7.png",
+        "updated_at": "2026-06-18T17:18:40+00:00"
+    },
+    {
+        "id": "673b0127-465e-43fb-85fe-102f2fdff0ad",
+        "title": "Selecting a Joseon Queen",
+        "alt_titles": [],
+        "description": "Eul, the most eligible bachelor in Joseon, was ordered by the king to investigate five noble young women who had not submitted their names for the royal selection process. To find a suitable queen among them, he made a deal with Seo-gyeong, the most skilled apa (a woman who sells goods to the royal court), and they began their journey to find a queen, disguised as a married couple…",
+        "tags": [
+            "Historical",
+            "Long Strip",
+            "Romance",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2024,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=833841",
+        "cover_art_id": "3cd69708-2e85-45ed-9629-cdd80e5d76a7.jpg",
+        "updated_at": "2026-06-18T00:28:53+00:00"
+    },
+    {
+        "id": "af6ceacb-57c6-4c28-b610-eac2ebe54d19",
+        "title": "The Sword-Eating Swordmaster",
+        "alt_titles": [
+            "The Sword-Eating Swordmaster"
+        ],
+        "description": "Only a swordmaster can slay another. Arhan believed the tales of Liam Karavan, the founding father of his house, were nothing more than legend, until a deadly swordmaster slaughtered everyone dear to him. In his darkest hour, Liam comes to him as a guiding spirit, revealing the true power of their bloodline--the power to devour blades and inherit the strength and memories held within. With each sword consumed, Arhan draws one step closer to vengeance. To avenge his loved ones and restore House Karavan to its former glory, he must survive the perilous path to becoming a swordmaster.",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Fantasy",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/action/the-sword-eating-swordmaster/list?title_no=9841",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=845918",
+        "cover_art_id": "f23a8b31-7e3e-441a-8e54-b45d37fbdaf4.jpg",
+        "updated_at": "2026-06-17T22:56:29+00:00"
+    },
+    {
+        "id": "fc4b5b0b-985e-4be2-aa6b-feedf3d6432f",
+        "title": "Enough With the Flirting",
+        "alt_titles": [],
+        "description": "Rolicia Roba’s world is turned upside down when her mother tragically passes away. And not only does her long-lost father come to fetch her, but he turns out to be the renowned Count Roward. Thrust into noble society as an illegitimate child, Rolicia is determined to secure her own future without relying on her newfound father. But her cunning stepmother and selfish half-sister are standing stubbornly in her path… and so is Lockhart Caidel, the wartime savior of the second crown prince. With razor-sharp wit and a will of steel, Rolicia refuses to go down—or fall in love—without a fight!",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Fantasy",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2024,
+        "rating": "safe",
+        "official_en_link": "https://www.tappytoon.com/en/book/enough-with-the-flirting",
+        "raw_link": "https://page.kakao.com/content/67264729",
+        "cover_art_id": "b84a9491-dcfc-475e-a99d-4597224e65f6.jpg",
+        "updated_at": "2026-06-17T14:22:06+00:00"
+    },
+    {
+        "id": "0c8e9c5c-3d97-497e-952b-9e5795753af7",
+        "title": "Becoming the Obsessive Male Lead's Ex-Wife",
+        "alt_titles": [],
+        "description": "A struggling part-timer suddenly collapses at work and wakes up in the famous novel \"Pervin and Stella\" as the villainess Irwyne Liliath. To make matters worse, Irwyne's fate in the story is grim as she's condemned to execution for attempting to poison Pervin, the male lead and a highly respected duke. Desperate to survive, Irwyne is determined to win Pervin's heart. But as she grows closer to him, his feelings evolve in unexpected ways. Irwyne now faces an uncertain fate that wasn't written in the novel's pages. Will she be able to rewrite her destiny?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2023,
+        "rating": "safe",
+        "official_en_link": "https://www.tappytoon.com/en/book/becoming-the-obsessive-male-leads-ex-wife",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=813922",
+        "cover_art_id": "6cbbd751-a612-4b7c-a2eb-b13dd4368351.jpg",
+        "updated_at": "2026-06-17T14:06:08+00:00"
+    },
+    {
+        "id": "d91e438f-d858-4a8b-8855-d1f43be8513e",
+        "title": "His Majesty Is Vexed by His Handmaiden",
+        "alt_titles": [],
+        "description": "Oh, Your Majesty… Clayden A. Roccarso, the newly crowned ruler of the Empire of Roccarso, is the most sought-after bachelor in the land. With his striking looks, refined swordsmanship, and heroic victories against the monsters, he has captured the admiration of nobles and commoners alike. All but one. Emilia Valleta, his own handmaiden, remains completely unmoved by his charm, leaving him both intrigued and frustrated. Now, the young ruler must not only secure his empire, but also win the heart of the one woman who refuses to be impressed.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Fantasy",
+            "Web Comic",
+            "Adaptation",
+            "Music",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/romance/his-majesty-is-vexed-by-his-handmaiden/list?title_no=10257",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=846641",
+        "cover_art_id": "fca23f00-5404-49fa-acd9-16cc5ab24641.jpg",
+        "updated_at": "2026-06-17T13:56:39+00:00"
+    },
+    {
+        "id": "42751bc4-c046-411b-8d34-68dca266ce61",
+        "title": "Star Armor: In the Savage Beast Apocalypse",
+        "alt_titles": [
+            "Star Armor: In the Savage Beast Apocalypse",
+            "Star Armor꞉ My Great-Grandpa Feeds Me Through the Beast Apocalypse",
+            "Star Armor: Beast Apocalypse, I Survive Thanks to Great-Grandpa's Provisions"
+        ],
+        "description": "In a beast apocalypse, 14-year-old girl Song Qianqiu gets separated from her family after being attacked by ferocious beasts while searching for food. At the moment she’s about to faint from hunger, her vision blurs and a red spatial rift appears before her… This spatial rift connects to another timeline 60 years in the past, and on the other side of the rift is her great-grandfather Song Yunxiang, who begins frantically sending food through to her… (ac.qq)",
+        "tags": [
+            "Sci-Fi",
+            "Time Travel",
+            "Long Strip",
+            "Post-Apocalyptic",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://ac.qq.com/Comic/comicInfo/id/657222",
+        "cover_art_id": "ddc214bb-b1f5-43a6-9d43-2850324cf9ff.jpg",
+        "updated_at": "2026-06-17T10:29:03+00:00"
+    },
+    {
+        "id": "a121754b-1f6a-49a0-9803-f23caf2f47cb",
+        "title": "Dragon Ball Centuries",
+        "alt_titles": [],
+        "description": "Dragon Ball Centuries is a fan manga by Karoine that stars Goku Jr. after his World Tournament match against Vegeta Jr. at the end of Dragon Ball GT, it shows him facing a new threat to the Earth.",
+        "tags": [
+            "Action"
+        ],
+        "status": "cancelled",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "3180c4df-4a2d-4d91-9265-cdd311bf97f7.jpg",
+        "updated_at": "2026-06-16T12:35:31+00:00"
     }
 ]
