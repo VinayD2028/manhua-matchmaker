@@ -4845,7 +4845,7 @@
         "official_en_link": "https://www.webtoons.com/en/supernatural/unholy-blood/list?title_no=1262",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=739503",
         "cover_art_id": "b3d327d2-2c33-40ac-9c62-f85997578fae.jpg",
-        "updated_at": "2026-04-07T09:40:36+00:00"
+        "updated_at": "2026-07-11T02:11:51+00:00"
     },
     {
         "id": "931fd4fd-6c22-485e-b717-2dce335500b1",
@@ -5926,7 +5926,7 @@
         "official_en_link": "https://www.webtoons.com/en/fantasy/on-the-way-to-meet-mom/list?title_no=7525",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=834369",
         "cover_art_id": "c59932dc-ec0b-4ba0-9cd7-1a45398e38fa.jpg",
-        "updated_at": "2026-03-17T13:55:17+00:00"
+        "updated_at": "2026-07-09T14:15:06+00:00"
     },
     {
         "id": "39d875a6-5df3-4323-a2da-3a0b50af429a",
@@ -7378,12 +7378,13 @@
             "Slice of Life",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2023,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=811721&week=wed",
-        "cover_art_id": "36491ea6-2222-4f58-82f1-8714f946b736.png"
+        "cover_art_id": "36491ea6-2222-4f58-82f1-8714f946b736.png",
+        "updated_at": "2026-07-13T01:09:08+00:00"
     },
     {
         "id": "a2967217-2c07-4216-b05a-ac3302a4dd66",
@@ -8203,9 +8204,10 @@
         "status": "completed",
         "year": 2019,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webcomicsapp.com/comic/She-Is-Also-Cute-Today/5f2bd90a8c252b2eb429683d",
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/5042/",
-        "cover_art_id": "c2570507-ead4-49d8-8e8d-64cd2f1c6d68.jpg"
+        "cover_art_id": "c2570507-ead4-49d8-8e8d-64cd2f1c6d68.jpg",
+        "updated_at": "2026-07-10T23:16:35+00:00"
     },
     {
         "id": "e7d7219c-a12b-484f-b29d-6013beac61b2",
@@ -9463,7 +9465,7 @@
         "official_en_link": "https://www.webtoons.com/en/fantasy/becoming-the-monarch/list?title_no=5549",
         "raw_link": "https://page.kakao.com/content/56065304",
         "cover_art_id": "37112d36-ebe0-4e8e-ae33-f44486bfdddb.png",
-        "updated_at": "2026-03-30T13:46:23+00:00"
+        "updated_at": "2026-07-06T12:35:28+00:00"
     },
     {
         "id": "2e886d68-1fb5-423b-9d09-2af0d8e0de5d",
@@ -19961,11 +19963,11 @@
     },
     {
         "id": "dbcee2f0-2ea2-42ea-800d-7942e33840c8",
-        "title": "It's My Destiny to Be Hero's Savior",
+        "title": "The Hero's Savior",
         "alt_titles": [
             "Juingong'eui Guwonjaga Doel Unmyeong'ibnida",
-            "Juingongui Guwonjaga Doel Unmyeongimnida",
             "The Hero's Savior",
+            "It's My Destiny to Be Hero's Savior",
             "It's My Destiny to Be the Hero's Saviour",
             "I'm Destined to Be the Savior of the Male Lead",
             "Destined to Be the Savior of the Protagonist"
@@ -19987,7 +19989,7 @@
         "official_en_link": "https://tapas.io/series/the-heros-savior/info",
         "raw_link": "https://page.kakao.com/home?seriesId=59494826",
         "cover_art_id": "e6202567-2494-4694-9ad5-16957b972abc.jpg",
-        "updated_at": "2026-04-18T19:00:50+00:00"
+        "updated_at": "2026-07-12T22:11:44+00:00"
     },
     {
         "id": "93c4f21f-d732-41c0-a170-9ce3cc48e0ca",
@@ -28428,10 +28430,10 @@
         "status": "ongoing",
         "year": 2025,
         "rating": "safe",
-        "official_en_link": "https://tapas.io/series/crawling-my-way-to-the-top/",
+        "official_en_link": "https://tapas.io/series/crawling-my-way-to-the-top/info",
         "raw_link": "https://page.kakao.com/content/65858726",
-        "cover_art_id": "c21d4361-a34a-4cb2-b6d1-68aab7849e37.jpg",
-        "updated_at": "2026-03-08T23:58:10+00:00"
+        "cover_art_id": "61356382-1c3a-4e6d-b2ee-e7ab74df14e8.jpg",
+        "updated_at": "2026-07-12T22:21:50+00:00"
     },
     {
         "id": "a6a21855-c647-483f-85cf-c17b8dd0ca58",
@@ -35732,11 +35734,9 @@
     },
     {
         "id": "3584972b-745e-47f5-984e-e3438d552f9b",
-        "title": "Counterattack of the Superrich House Husband",
+        "title": "I'm Han Sanqian",
         "alt_titles": [
-            "Counterattack of the Superrich House Husband",
-            "I'm Han Sanqian",
-            "I am Han Sanqian"
+            "I'm Han Sanqian"
         ],
         "description": "Han Sanqian has been in Zuo Su's family for three years and was called the trash son-in-law because of his relatives.   \n  \nIn order to prevent his wife Su Yingxia from being humiliated by others, Han Sanqian worked secretly to become a super son-in-law and began preparing for payback.",
         "tags": [
@@ -35750,7 +35750,8 @@
         "rating": "safe",
         "official_en_link": "https://www.webcomicsapp.com/comic/Counterattack-of-the-Superrich-House-Husband/6268f0d68c252b67b20d99f3",
         "raw_link": "https://ac.qq.com/Comic/comicInfo/id/648311",
-        "cover_art_id": "febed1ef-96c9-48e6-8380-196ce9faceae.png"
+        "cover_art_id": "febed1ef-96c9-48e6-8380-196ce9faceae.png",
+        "updated_at": "2026-07-09T14:33:46+00:00"
     },
     {
         "id": "c3129d25-fe12-4b0a-b415-6ea0d2fba662",
@@ -35853,25 +35854,28 @@
     },
     {
         "id": "a5f5c315-e735-4670-83be-e8894e4097dc",
-        "title": "The Flower That Wields a Sword",
-        "alt_titles": [],
-        "description": "An empire stained with blood\n\nThat day, consumed by the cursed sword, I cut down the people I loved most with my own hands.\n\nFifteen years have passed under its curse. Now, having claimed all ten legendary swords forged by man, I made a wish upon the holy sword.\n\n\"Take me back—to the time I killed anyone.\"\n\nTime rewound to the moment before all tragedies began. And yet, the sword remained in my hand.\n\nThis time, I won't succumb in the same way. Neither the cursed sword, nor fate, nor anyone else will control me again.\n\n\"There won't be a second miracle.\nThis time, I will find happiness.\"",
+        "title": "The Sword-Bearing Flower",
+        "alt_titles": [
+            "The Flower That Wields a Sword"
+        ],
+        "description": "Echineacea Roaz is graceful, beautiful, and impeccably dressed, even on the dueling grounds. Yet beneath the lace gloves and silk hats is a deadly swordsman with a dark secret. As the Demon of the Cursed Sword, she once slaughtered all she loved, including Captain Eurien, the one man who believed in her. Granted one chance to rewrite fate, she turns back time and joins the knighthood to protect those she once failed. Can this elegant swordsman bloom anew, or will she cut everything down again?",
         "tags": [
             "Time Travel",
-            "Historical",
             "Long Strip",
             "Romance",
             "Drama",
             "Fantasy",
+            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2025,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/the-sword-bearing-flower/info",
         "raw_link": "https://page.kakao.com/content/66783957",
-        "cover_art_id": "9aaa1a24-febe-426f-9637-a061769b8bb1.jpg"
+        "cover_art_id": "ee1fcd86-e10e-44e6-bfd2-7c83f3945656.jpg",
+        "updated_at": "2026-07-12T22:08:57+00:00"
     },
     {
         "id": "8332417b-d7f1-4888-b5ea-9b807e5ca37f",
@@ -35922,6 +35926,7 @@
             "Magic",
             "Isekai",
             "Fantasy",
+            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
@@ -35930,8 +35935,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/my-daddy-hid-his-power/info",
         "raw_link": "https://page.kakao.com/content/65504205",
-        "cover_art_id": "79d15ba6-dfb3-4f1a-9f3d-97b2a49f6f1f.jpg",
-        "updated_at": "2026-02-18T16:56:32+00:00"
+        "cover_art_id": "f411ecfd-7648-4b50-80be-be1b1fe543c5.jpg",
+        "updated_at": "2026-07-09T13:28:45+00:00"
     },
     {
         "id": "6ba37a68-bc82-4030-b550-899ecd9446af",
@@ -46736,7 +46741,7 @@
         "id": "584e0599-a48c-432a-8386-436e37e90119",
         "title": "Lord of Money",
         "alt_titles": [
-            "Lodeu Obeu Meoni"
+            "Lord of Money"
         ],
         "description": "Cheon Joong Myung, the third son of the CEO of the fifth wealthiest corporation, Ji Gyoung Group.  \nAnd his assistant working under him, Seong Chang Ook.  \n  \nWhile Seong Chang Ook tried to kill Cheon Joong Myung and cover it up as an accident,  \nSeong Chang Ook was accidentally electrocuted along with his boss.  \nThat’s when they find themselves trapped in each other’s bodies…  \n  \n“You want me to become a playboy Conglomerate the world has never seen before?”  \n“I’ll be opening the doors to hell if I do this”  \n  \nThis is the start of the endless march of Cheon Joong Myung, the Lord of Money.  \n\n\n---\n\n**Links:**  \n- [Original Web Novel (Kakao)](https://page.kakao.com/content/50171772)\n- Webtoon Trailer [EN](https://youtu.be/WsGip1MSHQA) | [KOR](https://youtu.be/qSlsHgLcJSY) | [JP](https://youtu.be/z3RQFOWZGg8)",
         "tags": [
@@ -46754,9 +46759,10 @@
         "status": "ongoing",
         "year": 2020,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/lord-of-money/info",
         "raw_link": "https://page.kakao.com/home?seriesId=56237804",
-        "cover_art_id": "553a2e05-d7da-4063-9761-4f525cbf92c3.jpg"
+        "cover_art_id": "3a8dae4e-f3a3-4888-be42-a436dfe1e4ad.jpg",
+        "updated_at": "2026-07-08T14:12:31+00:00"
     },
     {
         "id": "5b5a2b50-c31f-43be-93b4-a7a5640a5f05",
@@ -59666,10 +59672,10 @@
         "status": "completed",
         "year": 2023,
         "rating": "suggestive",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/parent-teacher-conflict/info",
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/19262/",
         "cover_art_id": "3ad4a7c6-00d4-4a2b-bceb-23528322f53d.png",
-        "updated_at": "2026-03-05T01:39:17+00:00"
+        "updated_at": "2026-07-06T08:39:57+00:00"
     },
     {
         "id": "0c60a44d-c793-4a7d-8269-66afbdb2c517",
@@ -65050,7 +65056,6 @@
             "Sexual Violence",
             "Gore",
             "Drama",
-            "Web Comic",
             "Full Color"
         ],
         "status": "completed",
@@ -65058,7 +65063,8 @@
         "rating": "erotica",
         "official_en_link": "https://www.lezhinus.com/en/comic/december_en",
         "raw_link": "https://www.bomtoon.com/comic/ep_list/December/?p_id=YumGumYum",
-        "cover_art_id": "aef631d1-1145-481a-b624-cb575c66a1db.png"
+        "cover_art_id": "aef631d1-1145-481a-b624-cb575c66a1db.png",
+        "updated_at": "2026-07-12T05:42:59+00:00"
     },
     {
         "id": "87805d71-2e41-4cca-b91b-bb6833324736",
@@ -69011,7 +69017,6 @@
         "id": "fb2a5c99-f76b-4b44-aa6b-8d6c064e978c",
         "title": "Lost In Reverie",
         "alt_titles": [
-            "bái rì mèng wǒ",
             "You Are My Desire"
         ],
         "description": "The battle for the scholarship raged like wildfire. At the entrance of the school director’s office, Lin Yujing and Shen Wan came face to face.\n\nAfter exhausting their tears, the two people stared at each other blankly for three seconds before turning around in unison and leaving.\n\nShen Wan got onto his private helicopter while Lin Yujing climbed into her Rolls-Royce.\n\n–This is a story of two rich people trying their best to look poor in front of the other.",
@@ -69029,7 +69034,8 @@
         "rating": "safe",
         "official_en_link": "https://webcomicsapp.com/comic/Lost-In-Reverie/676a6cce62661d0bfa672cb2",
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/13620/",
-        "cover_art_id": "b32fe923-beb4-4d36-bfa2-73939f82eab6.jpg"
+        "cover_art_id": "b32fe923-beb4-4d36-bfa2-73939f82eab6.jpg",
+        "updated_at": "2026-07-11T18:20:37+00:00"
     },
     {
         "id": "68d98cc5-d355-4c0c-93cb-78bfdb6323d3",
@@ -82943,13 +82949,13 @@
         "title": "Cinderella's Pocket-Sized Protector",
         "alt_titles": [
             "Cinderella-neun I Metbatjwiga Deryeogamnida",
+            "The Harvest Mouse Exits the Fairytale Together with Cinderella",
+            "I, a Harvest Mouse, Will Take Cinderella Away",
             "The Harvest Mouse Leaves Together with Cinderella",
             "This Field Mouse Has Taken Cinderella",
             "This Wild Mouse Has Taken Cinderella",
             "Cinderella Is Taken Away by a Wild Mouse",
-            "I, a Field Mouse, Will Take Cinderella Away",
-            "The Harvest Mouse Exits the Fairytale Together with Cinderella",
-            "I, a Harvest Mouse, Will Take Cinderella Away"
+            "I, a Field Mouse, Will Take Cinderella Away"
         ],
         "description": "After marrying the prince, Cinderella’s “happily ever after” ends when he falls for another woman and proposes to her. A small, powerless field mouse, who dearly loves Cinderella, wishes she could smile again. Mysteriously, the mouse dies and wakes up in the past, when Cinderella was still mistreated by her stepfamily. Then comes a twist: the mouse isn’t ordinary, but a noble beastman from the prestigious Field Mouse clan. With her true identity revealed, she decides to run away with Cinderella — before the prince and his glass slipper ever show up.\n\n---\nCinderella married the prince. But she never thought that her vow of eternal love would end in just 10 years. The prince fell in love with a certain young lady at first sight, made her his mistress, and even proposed to her. 'Damn!' But she couldn't do anything for Cinderella, who was withering away day by day. Because I was, \"Click!\" a mouse! And the smallest of all mice, the lowest in the hierarchy, a field mouse. 'Fairy grandmother. I'm just a disgusting mouse. Cinderella was the one who embraced me. What I wish for is... '... I wish Cinderella could smile again.' I thought I died. When I woke up again, I was back in time. Back to Cinderella's childhood when she was being abused by her stepmother and older sisters. \n\n\"I came here on the request of the Ratson family.\"\n\nBut I wasn't really an ordinary mouse, but a beastkin of the field mouse family? My family was desperately looking for me? Then, Cinderella, run away with me! Prince, I'll take her away before you come looking for her with that glass slipper!",
         "tags": [
@@ -82967,7 +82973,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/cinderellas-pocket-sized-protector/info",
         "raw_link": "https://page.kakao.com/content/66789737",
-        "cover_art_id": "fef54ae8-e014-4808-9553-5b8ced288044.jpg"
+        "cover_art_id": "9e011489-c83f-41a7-aa85-5865d662f6d8.jpg",
+        "updated_at": "2026-07-11T05:11:47+00:00"
     },
     {
         "id": "60c328b1-98a5-402a-a163-01cf9225af65",
@@ -100448,7 +100455,8 @@
         "rating": "safe",
         "official_en_link": "https://www.tappytoon.com/en/book/all-for-my-dearest-juliet",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=829139",
-        "cover_art_id": "40cf0b98-47ba-4207-a76f-33ef11e0e47b.jpg"
+        "cover_art_id": "40cf0b98-47ba-4207-a76f-33ef11e0e47b.jpg",
+        "updated_at": "2026-07-08T15:18:50+00:00"
     },
     {
         "id": "b7e4e0ef-b678-443e-abdf-07a5a6b9e173",
@@ -104771,11 +104779,11 @@
     },
     {
         "id": "32bc225c-5026-4441-bd15-ed357a63440d",
-        "title": "Fairytale for Wizards",
+        "title": "A Fairytale for Wizards (Pre-serialization)",
         "alt_titles": [
-            "A Fairytale for Wizards",
-            "Fairy Tale for Wizards",
-            "Mabeopsareul Wihan Donghwa"
+            "A Fairytale for Wizards (Pre-serialization)",
+            "Fairy Tale for Wizards (Pre-serialization)",
+            "Fairytale for Wizards (Pre-serialization)"
         ],
         "description": "With a status of a slave, Azrael has served a noble’s whipping child. In this misery, one mysterious man comes into her life.  \n  \n“Why are you living a life like this?”  \n“Do you know me?”  \n  \nIn the three years of her life she’s forgotten, the one who gave her a name was the Wizard of the Horizon, Rhema Resht. His kindness yet lacking something, caught her attention. She wanted him to be as happy as she was.  \n  \n“The more you get to know me, misfortune will come.”  \n“I promise I won’t be miserable, Rhema. So, please teach me magic.”  \n  \n———————————————————————————————  \n  \nThis is a short webtoon to promote the light novel, \"Fairytale for Wizards!\" You could check out the English translation of the novel on tumblr or novel sharing sites.",
         "tags": [
@@ -104792,7 +104800,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": null,
-        "cover_art_id": "12012f61-e000-4b7a-a8eb-ea77afd26e2d.jpg"
+        "cover_art_id": "12012f61-e000-4b7a-a8eb-ea77afd26e2d.jpg",
+        "updated_at": "2026-07-12T22:13:57+00:00"
     },
     {
         "id": "2ab5d95a-02f2-455a-852a-43f45bc75f0f",
@@ -106844,8 +106853,10 @@
         "id": "7c3ddd1e-4c7e-4983-be12-4db0d8011d5e",
         "title": "Rookie Talent Agent Knows It All",
         "alt_titles": [
-            "1st Year Max Level Manager",
-            "Legendary Manager Returns To New Employee"
+            "1-nyeoncha Mallem Manager",
+            "1st-Year Max-Level Manager",
+            "The Legendary Manager Returns to Being a New Employee",
+            "Back as a 1st-Year Manager"
         ],
         "description": "Yoonho seems to have it all: he is the successful VP of Top Entertainment and married to an A-list celebrity. But when he’s faced with a terminal illness, the shallow people he relied upon disappear, and he’s on his deathbed filled with regret. Unexpectedly, Yoonho awakens ten years in his past as a rookie talent agent at Hoop Entertainment, the company that nurtured his career. His goal: boost his loyal circle of actor and idol contacts to reach their full potential! With a decade of experience, will Yoonho be able to set this industry right?",
         "tags": [
@@ -106866,7 +106877,7 @@
         "official_en_link": "https://tapas.io/series/rookie-talent-agent-knows-it-all/info",
         "raw_link": "https://page.kakao.com/content/57369982",
         "cover_art_id": "6442d8f4-d34c-4c7b-a241-374f309371c5.jpg",
-        "updated_at": "2026-03-19T06:04:29+00:00"
+        "updated_at": "2026-07-12T00:35:10+00:00"
     },
     {
         "id": "75cb3216-12c7-4ded-8bb7-4574a5d5fcaf",
@@ -112103,7 +112114,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/i-stole-the-tyrants-virginity/info",
         "raw_link": "https://page.kakao.com/content/62614401",
-        "cover_art_id": "0557c401-8703-462e-86fa-cf392d303fdb.jpg"
+        "cover_art_id": "0557c401-8703-462e-86fa-cf392d303fdb.jpg",
+        "updated_at": "2026-07-08T06:38:32+00:00"
     },
     {
         "id": "9d027619-d46b-4e17-b13f-ae3d9cb05cd3",
@@ -132724,7 +132736,7 @@
         "official_en_link": "https://www.tappytoon.com/en/book/once-an-assassin-now-a-royal-nanny",
         "raw_link": "https://page.kakao.com/content/63467942",
         "cover_art_id": "9c5f7ca5-29ae-49e5-837d-9a882a17f435.jpg",
-        "updated_at": "2026-06-16T21:58:41+00:00"
+        "updated_at": "2026-07-08T15:16:22+00:00"
     },
     {
         "id": "b56d8162-45ab-4f13-bd6d-f0f4b7e30d17",
@@ -134800,26 +134812,29 @@
     },
     {
         "id": "b16f47a2-0a01-41d2-b90d-76367cb28459",
-        "title": "I Only Need the Duke's Child",
+        "title": "I Only Need Our Child, Your Grace",
         "alt_titles": [
+            "I Only Need Our Child, Your Grace",
             "I Only Need the Duke's Child"
         ],
-        "description": "\"If I could go back to the past, I wouldn't love him.\"\n\nAfter her regression, her second marriage to her ex-husband was solely for the sake of the child. Unlike her previous life, where she craved love, she chose to marry him in this second life, which she obtained like a miracle, driven by the single-minded determination to reunite with her child.\n\n\"Please keep us married for just one year.\"\n\nThe price was that she would cooperate with him to uncover the secrets of the incident from ten years ago, just as he wanted. She thought they were a couple in name only, bound by a contract...\n\n\"It is not absolutely necessary to consummate the marriage on the first night—\"\n\n\"I want to.\"\n\nHe was different from her previous life.",
+        "description": "Blair Ardel was forced into a political marriage with the cold Duke Herdin Delmarque. Though she loved her husband and treasured their son, her marriage ended in betrayal when she was murdered one night. But instead of dying, Blair awakens three years in the past. Determined to reunite with her son and uncover the truth behind her murder, she agrees to marry Herdin once more, this time through a contract marriage on her own terms. As secrets, conspiracies, and feelings begin to resurface, Blair must decide whether fate can be changed… or if she is doomed to lose everything again.",
         "tags": [
             "Time Travel",
             "Long Strip",
             "Romance",
             "Drama",
             "Fantasy",
+            "Web Comic",
+            "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://www.webtoons.com/en/romance/i-only-need-our-child-your-grace/list?title_no=10336",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=849451",
         "cover_art_id": "3bf77248-33d2-410a-bfcd-e864c1860388.png",
-        "updated_at": "2026-04-11T17:12:48+00:00"
+        "updated_at": "2026-07-08T06:42:10+00:00"
     },
     {
         "id": "ddd01def-e425-4332-bee1-781c2bf77085",
@@ -137555,13 +137570,13 @@
             "Slice of Life",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2023,
         "rating": "safe",
         "official_en_link": "https://www.lezhinus.com/en/comic/moonshark",
         "raw_link": "https://ridibooks.com/books/1962121459",
         "cover_art_id": "371fe5fb-e793-49cb-836a-7542dd14923a.png",
-        "updated_at": "2026-04-26T09:30:46+00:00"
+        "updated_at": "2026-07-11T23:24:06+00:00"
     },
     {
         "id": "baf5d826-8ace-4d94-9315-a8284c4d6eb9",
@@ -139783,9 +139798,9 @@
     },
     {
         "id": "b1655d29-cd01-41ac-a7e2-a9f551c24521",
-        "title": "Sleeping Through Rain",
+        "title": "Sleeping Through the Rain",
         "alt_titles": [
-            "Sleeping Through Rain"
+            "Sleeping Through the Rain"
         ],
         "description": "You are the distant star, streaking across the zenith of my sky.\n\nAfter a failed confession in high school, Chang Le unexpectedly reunites with Song Yumian again in college, the very person she once liked. The reunion is awkward and yet tinged with quiet joy.\n\nAs they spend more time together, old feelings begin to resurface, and emotions long buried start demanding to be felt…",
         "tags": [
@@ -139803,7 +139818,7 @@
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc32455",
         "cover_art_id": "238510ee-5be3-4f32-928d-ff3858c96517.png",
-        "updated_at": "2026-05-13T04:13:56+00:00"
+        "updated_at": "2026-07-09T05:35:13+00:00"
     },
     {
         "id": "4459fcc1-510d-43ec-bcc6-0dc490adfbfe",
@@ -143819,13 +143834,13 @@
             "Self-Published",
             "Girls' Love"
         ],
-        "status": "completed",
+        "status": "ongoing",
         "year": 2026,
         "rating": "suggestive",
         "official_en_link": null,
         "raw_link": "https://www.pixiv.net/artworks/146277374",
         "cover_art_id": "d64d1f84-7079-4f1d-809d-8742083b7b53.png",
-        "updated_at": "2026-06-21T11:21:40+00:00"
+        "updated_at": "2026-07-07T18:57:53+00:00"
     },
     {
         "id": "6a6ec826-7a96-4cf5-a4f1-dc3d4fcdd157",
@@ -145810,5 +145825,424 @@
         "raw_link": "https://series.naver.com/comic/detail.series?productNo=6850092",
         "cover_art_id": "f503174c-384e-455d-930c-de40756f0d92.jpg",
         "updated_at": "2026-06-29T23:41:20+00:00"
+    },
+    {
+        "id": "eee25eb6-591b-40a4-a2aa-f4ab68169795",
+        "title": "To Hell with Being Heir, I'm going to Heal",
+        "alt_titles": [
+            "To Hell with Being Heir, I'm going to Heal"
+        ],
+        "description": "After defeating the evil that threatened the world, peace was finally restored to the world of .\nI have possessed a game that was failing, with nothing but an oxygen mask to keep it alive!\n\n\"I Don't Care About Being the Heir, I Just Want to Heal\"\n\nLion Asteri, the eldest grandson of a magic noble family that even the emperor looks down upon.\nOne day, when he went out despite his frail body……\n\nPop!\n[You have acquired Aqua Rosemary!]\n\n'Gathering herbs just by pulling them out? This place is heaven!'\n\nA world where fair compensation follows your efforts!\nWith a background that leaves nothing to be desired,\nthey want me to live as the heir of the family?\n\n\"My younger brother should be the family head. Absolutely!\"\n\nHeartwarming brotherhood and familial love!\nArmed with limitless vitality,\nLion's sweet healing life begins!",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Adventure",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://page.kakao.com/content/69613701/",
+        "cover_art_id": "6afc3977-9f16-4f5d-bef5-0e40f2e3cc23.jpg",
+        "updated_at": "2026-07-12T16:32:29+00:00"
+    },
+    {
+        "id": "86944b1a-e648-4177-a81f-1c402d3ba740",
+        "title": "Return of the Apex Player",
+        "alt_titles": [
+            "Return of the Apex Player"
+        ],
+        "description": "The world has become gamified, and people are forced into a game belonging to the gods. On Blue Star, an existence known as the “Void Abyss” appeared. Powerful guilds monopolize the upgrade materials, and top-tier players are revered as “Authority Players.” Players across the globe watch every challenge made against the Void Abyss’s lower floors, hoping to unearth the secret hidden at its very lowest level.\n\nLin Du, history’s first person to break through the 100th floor of the Void Abyss, was — just as he was about to claim his reward — personally pushed to the brink of death by his own most trusted vice-captain. As he lay on the verge of death, an existence claiming to be a “god” forced him to sign a contract.\n\nA hundred years later, Lin Du awakens in the shallow floors of the Void Abyss. His reconstructed body is detected as being only Level ‘0’ — a weakling. The tactics he once formulated have become textbook material, the teammate who betrayed him is now revered as the world’s savior, and the truth has long since been buried.",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Adventure",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc41739",
+        "cover_art_id": "5b54322e-c1b4-46fd-b270-f7823cf4add0.jpg",
+        "updated_at": "2026-07-12T14:14:16+00:00"
+    },
+    {
+        "id": "9485fa6c-1ed2-4015-88ff-af91662ec30b",
+        "title": "Overbearing School Hunk Begging Me to Turn Back",
+        "alt_titles": [
+            "Overbearing School Hunk Begging Me to Turn Back"
+        ],
+        "description": "Crazy picky school hunk X Tsundere student.\n\nLin Shuo's Love Letter Was Sent Accidentally, And Since Then The School Heartthrob, Yun Yao Ze Has Been Chasing Him, He's Very Good To Him. But he didn't expect that the devil would live inside Yun Yao Ze, chasing him just because of a bet with his teammates. Yun yao ze originally treated their relationship like a game, the end was game over, it didn't matter. But then a new student arrives at school, the transfer student follows Lin Shuo every day and calls him “baby”, he is anxious!",
+        "tags": [
+            "Long Strip",
+            "Comedy",
+            "Boys' Love",
+            "Drama",
+            "School Life",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "cancelled",
+        "year": 2022,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/17279",
+        "cover_art_id": "fc64ce20-c1b2-4adb-a40e-b54ee3ec920f.png",
+        "updated_at": "2026-07-12T14:09:09+00:00"
+    },
+    {
+        "id": "8426caa3-392d-4307-8d8c-e1430af0b845",
+        "title": "YANGSHENG XIAOXUE",
+        "alt_titles": [],
+        "description": "Yang Sheng, un oficinista urbano de 28 años, es engañado para que vuelva a su pueblo natal y organizarle una cita a ciegas. Él, que ha decidido quedarse soltero porque no puede enamorarse de mujeres, conoce a su vecino Wen Xiaoxue, un joven que sufre violencia por parte de su padre. Movido por la compasión, Yang Sheng se lo lleva de su pueblo natal. Los dos forman una familia peculiar, y a través de la comida y los pequeños momentos de la vida, van experimentando poco a poco la felicidad cotidiana. Sin embargo, las sombras de sus familias de origen siguen acosándolos sin descanso. Al mismo tiempo, a medida que Wen Xiaoxue crece, entre los dos empieza a brotar un sentimiento extraño...",
+        "tags": [
+            "Official Colored",
+            "Psychological",
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Self-Published",
+            "Office Workers",
+            "Drama",
+            "School Life",
+            "Web Comic",
+            "Slice of Life",
+            "Cooking"
+        ],
+        "status": "ongoing",
+        "year": 2022,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "e9029f36-5118-490e-a97c-d7c2c744692b.jpg",
+        "updated_at": "2026-07-12T06:22:50+00:00"
+    },
+    {
+        "id": "4d7778c2-e14c-4d2d-90d6-ad5251dfbe2f",
+        "title": "My Yandere Female Student Became My Boss",
+        "alt_titles": [
+            "My Yandere Female Student Became My Boss"
+        ],
+        "description": "Lin Shuo, la professeure tyrannique que tout le monde craint, se retrouve à rougir malgré elle lorsqu'une de ses anciennes élèves la taquine.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Girls' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc39264",
+        "cover_art_id": "6fcab883-d862-4d1d-8417-fab2f20c708a.png",
+        "updated_at": "2026-07-12T00:21:12+00:00"
+    },
+    {
+        "id": "0c3db84c-88a8-480e-830e-e5e1a0068b8a",
+        "title": "Fire Flakes",
+        "alt_titles": [
+            "Bulti",
+            "Fire Flakes"
+        ],
+        "description": "A con artist is falsely accused of setting off a bomb and as he tries to clear his name he encounters monstrous evil.\n\nThe dynamic of Bong-jun’s lifestyle and nature puts him under constant financial constraints. A habitual blackmailer, he has developed a system to scam various organizations as a means to support his stagnant life. Gaining confidence from his rather high success rate, he decides to target an affluent postnatal care center in the heart of the Gangnam district. He threatens the owner that unless $70,000 is transferred to his account within 10 minutes he will blow up the building. His plan goes awry as the building explodes killings the majority of the people inside. A confused Bong-jun retrieves the money and returns to his base only to find a Mr. Kim holding his girlfriend hostage. The police and media have already pointed the finger at Bong-jun as the culprit.\n\nThe irony of the blackmailer being blackmailed isn’t lost on Bong-jun. He becomes more and more entangled as he tries to clear his name and discovers the real reason why the building was bombed.",
+        "tags": [
+            "Thriller",
+            "Action",
+            "Psychological",
+            "Long Strip",
+            "Crime",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2016,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=772002",
+        "cover_art_id": "db64e99c-c8d6-40ac-b1f4-49b2329fbff9.jpg",
+        "updated_at": "2026-07-12T00:18:28+00:00"
+    },
+    {
+        "id": "6d29a6b1-3df3-4acd-8d24-cc3a97789583",
+        "title": "My Gorgeous Nightmare",
+        "alt_titles": [
+            "My Gorgeous Nightmare",
+            "A Beautiful Bastard",
+            "A Beautiful Disaster",
+            "A Beautiful Wreck",
+            "Pretty Trash",
+            "Pretty Scumbag"
+        ],
+        "description": "Yong-Hee, whose only dream was to live happily with the grandmother who raised her, suddenly found a scumbag calling her \"Dragon Head\" with the words, \"Dragon~! Head ! Aren't you coming over quickly ?!\" Chan-Young, who is pretty on the outside but hateful the moment he opens his mouth, uses his innate scumbag nature to turn Yong-Hee's life upside down. \"You've really messed with me.\" Yong-Hee, who was helplessly wavering, was unaware that she was about to leave, turning her back on the fresh scent of roses.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Drama",
+            "School Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=850885",
+        "cover_art_id": "812956c5-1746-4622-8c80-35b10bcfb883.jpg",
+        "updated_at": "2026-07-12T00:15:56+00:00"
+    },
+    {
+        "id": "b14ba4d0-bea7-4546-aa3e-e00b74437fb6",
+        "title": "Snake",
+        "alt_titles": [
+            "Snake"
+        ],
+        "description": "SakiHatsu R18",
+        "tags": [
+            "Romance",
+            "Anthology",
+            "Adventure",
+            "Self-Published",
+            "Girls' Love",
+            "Doujinshi",
+            "Drama",
+            "School Life",
+            "Fantasy",
+            "Monster Girls",
+            "Supernatural"
+        ],
+        "status": "completed",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://pinkblue.booth.pm/items/8485384",
+        "cover_art_id": "ebd90a17-3e84-428c-9bf5-955f74f5a1bc.png",
+        "updated_at": "2026-07-12T00:11:58+00:00"
+    },
+    {
+        "id": "a3b6d8b2-a657-4bc8-b51b-4959c6fefc92",
+        "title": "Sangsahwa",
+        "alt_titles": [],
+        "description": "",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Fantasy",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/challenge/list?titleId=838934",
+        "cover_art_id": "1608614e-e5d4-4136-8b8d-188553ec1027.png",
+        "updated_at": "2026-07-12T00:09:47+00:00"
+    },
+    {
+        "id": "6d96021e-b1c5-4833-a11b-27fadf16a09a",
+        "title": "Reincarnated as the Grand Duke’s Third Son",
+        "alt_titles": [
+            "Reincarnated as the Archduke’s Son",
+            "A Mercenary's Rebirth Among Nobles"
+        ],
+        "description": "Born at the bottom of society, Jake survives by leading Sabertooth, a mercenary group loyal to him. Yet he is ultimately betrayed and killed by the nobles he served. \n\nBut instead of death, he awakens to a new life with soft, frail hands and the title of the third son of House Valdek, the most powerful family in the empire, rivaling even the crown. Surrounded by wealth and splendor, Jake realizes he has been granted a second chance to fulfill his ambition. So he sets off, determined to rise as high as possible. \n\nLook out, world, here comes Lucian Valdek!",
+        "tags": [
+            "Reincarnation",
+            "Time Travel",
+            "Action",
+            "Long Strip",
+            "Adventure",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/action/reincarnated-as-the-grand-dukes-third-son/list?title_no=9700",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=845380",
+        "cover_art_id": "03d69077-a2dd-4259-b0df-28e9f71fe7c1.jpg",
+        "updated_at": "2026-07-10T18:20:53+00:00"
+    },
+    {
+        "id": "025edcd6-e7a1-47ce-aa1a-211cf8f3f7e5",
+        "title": "Dignity Proof",
+        "alt_titles": [],
+        "description": "Geonyeong é uma garota brilhante. Apesar de vir de uma família humilde, sua inteligência excepcional lhe permite ingressar na prestigiada Escola de Ensino Médio Pyeonghyeon.\nLá, ela conhece novos rivais e amigos. Ela enfrenta dificuldades para competir com os outros alunos privilegiados, que têm acesso a aulas particulares caras e diversos recursos educacionais.\nEm meio a esses desafios, Geonyeong está determinada a alcançar o sucesso e se tornar uma juíza. Esta é a jornada de Geonyeong para provar que, apesar das desvantagens que a vida lhe impôs, ela merece respeito e reconhecimento.",
+        "tags": [
+            "Thriller",
+            "Psychological",
+            "Drama",
+            "School Life",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=837455",
+        "cover_art_id": "41e18d9d-25e3-41ae-a6da-78fffb33befe.png",
+        "updated_at": "2026-07-10T01:36:15+00:00"
+    },
+    {
+        "id": "c12357bf-f3f4-4eb5-b99d-85b70466cbbd",
+        "title": "Magical Girl Another World Idol",
+        "alt_titles": [
+            "Magical Girls Are the Idols of This World"
+        ],
+        "description": "“Jingburguer” was having a rough time in her life to push forward her dream to become an idol and find a part time job, Since anything was going as she was expecting to, she was feeling very pessimistic about her future. Until she meets a magical poop head dog that suddenly tells her that she has been forced to sign a “Magical Girls Contract” and takes her to the “Magical World”. Now she has to defeat monsters in order to survive, but that’s not all, the dog also tells her that if she succeeds in doing her duties of purifying monsters, she will be granted one wish. However, she is not the only magical girl desperate to have her wish granted and even though purifying monsters is the usual way to get you wish granted, there is also another way of accomplish it by taking the soul of other magical girls!! “How do you expect me to fight terrifying monsters like that?!” “Why the hell is my weapon a hamburger?!! What am I going to do if other magical girls try to hunt me?! Let’s prepare to watch this thrilling story full of action and magic performed by six amazing magical girls!!",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2024,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://webtoon.kakao.com/content/마법소녀-이세계아이돌/3574",
+        "cover_art_id": "7bdc767e-2d71-4266-bcef-b207dcba054d.jpg",
+        "updated_at": "2026-07-09T14:27:56+00:00"
+    },
+    {
+        "id": "5e0a36b5-e636-4562-91f1-4e9f2bec34ff",
+        "title": "Adopting the Hero Changed the Genre",
+        "alt_titles": [],
+        "description": "Nobody understands why the wicked Belinda Blanche is giving special treatment to her child servant. They don't realize she's actually from the modern world, and her servant's the hero of her favorite childcare game! All Belinda wants is to give the hero the love he deserves, but the game keeps twisting her words to make her sound like a third-rate villain. Can Belinda beat the game and figure out how to fangirl without saying a single kind word? Or will she be forced to play the bad guy forever?",
+        "tags": [
+            "Reincarnation",
+            "Long Strip",
+            "Romance",
+            "Fantasy",
+            "Villainess",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "hiatus",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://tapas.io/series/adopting-the-hero-changed-the-genre/info",
+        "raw_link": "https://page.kakao.com/content/67759999/",
+        "cover_art_id": "064fe0a7-061d-4255-8a37-93cf435d82c3.png",
+        "updated_at": "2026-07-09T13:44:18+00:00"
+    },
+    {
+        "id": "ea12f2ab-8aa8-474d-8fa3-85a4a26e5110",
+        "title": "Wild Ranker",
+        "alt_titles": [],
+        "description": "A blinding flash of light, and his village was gone. Lowe vows to reach the floating Island of the Gods, but first, he must venture into a world ruled by a ranking system and claw his way to the top. Trained by the world’s strongest knight, he embarks on a quest to become the top ranker, battling fearsome beasts and ruthless rivals to uncover the truth and save his loved ones.",
+        "tags": [
+            "Monsters",
+            "Action",
+            "Long Strip",
+            "Adventure",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/fantasy/wild-ranker/list?title_no=8517",
+        "raw_link": "https://comic.naver.com/webtoon/list.nhn?titleId=839349",
+        "cover_art_id": "3ed6d664-85c0-4d41-940a-0735570def42.jpg",
+        "updated_at": "2026-07-09T10:28:51+00:00"
+    },
+    {
+        "id": "064b16a9-1199-4e00-a41f-cc51e44b002a",
+        "title": "Proof of Dignity",
+        "alt_titles": [
+            "Proof of Dignity"
+        ],
+        "description": "Geonyeong is a brilliant girl. Despite being underprivileged, her exceptional intellect allows her to enroll in the prestigious Pyeonghyeon High School. There, she meets new competitors and friends. She struggles to compete with all the other privileged students who have expensive lessons. Amidst these challenges, she is determined to succeed and become a judge. This is Geonyeong's journey to prove that despite the disadvantages life has dealt her, she is worthy of respect.\n\n(Source: Naver)",
+        "tags": [
+            "Thriller",
+            "Psychological",
+            "Drama",
+            "Web Comic"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/drama/proof-of-dignity/list?title_no=8211&page=1",
+        "raw_link": "https://m.comic.naver.com/webtoon/list?titleId=837455",
+        "cover_art_id": "1bb17556-5328-4b33-b65b-4afb59058d4e.jpg",
+        "updated_at": "2026-07-09T01:31:27+00:00"
+    },
+    {
+        "id": "412e907d-45df-493c-8ef6-502f6d19368d",
+        "title": "No Kissing Tonight",
+        "alt_titles": [
+            "No Kissing Tonight"
+        ],
+        "description": "Xu Jiajia and Duan Xi have been bitter rivals for over a decade, yet once night falls, they tacitly maintain a casual sexual relationship.\nAfter a heated argument, their intimate encounter unexpectedly sends Xu Jiajia back in time to Duan Xi’s innocent youth.\nSeeing the young and naive Duan Xi, Xu Jiajia decides to first seduce her, then cast her aside, forcing her into complete submission!\nPossessing the soul of a 27-year-old, she faces the brooding, sensitive 20-year-old Duan Xi.\n\n**What begins as revenge and teasing gradually reveals the other’s hidden vulnerability and pain...**\n\n(Source: Bilibili, edited)",
+        "tags": [
+            "Time Travel",
+            "Long Strip",
+            "Romance",
+            "Office Workers",
+            "Girls' Love",
+            "Drama",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc39341",
+        "cover_art_id": "071549c5-c901-4e00-842b-711901dd5467.jpg",
+        "updated_at": "2026-07-08T20:01:41+00:00"
+    },
+    {
+        "id": "6cf70f3c-0e2e-4648-a88b-63e9b07cf87e",
+        "title": "Cregikkoc",
+        "alt_titles": [
+            "Dirty flowers",
+            "Trash Flower"
+        ],
+        "description": "Due to her family's debt, Song Joo Hee is unable to live her life. By chance, she meets Kang Se Ra, a rich runaway daughter, and spends the night with her. Drawn to Se Ra's charm, Joo Hee even accepts her offer to live together",
+        "tags": [
+            "Romance",
+            "Girls' Love",
+            "Drama",
+            "Web Comic",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2024,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://series.naver.com/comic/detail.series?productNo=11256244",
+        "cover_art_id": "958e01ce-ee58-4531-b272-84b68e392449.jpg",
+        "updated_at": "2026-07-07T15:59:08+00:00"
+    },
+    {
+        "id": "c6a612d5-5a86-4e0e-a942-9d297a25776c",
+        "title": "I Got the Weakest Class, But I Rule the Calamity",
+        "alt_titles": [],
+        "description": "At his Class Advancement Ceremony, young Lin Ye awakens the weakest class of all — Summoner — and becomes a laughingstock. But at the depths of despair, he stumbles upon a rare second Class Change… transforming into a Necromancer Sovereign, activating the Undead Calamity System, and gaining calamity-tier undead servants. Thus begins his path of the strong…",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Fantasy"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/27899/?cps=box",
+        "cover_art_id": "82e16725-0902-4ae4-a372-fa83a6e7880d.jpg",
+        "updated_at": "2026-07-06T22:21:36+00:00"
     }
 ]
