@@ -3509,9 +3509,10 @@
         "status": "completed",
         "year": 2020,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://manta.net/en/series/saving-the-villain-from-the-heroine?seriesId=4220",
         "raw_link": "https://www.comico.kr/comic/222",
-        "cover_art_id": "ab13d7fc-c941-4f88-b489-47e931ebe7a4.jpg"
+        "cover_art_id": "ab13d7fc-c941-4f88-b489-47e931ebe7a4.jpg",
+        "updated_at": "2026-07-14T14:59:53+00:00"
     },
     {
         "id": "8cfccbc9-1b2a-4e90-a691-aa43be33136b",
@@ -4450,7 +4451,8 @@
         "rating": "suggestive",
         "official_en_link": "https://tapas.io/series/the-swordmasters-son/info",
         "raw_link": "https://page.kakao.com/content/59264548",
-        "cover_art_id": "3b1c5579-b65b-41e9-9851-74154ce68e02.jpg"
+        "cover_art_id": "a2a097a1-1c07-47cf-8252-2a5e8c9fea05.jpg",
+        "updated_at": "2026-07-17T18:03:32+00:00"
     },
     {
         "id": "534c1b5b-aff6-44fd-bf68-7294e6526fb3",
@@ -8785,16 +8787,17 @@
             "Isekai",
             "Fantasy",
             "Villainess",
+            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
-        "status": "hiatus",
+        "status": "completed",
         "year": 2021,
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/the-villainess-flips-the-script/info",
         "raw_link": "https://page.kakao.com/content/56934318",
         "cover_art_id": "e43d0c10-4efa-4c04-b916-bf600223c919.jpg",
-        "updated_at": "2026-06-30T21:28:52+00:00"
+        "updated_at": "2026-07-14T16:50:32+00:00"
     },
     {
         "id": "3299fab7-30eb-4ff0-bac0-cb8236fdfb74",
@@ -9987,7 +9990,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://ac.qq.com/Comic/comicInfo/id/632719",
-        "cover_art_id": "1f139562-1ad2-4004-8637-e52064f6204f.jpg"
+        "cover_art_id": "1f139562-1ad2-4004-8637-e52064f6204f.jpg",
+        "updated_at": "2026-07-16T16:34:45+00:00"
     },
     {
         "id": "a1eeca2d-8f52-4245-9e7b-07de4d23aa73",
@@ -14579,7 +14583,6 @@
             "Comedy",
             "Office Workers",
             "Girls' Love",
-            "Drama",
             "Web Comic",
             "Full Color"
         ],
@@ -14589,7 +14592,7 @@
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc32305",
         "cover_art_id": "49f6df27-0ce8-45bb-bdf9-0cab0b2b39b3.png",
-        "updated_at": "2026-02-05T06:55:17+00:00"
+        "updated_at": "2026-07-14T00:40:55+00:00"
     },
     {
         "id": "bcf927d8-52e3-4d6f-a2da-4eb37abe91c9",
@@ -14755,12 +14758,13 @@
             "Adaptation",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2020,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/55291149",
-        "cover_art_id": "02740c29-b64c-4e02-ab70-4edfd4a451a5.jpg"
+        "cover_art_id": "02740c29-b64c-4e02-ab70-4edfd4a451a5.jpg",
+        "updated_at": "2026-07-15T05:27:02+00:00"
     },
     {
         "id": "b15b9a74-75d7-4a01-9e28-85795ad210ab",
@@ -30753,19 +30757,20 @@
             "The Long Ballad",
             "Chang Ge Xing"
         ],
-        "description": "Chang An in the Tang Dynasty of China (618–907): The demon star is passing through the sky, calamity is about to befall the Tang Dynasty.  \n  \nPrincess Yongning is forced to flee the castle after her family is killed. Because she is young, she is able to pass for a boy and becomes renowned as a great military strategist. On her journey, she makes trusted allies with her skills as well as fearsome enemies while aiming to protect the Tang Dynasty and exact revenge.  \n  \n  \nOn hiatus or potentially discontinued after chapter 61 due to an ongoing conflict between the author and publisher.  \n  \n [Official Vietnamese Translation](https://bookbuy.vn/truyen-tranh/truong-ca-hanh-tap-1-p39909.html)",
+        "description": "Chang An in the Tang Dynasty of China (618–907): The demon star is passing through the sky, calamity is about to befall the Tang Dynasty.  \n  \nPrincess Yongning is forced to flee the castle after her family is killed. Because she is young, she is able to pass for a boy and becomes renowned as a great military strategist. On her journey, she makes trusted allies with her skills as well as fearsome enemies while aiming to protect the Tang Dynasty and exact revenge.  \n  \n [Official Vietnamese Translation](https://bookbuy.vn/truyen-tranh/truong-ca-hanh-tap-1-p39909.html)",
         "tags": [
             "Historical",
             "Action",
             "Adventure",
             "Drama"
         ],
-        "status": "hiatus",
+        "status": "ongoing",
         "year": 2011,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://www.u17.com/comic/14325.html",
-        "cover_art_id": "fec72742-e9d5-4ffd-938d-b77edf0e44f0.jpg"
+        "cover_art_id": "fec72742-e9d5-4ffd-938d-b77edf0e44f0.jpg",
+        "updated_at": "2026-07-16T04:25:44+00:00"
     },
     {
         "id": "939c167b-d9b3-4336-923c-f2483cee316f",
@@ -44871,12 +44876,13 @@
             "Web Comic",
             "Mystery"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2023,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": null,
-        "cover_art_id": "fcb8293b-6f93-41c6-a6b4-c7c0ef875f22.png"
+        "cover_art_id": "fcb8293b-6f93-41c6-a6b4-c7c0ef875f22.png",
+        "updated_at": "2026-07-19T10:24:25+00:00"
     },
     {
         "id": "8129c71a-7495-44de-9dba-9291b10d953d",
@@ -47110,12 +47116,13 @@
     },
     {
         "id": "26513cab-0b61-482c-aa7c-d042d4fe1914",
-        "title": "The Male Lead Is Obsessed With My Health",
+        "title": "Arelyn Is Sick and Tired",
         "alt_titles": [
-            "Namjuga Je Geongange Jipchakamnida",
+            "Arelyn Is Sick and Tired",
+            "The Male Lead Is Obsessed With My Health",
             "The Male Lead Is Unhealthily Obsessed With My Health"
         ],
-        "description": "I was reincarnated as an extra, the non-existent childhood friend of the male lead, who dies early in the novel. I can’t even avoid the time limit dead flag. That’s why I was living like this…\n\n “Why aren’t you healthy?” \n\n“I’m healthy.”\n\n “Why are you sick again? Did I allow you to be sick?” \n\nThe male lead became obsessed with my health. Oh, please, can someone get rid of this guy! — I was definitely reincarnated as an extra with no presence. But my new life is unfolding strangely. \n\n“Why are you doing this for me?”\n\n “Because I like you.” \n\nSuddenly the sunny male lead started sticking to me.. \n\n“Mom, do it for me.”\n\n “I’m a man.”\n\nAnd a handsome guardian who became my mother (gender: male)…\n\n “Hello, daughter!” \n\nEven a dad who was supposed to die appeared before me… Also.. \n\n“From today on, I’m your dad.”\n\n A suspicious human was aiming to become my dad. Why did I put myself in this undeserved situation as an extra? Can I really become healthy?",
+        "description": "The Caretakers' Council is a group of dedicated servants with only one goal: to nurse terminally ill Arelyn Halbern back to health. But Arelyn is already resigned to her fate, knowing she's simply an extra in a novel meant to die young. That is, until Crown Prince Pession Allermand takes an interest in her. Now, Pession visits Arelyn daily, nagging her to eat better, play, and be more active. With the novel's male lead lending his strength, can Arelyn finally find the will to fight her illness?",
         "tags": [
             "Reincarnation",
             "Long Strip",
@@ -47123,16 +47130,17 @@
             "Magic",
             "Isekai",
             "Fantasy",
+            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
         "status": "ongoing",
         "year": 2025,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/arelyn-is-sick-and-tired/info",
         "raw_link": "https://page.kakao.com/content/66974798",
         "cover_art_id": "3fafc778-dc3e-4baa-97fc-a205e9ac62ec.png",
-        "updated_at": "2026-05-04T18:53:15+00:00"
+        "updated_at": "2026-07-15T13:09:44+00:00"
     },
     {
         "id": "cface40c-a301-4948-9608-2ce581b154b2",
@@ -88539,10 +88547,11 @@
     },
     {
         "id": "0c607e18-525b-4688-a526-c268431785b2",
-        "title": "The Witches' Isle",
+        "title": "Witch's Island",
         "alt_titles": [
             "Manyeoga Saneun Seom",
-            "Island of Witches"
+            "Island of Witches",
+            "The Witches' Isle"
         ],
         "description": "Hannah, a tutor, receives a high paying job offer at a mansion on a remote island. \n\nThere, she meets the young and kind owner, Ian, and his younger sister, Hannah's soon-to-be student, Ailee.\n\nA tutor's fresh start working on an island. However, when strange things begin to occur at the seemingly peaceful mansion, she finds that there's more to it than meets the eye.\n\nGradually, Hannah discovers the secret between the two siblings and the island itself…\n\n※GL is included in the love triangle for this series and is being partly covered within the story.",
         "tags": [
@@ -88560,7 +88569,8 @@
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/witchs-island/info",
         "raw_link": "https://ridibooks.com/books/4977000002",
-        "cover_art_id": "c896084b-a509-41e1-9b34-b6693a15a530.png"
+        "cover_art_id": "c896084b-a509-41e1-9b34-b6693a15a530.png",
+        "updated_at": "2026-07-18T17:00:21+00:00"
     },
     {
         "id": "b5cbb4a7-e6b0-496b-8afc-e8e5a6b59782",
@@ -94528,10 +94538,11 @@
     },
     {
         "id": "ccb36376-d9b9-4138-bdbd-b81e865f8793",
-        "title": "Starry Empty Wish",
+        "title": "Wish Made by a Star",
         "alt_titles": [
             "A Wish Upon a Star",
-            "Byeori Bin Sowon"
+            "Byeori Bin Sowon",
+            "Starry Empty Wish"
         ],
         "description": "Seo Yeonji who was rejected by her childhood friend, fell asleep that night while cursing him. The next morning she woke up and acquired a weird ability to see information about the people around her.",
         "tags": [
@@ -94543,12 +94554,13 @@
             "Supernatural",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2022,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/58653097",
-        "cover_art_id": "b0faac37-bf2f-4642-a236-6ecebdd16fbc.png"
+        "cover_art_id": "b0faac37-bf2f-4642-a236-6ecebdd16fbc.png",
+        "updated_at": "2026-07-15T22:44:48+00:00"
     },
     {
         "id": "b2571bd3-ca56-4f6e-8aed-cd66e03e5130",
@@ -95096,7 +95108,7 @@
             "Jeonjeonbancheuk",
             "전전반측"
         ],
-        "description": "Gyojin mistrusts all alphas and he despises the society that makes life difficult for Omegas. He manages to find a job, but his superior is none other than Hyeono, his former classmate from middle school who was bullied because of a misunderstanding that involved him. They settled the misunderstandings, but Gyojin is now bothered because Hyeono started courting him. While trying his best to reject Hyeono, Gyojin’s senior from college, the source of his trauma of Alphas, re-appeared in his life. And this sunbae also turned out to be one of his superiors…  \n  \nFrench  \n|| Gyojin se méfie de tous les alphas et méprise la société qui rend la vie difficile aux Omégas. Il parvient à trouver un emploi, mais son supérieur n'est   \nautre que Hyeono, son ancien camarade de classe du collège qui a été intimidé à cause d'un malentendu qui le concernait. Ils ont réglé les malentendus, mais Gyojin est maintenant   \ndérangé parce que Hyeono a commencé à le courtiser. Tout en faisant de son mieux pour rejeter Hyeono, l'aîné qui est la cause du traumatisme de Gyojin sur les Alphas, réapparut   \ndans sa vie. Et ce Sunbae s'est aussi avérée être l'un de ses supérieures… (Fujoshixgirl's love Fansub ) Traduis disponible sur notre blog ! ||",
+        "description": "Gyojin mistrusts all alphas and he despises the society that makes life difficult for Omegas. He manages to find a job, but his superior is none other than Hyeono, his former classmate from middle school who was bullied because of a misunderstanding that involved him. They settled the misunderstandings, but Gyojin is now bothered because Hyeono started courting him. While trying his best to reject Hyeono, Gyojin’s senior from college, the source of his trauma of Alphas, re-appeared in his life. And this sunbae also turned out to be one of his superiors…",
         "tags": [
             "Long Strip",
             "Romance",
@@ -95110,7 +95122,8 @@
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/comic/ep_list/wwqccmr",
-        "cover_art_id": "5a1222e6-9374-42f7-8976-e987e971513b.jpg"
+        "cover_art_id": "5a1222e6-9374-42f7-8976-e987e971513b.jpg",
+        "updated_at": "2026-07-17T19:54:27+00:00"
     },
     {
         "id": "90d169e6-5415-49b4-9112-38eadd85bb2f",
@@ -135999,13 +136012,13 @@
             "Boys' Love",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2026,
         "rating": "erotica",
         "official_en_link": null,
         "raw_link": "https://www.bomtoon.com/detail/dnps_plum",
         "cover_art_id": "71d405ea-28c4-45ec-8e31-a5393646c91b.png",
-        "updated_at": "2026-06-20T03:57:04+00:00"
+        "updated_at": "2026-07-14T15:06:36+00:00"
     },
     {
         "id": "63efd165-b8d1-4abb-b99e-c7d533cad819",
@@ -139453,7 +139466,8 @@
         "description": "Joo Jae-Yeol, a 39-year-old university part-time lecturer and unknown writer, is growing increasingly anxious about his life that is not on track. One day, a death changes his life.",
         "tags": [
             "Long Strip",
-            "Drama"
+            "Drama",
+            "Full Color"
         ],
         "status": "ongoing",
         "year": 2025,
@@ -139461,7 +139475,7 @@
         "official_en_link": null,
         "raw_link": null,
         "cover_art_id": "1fef7e47-accc-48f5-aa97-9334901b7162.jpg",
-        "updated_at": "2026-05-03T06:56:24+00:00"
+        "updated_at": "2026-07-16T19:32:54+00:00"
     },
     {
         "id": "4081f28e-7540-4e87-9d6e-7b7eb432343e",
@@ -140307,7 +140321,7 @@
         "official_en_link": "https://www.lezhinus.com/en/comic/whitenight",
         "raw_link": "https://www.bomtoon.com/detail/White_Night",
         "cover_art_id": "8cd74a43-bd9f-415d-9ed9-b114014b3848.jpg",
-        "updated_at": "2026-04-28T17:05:22+00:00"
+        "updated_at": "2026-07-18T01:58:35+00:00"
     },
     {
         "id": "ac072310-bbe7-4046-8682-d7012ac5be02",
@@ -141816,7 +141830,7 @@
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/27363/?cps=box",
         "cover_art_id": "d129e71e-e7fb-45e7-8f16-1ef973d6eeb2.png",
-        "updated_at": "2026-05-23T20:22:26+00:00"
+        "updated_at": "2026-07-15T02:33:08+00:00"
     },
     {
         "id": "f6514b91-eeeb-4821-b3cd-6edc301dd421",
@@ -142503,7 +142517,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69229506",
         "cover_art_id": "c1bea0a9-c10d-47e1-b90e-047f4daabb88.jpg",
-        "updated_at": "2026-06-12T13:52:11+00:00"
+        "updated_at": "2026-07-16T19:54:13+00:00"
     },
     {
         "id": "370814ca-d833-4207-882b-feba32518161",
@@ -144274,7 +144288,9 @@
     {
         "id": "8fdf6757-9b9b-4d19-b04e-4abb5a724694",
         "title": "I'm Secretly Dating the Emperor, But I Don't Know That",
-        "alt_titles": [],
+        "alt_titles": [
+            "I'm Secretly Dating the Emperor, But I Don't Know That"
+        ],
         "description": "Mon petit ami parfait était en fait l'empereur tyrannique ?\nDans un roman romantique où un tyran belliqueux tombe amoureux d’une héroïne Sainte comme un rayon de soleil, « Carolina » se réincarne en figurante n’ayant absolument aucun rapport avec l’intrigue originale.\n\nDans la vie quotidienne de Lina, une petite citadine pour qui les heures supplémentaires du lendemain comptent plus qu’une romance, un petit ami au physique d'Apollon est soudain apparu, comme par destin…\n\n… Je ne le savais pas encore.\n\n« … Lina. Tu comptais te servir de l’empereur puis t’enfuir ? »\n\nElle était loin de se douter que son petit ami, le plus mignon et le plus adorable du monde, était l’empereur !",
         "tags": [
             "Reincarnation",
@@ -144282,15 +144298,16 @@
             "Romance",
             "Comedy",
             "Fantasy",
+            "Web Comic",
             "Full Color"
         ],
         "status": "ongoing",
-        "year": null,
+        "year": 2026,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69283472",
         "cover_art_id": "b256fe9d-e58d-4c73-8e84-8364de4afbd8.jpg",
-        "updated_at": "2026-06-28T08:12:49+00:00"
+        "updated_at": "2026-07-16T16:55:51+00:00"
     },
     {
         "id": "24764b99-e7c0-41b2-82a0-a4652da4927a",
@@ -145180,7 +145197,7 @@
         "official_en_link": null,
         "raw_link": "https://xxb.fanfannet.com/workshow/638.html",
         "cover_art_id": "d074cc97-fec9-476a-8f30-a9697150f6d2.jpg",
-        "updated_at": "2026-07-02T11:43:52+00:00"
+        "updated_at": "2026-07-16T16:42:17+00:00"
     },
     {
         "id": "a5195524-999d-491c-9304-2a8fe2440e50",
@@ -146244,5 +146261,282 @@
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/27899/?cps=box",
         "cover_art_id": "82e16725-0902-4ae4-a372-fa83a6e7880d.jpg",
         "updated_at": "2026-07-06T22:21:36+00:00"
+    },
+    {
+        "id": "fb927ae1-cfbc-4761-b672-6527bdec69b9",
+        "title": "Zombie Stage",
+        "alt_titles": [],
+        "description": "A collection of comics and official arts from the web-series ”Zombie Stage” by VIVINOS",
+        "tags": [
+            "Sci-Fi",
+            "Official Colored",
+            "Romance",
+            "Boys' Love",
+            "Zombies",
+            "Post-Apocalyptic",
+            "Girls' Love",
+            "Gore",
+            "School Life",
+            "Horror",
+            "Monster Girls",
+            "Music",
+            "Tragedy"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://x.com/official_alnst?s=21",
+        "cover_art_id": "41d00cd2-6ec6-4051-a97a-cccaedbe9a7e.jpg",
+        "updated_at": "2026-07-19T10:05:21+00:00"
+    },
+    {
+        "id": "9ee7510b-f0cc-4a04-bdf3-72174b17139a",
+        "title": "Shadow Slave",
+        "alt_titles": [
+            "Shadow Slave"
+        ],
+        "description": "Выросший в нищете, Санни никогда не питал иллюзий насчёт своей судьбы. Однако даже в самых смелых фантазиях он не мог представить, что однажды будет избран Заклятием Кошмара и войдёт в ряды Пробуждённых – избранников, наделённых силой за гранью человеческих возможностей. Оказавшись в разрушенном магическом мире, он столкнулся с ужасными монстрами – и другими Пробуждёнными – в смертельной битве за выживание.\nЧто ещё хуже, божественная сила, которую он получил, несла в себе незначительный, но потенциально смертельный изъян...",
+        "tags": [
+            "Thriller",
+            "Official Colored",
+            "Action",
+            "Demons",
+            "Long Strip",
+            "Romance",
+            "Survival",
+            "Martial Arts",
+            "Adventure",
+            "Post-Apocalyptic",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Mystery",
+            "Adaptation",
+            "Tragedy"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "66ea9c4b-eb0b-4011-b7a6-ea53a1169f92.jpg",
+        "updated_at": "2026-07-19T00:32:30+00:00"
+    },
+    {
+        "id": "9cda4664-b795-4dcd-90db-7b5e0684fdad",
+        "title": "Name Me",
+        "alt_titles": [],
+        "description": "Ángel once served Enzo Lars, heir to the powerful Lars family, as a servant, but he's now an esper and Enzo is his guide. From the very beginning, Enzo is outlandishly demanding. He wants something personal, intimate, and far beyond protocol. Twisted feelings that should’ve stayed in the past begin to surface again, fueled by power, obsession, and secrets. Behind Enzo’s calculated arrogance lies a dangerous longing, capturing Ángel in a bond he never agreed to and may not be able to escape.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "erotica",
+        "official_en_link": "https://www.lezhinus.com/en/comic/name_me",
+        "raw_link": "https://www.lezhin.com/ko/comic/name_me",
+        "cover_art_id": "c6f970a6-2292-403d-8b98-1e5dd51de5e5.png",
+        "updated_at": "2026-07-18T14:27:44+00:00"
+    },
+    {
+        "id": "9ff02d18-9a5e-4c25-b1c7-50c9a1fd09f9",
+        "title": "The Shape of Love",
+        "alt_titles": [
+            "The Shape of Love"
+        ],
+        "description": "Пак Хёнтэ, редактор веб-новелл, вновь встречает свою первую любовь, Кан Сухёка, на рабочей встрече.\nВопреки желанию отдалиться, увидев Кан Сухёка, ведущего себя так же, как раньше, сердце Пак Хёнтэ снова заколебалось.\n\n– Думал, снова вертеть мной по своему желанию? Даже не надейся, Кан Сухёк.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Drama",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2023,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "edab1a90-0329-4b85-adbe-d43817ca065f.jpg",
+        "updated_at": "2026-07-17T20:17:10+00:00"
+    },
+    {
+        "id": "3dd75c3f-400b-47a5-8643-ea883d8daaca",
+        "title": "Sleeping Together",
+        "alt_titles": [
+            "Sleeping Together",
+            "Falling Asleep Together"
+        ],
+        "description": "Wen Ruoling had always believed there was a chance her mother might reconcile with her other mommy. To her shock, she woke up one day to discover her mother had impulsively married another woman! Wen Ruoling secretly investigated this \"stepmother,\" Shu Wanxing, a woman only a few years her senior; young, beautiful, and alluring, yet seemingly hiding a mysterious and suspicious past. Wen Ruoling moved into her mother's villa, intent on uncovering Shu Wanxing’s true motives for the marriage and tearing the couple apart, however, as she spent her days in close proximity to Shu Wanxing, she gradually found herself developing unexpected feelings for her \"stepmother\"…",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Girls' Love",
+            "Drama",
+            "Web Comic",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc41777?from=manga_search",
+        "cover_art_id": "53df4b9b-f9b4-4806-8694-68462c617992.jpg",
+        "updated_at": "2026-07-16T16:58:40+00:00"
+    },
+    {
+        "id": "c1acc969-d454-41bb-8fda-a2b20047f8d8",
+        "title": "Catch Up",
+        "alt_titles": [],
+        "description": "\"How many times did you screw me, Sir?!\"\n\nMin Jae-joon, a urologist who dislikes gangsters but has a thing for well-endowed men, meets Kite, a gangster with a impressive package, while covering for his senior at the hospital. Consumed by desire, Jae-joon secretly hooks up with Kite, planning to keep it a one-time thing.\n\nHowever, instead of keeping it under wraps, he leaves a note, which leads to Kite catching up with him. Expecting a beating, Jae-joon is surprised when Kite asks, \"How many times did you screw me?\" Jae-joon replies, \"Ten times.\" Kite demands he pay back tenfold.\n\nBut instead of the expected beating, Kite proposes a ruthless deal: for each time Jae-joon pays his \"debt,\" he'll reduce the count by one. Jae-joon is now trapped, forced to repay the debt to the merciless gangster, who demands an eye for an eye, a tooth for a tooth.",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Mafia",
+            "Sexual Violence",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": null,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "599cee94-4142-4cc9-bb94-2038365fae9c.jpg",
+        "updated_at": "2026-07-16T11:01:42+00:00"
+    },
+    {
+        "id": "19a7974f-d802-4489-b1da-b1bbee929e63",
+        "title": "Can Love Also Lead to Farming?",
+        "alt_titles": [
+            "Can Love Also Lead to Farming?"
+        ],
+        "description": "Sung Hana, a famous beauty YouTuber and influencer, finds herself forced to hastily retreat to her grandmother's house in the countryside when a product she advertised becomes embroiled in controversy and, to make matters worse, a malicious stalker begins targeting her.\n\nIn the rural village, Hana encounters Kim Deoksu, a muscular, pure-hearted bachelor who has never had any experience with women. His face turns red and he becomes flustered at even the slightest physical contact, and his reactions prove to be a huge hit with viewers of Hana's rural vlog broadcasts.\n\nUnable to feature beauty products in her content anymore, the handsome and well-built Deoksu becomes perfect broadcast material for Hana. However, for some reason, Deoksu pathologically avoids her at every turn...\n\nWill Hana be able to get Deoksu to appear on her show, boost her view counts, and make a successful comeback as a YouTuber?!",
+        "tags": [
+            "Romance",
+            "Drama",
+            "Slice of Life"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://page.kakao.com/content/65937605",
+        "cover_art_id": "0a08118f-5710-497e-a53f-d351a3185919.jpg",
+        "updated_at": "2026-07-16T00:02:44+00:00"
+    },
+    {
+        "id": "199ee501-ea95-4066-869d-4f9ffcb7956b",
+        "title": "Day and Night",
+        "alt_titles": [
+            "Day and Night"
+        ],
+        "description": "During the day, Sheng XI is an elite VP, but at night, he secretly works as a fan service streamer… One day, a handsome and radiant rich second-generation idiot appeared at his company to become his assistant. Without a choice, he now has to endure this foolish rich kid while assuring his own secret identity stays concealed. However, this seemingly sweet and naive rich kid unexpectedly also has more than one identity~\nSeemingly innocent yet actually manipulative assistant x elite queen-like VP",
+        "tags": [
+            "Psychological",
+            "Long Strip",
+            "Boys' Love",
+            "Office Workers",
+            "Drama",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/25821/",
+        "cover_art_id": "ec8bbc36-2146-40f8-a930-5801f98d30f7.png",
+        "updated_at": "2026-07-15T04:13:05+00:00"
+    },
+    {
+        "id": "ab06efb5-9cb0-47c9-b0cf-0982272a614d",
+        "title": "Healing With Deulbi",
+        "alt_titles": [
+            "Healing With Deulbi"
+        ],
+        "description": "Read Healing with D’Bly\nTheophilo, a druid who was reincarnated into the body of ordinary office worker Sihyeon. He begins a healing life using the powers of a druid in a rural village where he has come to recuperate for Sihyeon’s body, which died from overwork.",
+        "tags": [
+            "Action",
+            "Animals",
+            "Comedy",
+            "Magic",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2024,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=850505",
+        "cover_art_id": "aaedcb88-5e0c-4a27-8742-b49556ec3389.jpg",
+        "updated_at": "2026-07-13T23:50:21+00:00"
+    },
+    {
+        "id": "58b1d917-a2e1-4d20-97da-aa39f37ead43",
+        "title": "Don't Break the Glass",
+        "alt_titles": [
+            "Don't Break the Glass",
+            "Tangled Up in Bad Things",
+            "Don't Break Yuri"
+        ],
+        "description": "Han Yu-ri lives a flawless double life: by day, he’s the invisible, glasses-wearing otaku at Jijon High; by night, he works a part-time job. But his peaceful routine shatters when Chan-wook, the school's most feared bully, falls head over heels for Yu-ri's part-timer persona—with absolutely no idea who he really is.\n\nTo make matters worse, the two are forced to pair up for a school learning program. As if hiding his identity from his new partner isn't stressful enough, Chan-wook’s best friend discovers Yu-ri's secret, throwing his life into absolute chaos. Now, Yu-ri must juggle a dangerous double life where getting caught means getting beaten up. Will he be able to graduate safely without Chan-wook ever finding out the truth?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Boys' Love",
+            "Drama",
+            "School Life",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2024,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.bomtoon.com/detail/DBYURI",
+        "cover_art_id": "8e12bcfe-9d2b-47b5-b16e-8fbd9b4fd3a0.png",
+        "updated_at": "2026-07-13T15:51:40+00:00"
+    },
+    {
+        "id": "feea0c2d-7f65-473d-91ef-5ee777bfdd45",
+        "title": "The Artist Who Draws Dungeons",
+        "alt_titles": [
+            "The Artist Who Draws Dungeons",
+            "The Painter Who Paints Dungeons",
+            "The Dungeon Painter"
+        ],
+        "description": "In a world forever changed by the Great Cataclysm that reshaped the entire globe...\n\nSeo Jio, an ordinary art teacher, dies in a sudden fire, only to awaken trapped inside a portrait as a painting himself.\n\nWithin the world of the portrait, Jio gains omnipotent abilities. He can create life and even open gateways to other dimensions.\n\nAs he travels across countless dimensions, Jio encounters people bound by fate and uses his newfound abilities to help them overcome the trials before them.\n\nBut with every dimension he crosses and every incident he resolves, he draws closer to uncovering the truth shrouding his own death…",
+        "tags": [
+            "Monsters",
+            "Long Strip",
+            "Comedy",
+            "Adventure",
+            "Magic",
+            "Drama",
+            "Fantasy",
+            "Cooking",
+            "Supernatural",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2024,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://ridibooks.com/books/6305000001",
+        "cover_art_id": "50d1cf29-549a-49e7-83f2-19e6e9a3eb16.png",
+        "updated_at": "2026-07-13T15:49:05+00:00"
     }
 ]
