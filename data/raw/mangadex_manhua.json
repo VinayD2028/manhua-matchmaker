@@ -1374,7 +1374,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/home?seriesId=54680399&page=1",
-        "cover_art_id": "d9462e79-d0f6-4653-9352-604f3ad0acd5.jpg"
+        "cover_art_id": "d9462e79-d0f6-4653-9352-604f3ad0acd5.jpg",
+        "updated_at": "2026-09-22T18:27:38+00:00"
     },
     {
         "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
@@ -4356,9 +4357,10 @@
         "status": "completed",
         "year": 2020,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/angel-or-villainess/info",
         "raw_link": "https://page.kakao.com/home?seriesId=56005508",
-        "cover_art_id": "2e8ddecd-1762-496a-b99c-84caf626766d.jpg"
+        "cover_art_id": "2e8ddecd-1762-496a-b99c-84caf626766d.jpg",
+        "updated_at": "2026-09-25T02:40:43+00:00"
     },
     {
         "id": "50e0025c-8747-4edd-987d-baabf2caeb67",
@@ -11962,7 +11964,7 @@
         "official_en_link": "https://tapas.io/series/demon-king-of-the-royal-class/info",
         "raw_link": "https://page.kakao.com/content/60832522",
         "cover_art_id": "a7f4a5a1-c0ab-4594-b12f-bfe2d63ee660.jpg",
-        "updated_at": "2026-03-05T04:24:43+00:00"
+        "updated_at": "2026-09-23T12:38:45+00:00"
     },
     {
         "id": "2f1f6c17-8a83-4d64-8677-e79cabb5c031",
@@ -14326,12 +14328,13 @@
             "Adaptation",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2021,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/home?seriesId=58094906&page=1",
-        "cover_art_id": "f0e14d8f-9b47-47fd-bcdb-48e81caec494.jpg"
+        "cover_art_id": "f0e14d8f-9b47-47fd-bcdb-48e81caec494.jpg",
+        "updated_at": "2026-09-24T01:07:17+00:00"
     },
     {
         "id": "6e4ab519-495f-4dc9-9f8a-00f18de96fe8",
@@ -16975,7 +16978,8 @@
         "id": "f74dc24b-3f38-44d5-b7d0-8c40f4b04e29",
         "title": "My Dear Lass",
         "alt_titles": [
-            "Xiǎo Gūniāng"
+            "Xiǎo Gūniāng",
+            "My Dear Lass"
         ],
         "description": "They met in a town of peaches.\n\nMu Xiaoen, a willfully incomplete moon, and Shi Xingyuan, a star who could not sparkle.\n\n*Hey, my dear lass. I want to give you the entirety of Peachtown's summer.*",
         "tags": [
@@ -16995,7 +16999,8 @@
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc32438",
-        "cover_art_id": "633844e2-a68a-476a-a1fb-38018078ffe3.png"
+        "cover_art_id": "633844e2-a68a-476a-a1fb-38018078ffe3.png",
+        "updated_at": "2026-09-24T03:59:54+00:00"
     },
     {
         "id": "3e7a601b-1040-4473-b590-ca27ed8cff8c",
@@ -18708,7 +18713,8 @@
         "title": "The Wind Spell",
         "alt_titles": [
             "Fēng zhī zhòu",
-            "Feng zhi zhou"
+            "Feng zhi zhou",
+            "The Wind Spell"
         ],
         "description": "In a 17th-century seaside town, this is the story of an oyster girl whose fate is transformed after an encounter with a mermaid...",
         "tags": [
@@ -18731,7 +18737,8 @@
         "rating": "suggestive",
         "official_en_link": null,
         "raw_link": "https://afdian.com/a/rrrrrrice",
-        "cover_art_id": "2183b436-337f-42b0-9917-6ef101b5786b.png"
+        "cover_art_id": "141b6789-de5b-48bd-ad1d-656ac792a2e0.jpg",
+        "updated_at": "2026-09-24T03:57:36+00:00"
     },
     {
         "id": "9e98dbdd-8466-4faf-a66d-960e7eb37ed9",
@@ -21096,8 +21103,9 @@
         "year": null,
         "rating": "safe",
         "official_en_link": null,
-        "raw_link": "https://ac.qq.com/Comic/comicInfo/id/643504",
-        "cover_art_id": "a98a1a7b-9459-4057-8931-30083605c2a8.jpg"
+        "raw_link": "https://manga.bilibili.com/detail/mc26989",
+        "cover_art_id": "a98a1a7b-9459-4057-8931-30083605c2a8.jpg",
+        "updated_at": "2026-09-22T08:31:11+00:00"
     },
     {
         "id": "b6086a9b-5ac5-4c53-b7d0-b5087a35408d",
@@ -30178,14 +30186,16 @@
             "Long Strip",
             "Adventure",
             "Fantasy",
+            "Web Comic",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2024,
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/fantasy/the-gardener-in-a-hunter-world/list?title_no=6220",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=821371",
-        "cover_art_id": "27369165-a20e-41df-b2a9-33b7f558b5e0.jpg"
+        "cover_art_id": "27369165-a20e-41df-b2a9-33b7f558b5e0.jpg",
+        "updated_at": "2026-09-24T22:49:37+00:00"
     },
     {
         "id": "c65d740e-d0e5-4cd3-a300-9e249331f97d",
@@ -31230,12 +31240,13 @@
             "Full Color",
             "Tragedy"
         ],
-        "status": "hiatus",
+        "status": "ongoing",
         "year": 2024,
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/fantasy/the-roguish-guard-in-a-medieval-fantasy/list?title_no=7370",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=831416",
-        "cover_art_id": "50a44a5e-be69-4b14-bb91-9bd2f31866b6.jpg"
+        "cover_art_id": "50a44a5e-be69-4b14-bb91-9bd2f31866b6.jpg",
+        "updated_at": "2026-09-22T14:11:22+00:00"
     },
     {
         "id": "2a441b35-66c9-4b46-8e0f-9779e50e0d6e",
@@ -33162,12 +33173,13 @@
             "Fantasy",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2023,
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/the-curious-case-of-chronicle/info",
         "raw_link": "https://page.kakao.com/content/62650665",
-        "cover_art_id": "b80ee5b9-20f7-4ffe-ae98-1aa9a00e3ec5.jpg"
+        "cover_art_id": "b80ee5b9-20f7-4ffe-ae98-1aa9a00e3ec5.jpg",
+        "updated_at": "2026-09-26T10:53:10+00:00"
     },
     {
         "id": "ab17fc05-f870-4eb2-bc19-25d67ae9db80",
@@ -93834,7 +93846,7 @@
             "Yao Zun Feiyao Dui Wo Fuze",
             "The Demon Lord Wants to Take Responsibility of Me!"
         ],
-        "description": "Yu Yin transmigrated twice, once again he has returned to his original world of cultivation, but the moment he gets back he gets scammed by a demon lord he doesn't recognize? Not only was he scammed, he even bit him and forced him into an engagement?! Yu Yin was very shocked, but the demon lord won't let him go.\n\nBei Xiao: We already have a very close relationship, why don't you let me tease you?\n\nYu Yin: …You don't have to do that.\n\n---\n**Original Web Manhua:** [BiliBili Manhua](https://manga.bilibili.com/detail/mc30102), [KuaiKan Manhua](https://www.kuaikanmanhua.com/web/topic/5701/)\n\n**Official English Translations:** [INKR](https://inkr.com/title/697), [Mangatoon](http://h5.mangatoon.mobi/contents/detail/858143), [Renta!](https://www.ebookrenta.com/renta/sc/frm/item/142352/), [WebComics](https://www.webcomicsapp.com/comic/60828c658c252b2c1b421fad)",
+        "description": "Yu Yin died, only to be reborn in the 21st century and transmigrate twenty years after his death. Upon returning to his original cultivation world, he was \"Deceived\" by Bei Xiao, a Demon Lord he did not know. Not only was he deceived, but he was also bitten and forced into an engagement! While Yu Yin was left stunned, the Demon Lord treated the situation as a matter of course and refused to let him go.\nBei Xiao: \"Now that you've found me, you have to take responsibility.\"\nLost memories and a fated reunion.\nBei Xiao: \"We’re already so close; why won't you let me pester you?\"\nYu Yin: \"...You don't have to do that.\"\n\n---\n**Original Web Manhua:** [BiliBili Manhua](https://manga.bilibili.com/detail/mc30102), [KuaiKan Manhua](https://www.kuaikanmanhua.com/web/topic/5701/)\n\n**Official English Translations:** [INKR](https://inkr.com/title/697), [Mangatoon](http://h5.mangatoon.mobi/contents/detail/858143), [Renta!](https://www.ebookrenta.com/renta/sc/frm/item/142352/), [WebComics](https://www.webcomicsapp.com/comic/60828c658c252b2c1b421fad)",
         "tags": [
             "Reincarnation",
             "Long Strip",
@@ -93850,7 +93862,7 @@
         "official_en_link": "https://comics.inkr.com/title/697-my-covenant-with-the-monster-lord?utm_source=mgd",
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/5701/",
         "cover_art_id": "ac02bba9-586d-482b-b6ed-a49b11f6eeaa.jpg",
-        "updated_at": "2026-09-11T03:32:51+00:00"
+        "updated_at": "2026-09-22T19:29:16+00:00"
     },
     {
         "id": "b7248667-9001-44b0-b1b1-870cd045bbf9",
@@ -118907,7 +118919,8 @@
         "rating": "safe",
         "official_en_link": "https://manta.net/en/series/the-villain-s-daughter-plans-to-run-away?seriesId=2247",
         "raw_link": "https://page.kakao.com/content/63767910",
-        "cover_art_id": "a18f2481-606d-4cb9-a5ab-86a668f8de4b.jpg"
+        "cover_art_id": "2da7d99b-0259-4878-b7df-20f5f02c33a9.jpg",
+        "updated_at": "2026-09-27T03:30:07+00:00"
     },
     {
         "id": "49244007-a758-4e24-8061-c7833d2d5d80",
@@ -135292,7 +135305,6 @@
         ],
         "description": "",
         "tags": [
-            "Oneshot",
             "Romance",
             "Comedy",
             "Girls' Love",
@@ -135307,7 +135319,7 @@
         "official_en_link": null,
         "raw_link": "https://www.dlsite.com/maniax/work/=/product_id/RJ01580997.html",
         "cover_art_id": "ad796353-4b63-4100-bfc3-ebe3c0f3b29f.jpg",
-        "updated_at": "2026-04-11T16:17:38+00:00"
+        "updated_at": "2026-09-27T00:21:34+00:00"
     },
     {
         "id": "c266c39e-c55e-4e9f-bcbc-c033c8edaa90",
@@ -140832,7 +140844,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/68858742",
         "cover_art_id": "cfd453f3-8828-4400-bc1f-954ba4963422.png",
-        "updated_at": "2026-04-27T20:19:24+00:00"
+        "updated_at": "2026-09-28T03:12:54+00:00"
     },
     {
         "id": "23ca8dca-5eec-4fbc-b755-6dbfc45cbd25",
@@ -148790,7 +148802,7 @@
         "official_en_link": null,
         "raw_link": "https://twitter.com/A1I_NG/status/2073680508039409989?s=20",
         "cover_art_id": "b82cf830-550e-4831-918e-8c774d8c435d.png",
-        "updated_at": "2026-07-26T15:30:21+00:00"
+        "updated_at": "2026-09-27T18:23:32+00:00"
     },
     {
         "id": "dd16dbbc-c317-4f62-8cf5-3525b4083aab",
@@ -152874,9 +152886,9 @@
         "year": 2026,
         "rating": "suggestive",
         "official_en_link": null,
-        "raw_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=853709",
         "cover_art_id": "026c0c0e-5e2e-4252-bcf4-1f1df846f0a4.png",
-        "updated_at": "2026-09-09T22:36:42+00:00"
+        "updated_at": "2026-09-21T10:37:32+00:00"
     },
     {
         "id": "a4e118e4-2c47-49b6-a92d-94c12ddc6222",
@@ -153707,9 +153719,9 @@
     },
     {
         "id": "194b72ac-e2d1-4657-ae3c-8dc516cb24d9",
-        "title": "Arknights Endfield: To Bloom",
+        "title": "Arknights: Endfield — To Bloom",
         "alt_titles": [
-            "Arknights Endfield: To Bloom"
+            "Arknights: Endfield — To Bloom"
         ],
         "description": "What happens when spring blooms on the untamed planet of Talos-II? As blossoms fall like snow, Fangyi must balance her complex industrial duties with her unwavering loyalty to the Endministrator.",
         "tags": [
@@ -153726,7 +153738,7 @@
         "official_en_link": "https://endfield.gryphline.com/en-us/news/0750",
         "raw_link": "https://endfield.gryphline.com/zh-tw/news/0750",
         "cover_art_id": "c90c245f-a019-494f-a4df-a9680e97e4ac.jpg",
-        "updated_at": "2026-09-20T16:16:46+00:00"
+        "updated_at": "2026-09-21T07:36:49+00:00"
     },
     {
         "id": "23ddcbae-7074-4f07-bd23-08177bf31412",
@@ -154136,5 +154148,172 @@
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=854294",
         "cover_art_id": "a535a0d8-778e-4ea0-a718-e00f20042ebb.jpg",
         "updated_at": "2026-09-14T16:00:05+00:00"
+    },
+    {
+        "id": "94e2a775-8b23-427f-86a6-1584a2e70464",
+        "title": "★The Ultimate Tank Returns★ Dominating With 10,000x Attack Speed",
+        "alt_titles": [
+            "★The Ultimate Tank Returns★ Dominating With 10,000x Attack Speed",
+            "The Ultimate Tank Returns ~ Unrivaled With 10,000x Attack Speed"
+        ],
+        "description": "The mysterious holographic game “Endless Firmament” takes the world by storm. Li Fan, the ultimate tank player, meets a tragic end after being backstabbed by his trusted brother and girlfriend. However, he suddenly regresses ten years into the past, right to the exact moment the game first launched.\n\nStarting fresh, Li Fan obtains the SSS-rank talent “Blessing of Light,” which permanently increases his agility whenever he hunts monsters. He also unlocks the hidden class of Shield-Armor Warrior, transforming himself into the fastest tank alive. Speeding through the levels, Li Fan sets his sights on a single goal: to conquer the game at lightning speed and stand atop the world as the ultimate peak warrior.",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/27816/",
+        "cover_art_id": "6148e152-220b-41c9-a33e-301079a2df5b.jpg",
+        "updated_at": "2026-09-26T02:01:35+00:00"
+    },
+    {
+        "id": "9a6eaeab-31ae-4ee9-a0f1-d05123acdb72",
+        "title": "A BL's Quest for Success",
+        "alt_titles": [
+            "BL's Success Challenge"
+        ],
+        "description": "“I” am the “bottom” of this BL manhwa you’re reading.\nBut among the countless series out there, it isn’t easy for a mediocre, all-ages comic to survive.\n\nThen one day, a voice from the heavens makes me realize the truth.\n\n“Maybe I should just kill everyone off and end it.”\n\nIf I want to stay alive, I have no choice but to turn this series into an R19 BL!\nEven if I have to sacrifice this one hole of mine… But wait… My hole?!",
+        "tags": [
+            "Long Strip",
+            "Comedy",
+            "Boys' Love",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2026,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.mrblue.com/webtoon/wt_000076161",
+        "cover_art_id": "5a33dcf5-7562-44be-b0dd-6ea662467bac.jpg",
+        "updated_at": "2026-09-25T22:50:45+00:00"
+    },
+    {
+        "id": "24f63bc8-6b69-46ee-8264-0c879370b356",
+        "title": "I Became a Magical Girl?!",
+        "alt_titles": [
+            "I Became a Magical Girl?!",
+            "This Bro Became a Magical Girl?!"
+        ],
+        "description": "An otaku guy who loves checking out girls suddenly finds himself transformed into a beautiful girl — and a magical girl at that. Even worse, he soon discovers that he isn't the only guy caught in this bizarre situation. Now a whole group of former male otaku must fight monsters while desperately trying to find a way to turn back into men. Thus begins their ridiculous and chaotic life as magical girls.",
+        "tags": [
+            "Genderswap",
+            "Action",
+            "Comedy",
+            "Magical Girls",
+            "Adventure",
+            "School Life",
+            "Fantasy",
+            "Web Comic"
+        ],
+        "status": "completed",
+        "year": 2015,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "d14ef244-a1f0-43ce-856e-e0ba4e1e212f.jpg",
+        "updated_at": "2026-09-23T14:38:35+00:00"
+    },
+    {
+        "id": "dddd5a26-839b-4762-ad81-060aeee32b60",
+        "title": "Starting With x10: You Really Exploited the Bug!",
+        "alt_titles": [
+            "起手乘十？有BUG你是真卡啊",
+            "Starting With x10: You Really Exploited the Bug!",
+            "×10 Right From the Start—Make Full Use of the Bug!"
+        ],
+        "description": "Jiang Fu lives in a modern world of awakened spiritual energy and high-level martial arts. With only ten days left to live, he suddenly binds to the ×10 System, which grants him a single chance to multiply anything by ten.\n\nBut instead of using it normally, Jiang Fu discovers a loophole in the system. He uses the ×10 ability on the number of times he can use it, multiplying his available uses by ten and exploiting the system’s bug to eventually unlock unlimited uses.\n\nNow, anything can be multiplied by ten—his physique, comprehension, treasures, and even his enemies’ illnesses and weaknesses.\n\nArmed with this bug-level ability, Jiang Fu turns his desperate fate around and begins an unstoppable rise to the top!",
+        "tags": [
+            "Action",
+            "Long Strip",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://www.kuaikanmanhua.com/web/topic/27865/",
+        "cover_art_id": "45f46edf-f8e7-4ab5-ae24-42e6dc4764a1.png",
+        "updated_at": "2026-09-23T00:10:11+00:00"
+    },
+    {
+        "id": "0ab7ae56-2800-4426-819d-0cda91aad12a",
+        "title": "The Blood Knight’s Villains",
+        "alt_titles": [],
+        "description": "Dark World, the game I, a thirty-year-old salaryman, had devoted my entire youth to. \n\n\"What the fuck is this…\"\n\nWhen I opened my eyes, Dark World had become my reality. The pouring rain, dripping hot blood, and a cold blade. At the moment of my impending death, I came into this familiar world.",
+        "tags": [
+            "Reincarnation",
+            "Action",
+            "Long Strip",
+            "Adventure",
+            "Isekai",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "cancelled",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://page.kakao.com/content/62136750",
+        "cover_art_id": "74fdd2f4-0387-4289-96c4-7dfb0718609f.jpg",
+        "updated_at": "2026-09-22T11:28:36+00:00"
+    },
+    {
+        "id": "757dda6d-e7c6-4cd6-a1e7-2c78897b350b",
+        "title": "Trap",
+        "alt_titles": [
+            "Trap"
+        ],
+        "description": "The alluring human, Ling Xi, infiltrates a special agent academy teaming with beastmen in the pursuit of revenge. Initially, he feels fortunate to have a powerful partner to shield him from the dangers of the beastmen around him. But little does he know, that the most dangerous beastman is none other than his partner. The tangled maintained harmony and understanding during the day crumbles under the influence of growing desire at night.",
+        "tags": [
+            "Action",
+            "Animals",
+            "Romance",
+            "Boys' Love",
+            "Crime",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "5671effb-88d6-4701-8b82-9000a55bcb37.png",
+        "updated_at": "2026-09-22T07:05:00+00:00"
+    },
+    {
+        "id": "6203ed40-2257-486b-828a-ced76a77948a",
+        "title": "Suicide Note at Seventeen",
+        "alt_titles": [
+            "Suicide Note at Seventeen",
+            "A 17-Year-Old's Suicide Note"
+        ],
+        "description": "After his 17-year-old brother dies in a car accident, the older brother goes to the school to retrieve his belongings, only to be trapped in a classroom by a supernatural horror and forced to follow its rules. He must now use the clues to uncover the bullying his brother endured at school, as well as how he himself caused his brother to suffer…",
+        "tags": [
+            "Thriller",
+            "Psychological",
+            "Long Strip",
+            "Drama",
+            "School Life",
+            "Supernatural",
+            "Mystery",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "31e040b9-2501-43c1-bd44-748f1c0c2631.jpg",
+        "updated_at": "2026-09-21T15:27:21+00:00"
     }
 ]
