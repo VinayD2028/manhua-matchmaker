@@ -1817,13 +1817,13 @@
             "Adaptation",
             "Full Color"
         ],
-        "status": "completed",
+        "status": "ongoing",
         "year": 2019,
         "rating": "safe",
         "official_en_link": "https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135",
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=735661",
-        "cover_art_id": "6fadbf8b-1be6-4c37-9a57-4e03721674f3.png",
-        "updated_at": "2026-03-08T09:38:52+00:00"
+        "cover_art_id": "49eb0dfc-9562-48cf-a974-2e4a96c519a4.jpg",
+        "updated_at": "2026-10-30T13:25:12+00:00"
     },
     {
         "id": "b62971df-0e2b-4d37-bc82-821efa10e2e1",
@@ -3805,6 +3805,7 @@
             "Magic",
             "Isekai",
             "Fantasy",
+            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
@@ -3814,7 +3815,7 @@
         "official_en_link": "https://tapas.io/series/pick-me-up/info",
         "raw_link": "https://page.kakao.com/content/60914825",
         "cover_art_id": "a9392e62-78b1-4b08-beed-ea2e5088c0a2.jpg",
-        "updated_at": "2026-10-03T20:59:39+00:00"
+        "updated_at": "2026-10-31T20:18:32+00:00"
     },
     {
         "id": "b1953f80-36f7-492c-b0f8-e9dd0ad01752",
@@ -6334,16 +6335,16 @@
             "Fantasy",
             "Vampires",
             "Monster Girls",
-            "Web Comic",
             "Supernatural",
             "Full Color"
         ],
         "status": "completed",
         "year": 2020,
         "rating": "suggestive",
-        "official_en_link": null,
+        "official_en_link": "https://baiheverse.com/en/manhuas/my-food-looks-very-cute-en",
         "raw_link": null,
-        "cover_art_id": "9082a940-3d41-4c7a-b6ae-549479250b19.png"
+        "cover_art_id": "9082a940-3d41-4c7a-b6ae-549479250b19.png",
+        "updated_at": "2026-10-27T10:10:25+00:00"
     },
     {
         "id": "67bd081f-1c40-4ae2-95a2-6af29de4fc01",
@@ -17032,13 +17033,13 @@
             "Fantasy",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "hiatus",
         "year": 2024,
         "rating": "safe",
         "official_en_link": "https://manta.net/en/series/the-hunter-s-gonna-lay-low?seriesId=3011",
         "raw_link": "https://ridibooks.com/books/2404014533",
-        "cover_art_id": "52ebb965-5b87-4014-b893-514b006c4ddb.jpg",
-        "updated_at": "2026-03-22T19:23:52+00:00"
+        "cover_art_id": "b4db69fb-e387-4f33-8143-f668a181957e.jpg",
+        "updated_at": "2026-10-27T11:41:20+00:00"
     },
     {
         "id": "40da1219-1860-4d7f-b823-d3511ac67cac",
@@ -19036,11 +19037,11 @@
     },
     {
         "id": "cdd03460-c926-4aa3-9cea-1494d8c7c808",
-        "title": "Seoul Station Necromancer",
+        "title": "Seoul Station’s Necromancer",
         "alt_titles": [
-            "Seoul Station’s Necromancer"
+            "Seoul Station Necromancer"
         ],
-        "description": "[You have entered the dungeon at Gwachun Station’s 1st Exit.]\n\nAfter years of fighting for survival on planet Alphen, Kang Woojin had become a fearsome necromancer and ruler of his own territory. But now that he’s finally found a way back to Earth, he’s nothing more than a low-level player clearing dungeons for cash. Soon enough, though, Woojin’s undeniable skills have major guilds vying for his attention. And just in time, because with Woojin’s old enemy threatening invasion, those skills might be the only thing standing between humanity and destruction!",
+        "description": "After years of fighting for survival on planet Alphen, Kang Woojin had become a fearsome necromancer and ruler of his own territory. But now that he’s finally found a way back to Earth, he’s nothing more than a low-level player clearing dungeons for cash. Soon enough, though, Woojin’s undeniable skills have major guilds vying for his attention. And just in time, because with Woojin’s old enemy threatening invasion, those skills might be the only thing standing between humanity and destruction!",
         "tags": [
             "Monsters",
             "Action",
@@ -19056,9 +19057,10 @@
         "status": "completed",
         "year": 2021,
         "rating": "safe",
-        "official_en_link": null,
+        "official_en_link": "https://tapas.io/series/seoul-stations-necromancer/info",
         "raw_link": "https://page.kakao.com/content/58031028",
-        "cover_art_id": "70c64d24-28d1-47c5-bea0-89c5e1da5e3c.png"
+        "cover_art_id": "70c64d24-28d1-47c5-bea0-89c5e1da5e3c.png",
+        "updated_at": "2026-11-01T22:06:44+00:00"
     },
     {
         "id": "ff442aab-7908-40bc-8d10-93c6bb318466",
@@ -38936,7 +38938,7 @@
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc29329",
         "cover_art_id": "8adee174-8d08-45d7-ae3c-eea089f4d19e.jpg",
-        "updated_at": "2026-08-19T01:36:16+00:00"
+        "updated_at": "2026-10-28T03:35:52+00:00"
     },
     {
         "id": "644696ed-471b-4797-a99d-1797378550f4",
@@ -40667,16 +40669,16 @@
             "Magic",
             "School Life",
             "Fantasy",
-            "Web Comic",
             "Adaptation",
             "Full Color"
         ],
-        "status": "hiatus",
+        "status": "completed",
         "year": 2024,
         "rating": "safe",
         "official_en_link": "https://tapas.io/series/hunter-academys-invincible-martial-god/info",
         "raw_link": "https://page.kakao.com/content/63862535",
-        "cover_art_id": "4742a353-4e11-46d2-8ebb-87358cb14f4a.jpg"
+        "cover_art_id": "4742a353-4e11-46d2-8ebb-87358cb14f4a.jpg",
+        "updated_at": "2026-10-27T19:46:23+00:00"
     },
     {
         "id": "b21a2770-6258-44e7-9857-33f95df2171d",
@@ -44830,8 +44832,10 @@
     {
         "id": "ebcad9db-8ee9-4ec8-a054-8a4b866c0e31",
         "title": "1 Second",
-        "alt_titles": [],
-        "description": "A legendary firefighter with a success rescue rate of 100%. What is his special ability?",
+        "alt_titles": [
+            "1 Second"
+        ],
+        "description": "Every second counts when you're a first responder. But what if you could see a glimpse into the future? Hosu is a firefighter with the supernatural ability to do just that. There’s just one catch. It only works when he feels extreme stress under pressure. Will knowing what will happen ahead of time help Hosu extinguish fires before they completely destroy homes and lives? And will he learn to wield his ability when he needs it most?",
         "tags": [
             "Action",
             "Long Strip",
@@ -44844,9 +44848,10 @@
         "status": "ongoing",
         "year": 2019,
         "rating": "safe",
-        "official_en_link": null,
-        "raw_link": "https://comic.naver.com/webtoon/list.nhn?titleId=725586&weekday=fri&page=1",
-        "cover_art_id": "c9cfe23f-b2c8-44ce-bf14-6805c3afedc8.jpg"
+        "official_en_link": "https://www.webtoons.com/en/action/1-second/list?title_no=4322",
+        "raw_link": "comic.naver.com/webtoon/list?titleId=725586",
+        "cover_art_id": "c9cfe23f-b2c8-44ce-bf14-6805c3afedc8.jpg",
+        "updated_at": "2026-10-27T00:13:37+00:00"
     },
     {
         "id": "6fe9a526-e05e-48c4-8adf-af38ab4d4aec",
@@ -78414,6 +78419,7 @@
             "Reincarnation",
             "Monsters",
             "Action",
+            "Long Strip",
             "Survival",
             "Adventure",
             "Post-Apocalyptic",
@@ -78428,7 +78434,8 @@
         "rating": "safe",
         "official_en_link": "https://yenpress.com/series/omniscient-reader-s-viewpoint",
         "raw_link": "https://atempomedia.co.kr/10030",
-        "cover_art_id": "1c3f3366-e82e-4b12-bae9-25fa6dbaa8b0.jpg"
+        "cover_art_id": "1c3f3366-e82e-4b12-bae9-25fa6dbaa8b0.jpg",
+        "updated_at": "2026-10-30T04:27:11+00:00"
     },
     {
         "id": "d708afb2-c403-491e-990b-b271e9b33e1d",
@@ -119590,12 +119597,13 @@
             "Doujinshi",
             "School Life"
         ],
-        "status": "ongoing",
+        "status": "hiatus",
         "year": null,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": null,
-        "cover_art_id": "38c3563d-10f6-421c-bb1c-05984a59a1e3.jpg"
+        "cover_art_id": "38c3563d-10f6-421c-bb1c-05984a59a1e3.jpg",
+        "updated_at": "2026-10-28T06:20:37+00:00"
     },
     {
         "id": "99efe885-5592-4c5e-b6d1-988675ccf941",
@@ -134628,7 +134636,7 @@
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=849279",
         "cover_art_id": "064de4f0-49aa-42a7-8495-d5e1939eb5f2.png",
-        "updated_at": "2026-08-24T12:07:33+00:00"
+        "updated_at": "2026-10-26T10:05:56+00:00"
     },
     {
         "id": "f5e61c1d-80fe-4356-bee6-6b5452f2127a",
@@ -141541,7 +141549,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69141031?utm_source=sh_clip&plpu=https://link-page.kakao.com/open/content?utm_source=sh_clip&series_id=69141031&alfallback=store",
         "cover_art_id": "740906b1-a8f2-43b3-954a-73728e4ff4d6.jpg",
-        "updated_at": "2026-08-18T01:01:09+00:00"
+        "updated_at": "2026-10-30T00:23:34+00:00"
     },
     {
         "id": "81b4bea2-6777-465a-b042-e03dff24bbb7",
@@ -143705,23 +143713,26 @@
         "id": "7f627920-d80c-4646-a9d0-8e5628a917c1",
         "title": "The Genius Spearman Who Doesn't Die",
         "alt_titles": [
-            "The Genius Spearman Who Doesn't Die"
+            "The Genius Spearman Who Doesn't Die",
+            "Jukji Anneun Cheonjae Changjabi"
         ],
-        "description": "In this life, I’ll be the one who rules the battlefield.” Damian, a centurion in the Baroque Kingdom’s punishment unit, dies nameless on some forgotten front at the age of thirty, regretting only one thing: “Damn it… If I’d just had one more chance, I really would’ve ruled the battlefield with these guys.” When he opens his eyes again, he’s gone back seventeen years—this time with a perfectly intact mana core that actually lets him learn magic. This time, he swears, he won’t be swept along by an age of endless war. He’ll climb higher than anyone and become the one who dominates it. Reborn in the past, Damian raises his spear toward the world and begins carving out the future he couldn’t reach before.",
+        "description": "Damian, a centurion in the Baroque Kingdom’s punishment unit, dies nameless on some forgotten front at the age of thirty, regretting only one thing: \n\n\"Damn it… If I’d just had one more chance, I really would’ve ruled the battlefield with these guys.\" \n\nWhen he opens his eyes again, he’s gone back seventeen years—this time with a perfectly intact mana core that actually lets him learn magic. \n\nThis time, he swears, he won’t be swept along by an age of endless war. He’ll climb higher than anyone and become the one who dominates it. \n\nReborn in the past, Damian raises his spear toward the world and begins carving out the future he couldn’t reach before.",
         "tags": [
-            "Reincarnation",
+            "Time Travel",
             "Action",
+            "Long Strip",
             "Adventure",
             "Fantasy",
-            "Web Comic"
+            "Web Comic",
+            "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
         "rating": "safe",
         "official_en_link": null,
-        "raw_link": null,
+        "raw_link": "https://page.kakao.com/content/69290911/",
         "cover_art_id": "31421b08-9d0a-48d3-a444-5a28c38f4849.png",
-        "updated_at": "2026-06-14T15:59:04+00:00"
+        "updated_at": "2026-10-31T23:57:12+00:00"
     },
     {
         "id": "a1b806d3-fab0-4ada-bf10-791f082e9f79",
@@ -147663,13 +147674,13 @@
             "Fantasy",
             "Full Color"
         ],
-        "status": "ongoing",
+        "status": "completed",
         "year": 2018,
         "rating": "safe",
         "official_en_link": null,
         "raw_link": "https://manga.bilibili.com/detail/mc24652",
         "cover_art_id": "b9fb130b-6a9e-4f11-b30c-52c52deebde5.jpg",
-        "updated_at": "2026-10-12T11:11:11+00:00"
+        "updated_at": "2026-10-27T15:14:06+00:00"
     },
     {
         "id": "eb78b818-004f-44ea-a49c-b941cdaa949f",
@@ -148502,6 +148513,7 @@
         ],
         "description": "“What's the point of being a Sword God in a past life?”\n\nI don't know why, but I remembered my past life when I was a child. Could that be the reason I really enjoyed the virtual reality games I happened to play? However, a congenital issue eventually prevented me from accessing virtual reality, and it took seven years for a solution to finally appear.\n\n“The capsule costs one hundred million won.”\n\nThat's expensive.\n\n“Actually, have you heard of LEOS?”\n\nLeague of Streaming? A streamer tournament? Why bring that up?\n\n“The grand prize there is this very capsule. What do you think? Do you want to give it a shot?”",
         "tags": [
+            "Reincarnation",
             "Action",
             "Long Strip",
             "Martial Arts",
@@ -148518,7 +148530,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/69300599",
         "cover_art_id": "1ab48e4c-044b-4e2e-9dad-a89320a64759.jpg",
-        "updated_at": "2026-10-13T18:03:53+00:00"
+        "updated_at": "2026-10-31T23:53:20+00:00"
     },
     {
         "id": "01dde6c5-4d40-4abf-82d8-ddba3435112a",
@@ -153577,9 +153589,11 @@
         "description": "Just before graduating from university, a woman suddenly finds herself transported into another world. Until she can find a way home, she decides to enjoy everything she missed while studying especially romance. When a handsome but painfully shy nerd moves in next door, she decides he is the perfect choice. The problem is, he may actually be the infamous Magic Tower Master, a man known for his terrifying personality. Still, that seems like a minor concern compared to the truth she soon discovers: the world she thought belonged to a romance novel is actually a deadly survival story where something is trying to kill her.",
         "tags": [
             "Reincarnation",
+            "Long Strip",
             "Romance",
             "Comedy",
-            "Drama"
+            "Drama",
+            "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
@@ -153587,7 +153601,7 @@
         "official_en_link": null,
         "raw_link": null,
         "cover_art_id": "68bcc20c-18d0-4fd3-a2b6-4197d061308b.jpg",
-        "updated_at": "2026-09-09T18:21:05+00:00"
+        "updated_at": "2026-10-30T04:30:32+00:00"
     },
     {
         "id": "8367fa34-d0b2-480f-bc0d-66307099174b",
@@ -153850,7 +153864,8 @@
         "id": "00cbb62b-b002-464d-bda7-8e650338417e",
         "title": "World Extinction War",
         "alt_titles": [
-            "Segye Myeolmangjeon"
+            "Segye Myeolmangjeon",
+            "Battle for the World's End"
         ],
         "description": "Heavenly Demons, Hunters, Giant Robots, Demon Kings, and Superhumans.\n\nThe strongest warriors from countless worlds gather in one place, with the survival of their respective worlds at stake.\n\nIn this battle for survival, where defeat means nothing less than the destruction of an entire world, the representatives of the “Ordinary World”—the only ones with no special powers whatsoever—are dragged into the conflict.\n\nJust as they are about to be crushed by the overwhelming strength of monsters who exist far beyond normal standards, they are given an unexpected weapon.\n\n[The abilities of your game character are being synchronized]\n\nCan Shin Jahyeon and the representatives of the Ordinary World borrow the powers of their game characters, defeat the true strongest beings, and survive?",
         "tags": [
@@ -153872,7 +153887,7 @@
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=854580",
         "cover_art_id": "4fa2b42e-15f3-48c9-86c0-37e78d92b7a2.png",
-        "updated_at": "2026-09-19T21:40:02+00:00"
+        "updated_at": "2026-10-31T23:51:08+00:00"
     },
     {
         "id": "6ebc38c9-367a-4fba-ab36-ad9a957ee7d1",
@@ -154132,13 +154147,14 @@
             "A Space Marine Gets a Status Window",
             "Even a Space Marine Gets a Status Window"
         ],
-        "description": "In the year 2126, humanity has mastered gate technology to colonize space—and wage relentless war against alien monsters across the galaxy. Space Marine Kim Seo-jun thought he had already served his time, but a forced re-enlistment drags him right back to the front lines. Except this time, on the very first day of his second term, an impossible pop-up appears before his eyes: [Status Window Activated.] Armed with game-like system mechanics in a sci-fi battlefield, Seo-jun is about to show the universe what a veteran marine can truly do when the system has his back.",
+        "description": "In the year 2126, humanity has mastered gate technology to colonize space—and wage relentless war against alien monsters across the galaxy. \n\nSpace Marine Kim Seo-jun thought he had already served his time, but a forced re-enlistment drags him right back to the front lines. Except this time, on the very first day of his second term, an impossible pop-up appears before his eyes: \n\n[Status Window Activated.] \n\nArmed with game-like system mechanics in a sci-fi battlefield, Seo-jun is about to show the universe what a veteran marine can truly do when the system has his back.",
         "tags": [
             "Sci-Fi",
             "Action",
             "Long Strip",
             "Military",
             "Fantasy",
+            "Web Comic",
             "Aliens",
             "Full Color"
         ],
@@ -154148,7 +154164,7 @@
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=854613",
         "cover_art_id": "4c880ce2-8c67-4c21-83aa-adb4593010bc.jpg",
-        "updated_at": "2026-09-14T21:13:01+00:00"
+        "updated_at": "2026-10-31T23:54:11+00:00"
     },
     {
         "id": "135907b0-f623-4b4e-9024-959102905508",
@@ -155246,7 +155262,7 @@
         "alt_titles": [
             "The Crazy Villain Regains His Sanity"
         ],
-        "description": "The protagonist, Choi Jun-ho, who had lived his life as a ruthless villain, indulging in power and bloodshed, one day returned to the past when he was an unemployed shut-in. He decided to turn his life around and use his strength for good, facing various challenges and obstacles along the way.",
+        "description": "Choi Jun-ho, who had lived his life as a ruthless villain, indulging in power and bloodshed, one day returned to the past when he was an unemployed shut-in. \n\nHe decided to turn his life around and use his strength for good, facing various challenges and obstacles along the way.",
         "tags": [
             "Time Travel",
             "Monsters",
@@ -155264,7 +155280,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/70776768/?tab_type=about",
         "cover_art_id": "b922ae73-b3a0-491a-b09d-2254e84d3544.jpg",
-        "updated_at": "2026-10-16T23:06:49+00:00"
+        "updated_at": "2026-10-31T23:51:41+00:00"
     },
     {
         "id": "543d11b1-1aa8-433a-8fc7-11598fca4ca0",
@@ -155840,9 +155856,11 @@
         ],
         "description": "My name is Charles. I am a spy for the Empire. Lord, please let me be a righteous spy today as well. For the mission, I agreed to a fake marriage with an agent from the Holy Kingdom. My goal is to sabotage his mission without revealing that I am a spy for the Empire! “Oh my, I accidentally drank the Countess’ wine?” “This is so boring. I might as well just go home.” I deliberately did things that would make everyone dislike me. That way, I could make my fake husband’s mission fail! But then— “My goodness! The sommelier was an assassin!” “If it weren’t for Miss Charles, my nephew would have become alligator food!” “Thanks to you, we were able to catch the intruder!” Huh? Why is everyone reacting like this? [The Hero of the Empire, Charles Courtney!] No! I was only acting this way to make the mission fail! And on top of that… “I’ve been pretending not to know all this time.” “But now, you think you can just run away from me?” Even my fake husband, who had always suspected me, was acting strangely. “If you made me fall for you, you have to take responsibility.” Wait, you weren’t like this before!",
         "tags": [
+            "Long Strip",
             "Romance",
             "Drama",
-            "Fantasy"
+            "Fantasy",
+            "Full Color"
         ],
         "status": "ongoing",
         "year": 2026,
@@ -155850,7 +155868,7 @@
         "official_en_link": null,
         "raw_link": "https://page.kakao.com/content/70892167/",
         "cover_art_id": "042be8c3-51ec-4411-a205-c29cc0d7a4c5.png",
-        "updated_at": "2026-10-12T23:14:27+00:00"
+        "updated_at": "2026-10-30T04:28:28+00:00"
     },
     {
         "id": "9607da06-6e14-4d2c-805d-b0b792b44bd9",
@@ -155920,7 +155938,7 @@
         "official_en_link": null,
         "raw_link": "https://comic.naver.com/webtoon/list?titleId=852615",
         "cover_art_id": "53210487-8e84-4dec-9dc6-dbe85ec8c9e5.png",
-        "updated_at": "2026-10-26T00:16:25+00:00"
+        "updated_at": "2026-10-31T05:05:54+00:00"
     },
     {
         "id": "93250ba7-7c6e-436b-8c89-0af079a2fdff",
@@ -156015,7 +156033,7 @@
         "id": "11b9e7bc-4e2c-4440-9a18-41bebf9a8317",
         "title": "Sugarcoated Black Dragon",
         "alt_titles": [],
-        "description": "",
+        "description": "Ming Nuan, the second young miss of the Ming family, had been secretly admiring general Pei Shao for a long time. When the general came back from war, she was informed that the general was about to marry her elder sister, Ming Qing. Distressed, the girl hid her admiration for him, but the general's behavior made her even more enraged. This is a \"My crush wants to marry my sister?! What should I do?” kind of stor",
         "tags": [
             "Historical",
             "Long Strip",
@@ -156030,7 +156048,7 @@
         "official_en_link": null,
         "raw_link": "https://www.kuaikanmanhua.com/web/topic/13245/?cps=undefined",
         "cover_art_id": "64a47875-fb70-41f9-b346-a101f1d9c5dd.jpg",
-        "updated_at": "2026-10-20T14:50:43+00:00"
+        "updated_at": "2026-10-26T05:23:32+00:00"
     },
     {
         "id": "1cb0a112-e56d-46e1-825d-cca91807c081",
@@ -156126,5 +156144,303 @@
         "raw_link": null,
         "cover_art_id": "8e073ad4-4cdc-4d5a-a379-991e3fc0cde2.jpg",
         "updated_at": "2026-10-19T15:12:35+00:00"
+    },
+    {
+        "id": "f3390e78-0be5-4968-9b33-006afa5a4427",
+        "title": "Shadow Bride",
+        "alt_titles": [],
+        "description": "Yunjo is a young prince who has always served his kingdom from behind the scenes. He’s spent his whole life in the shadow of his brother, the crown prince Yigang, fighting enemies and winning wars in his name. All that changes when one day, he meets Seolyun, a mysterious and charming woman who captivates him instantly. What happens when a man emerges from the shadows to follow his heart? Can he overcome all of the obstacles in his way to step into the light and be with the one he loves?",
+        "tags": [
+            "Historical",
+            "Long Strip",
+            "Romance",
+            "Comedy",
+            "Drama",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2020,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/romance/shadow-bride/list?title_no=2618",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=767979",
+        "cover_art_id": "cefb2581-7de4-4cb9-893c-6d126e7a8c5e.jpg",
+        "updated_at": "2026-11-02T04:53:26+00:00"
+    },
+    {
+        "id": "09c2692b-3cd9-4459-b8d5-d7d2e1daaf61",
+        "title": "The Beast Won't Let Me Sleep",
+        "alt_titles": [
+            "This Beast Does Not Sleep At Night",
+            "This Beast Stays Awake All Night"
+        ],
+        "description": "Adele is a notorious villainess among the high society; rumor has it she married and murdered an old marquis, then allegedly seduced her stepson out of lust for power. As such, she’s shunned and ostracized at social gatherings-- until she meets the most sought-after man of the era, Count Vyce. However, this man turns out to be Chris, the poor boy she looked after before abandoning him long ago. The once-fragile boy now approaches her without hesitation. Does he approach out of past attraction, or is there something more underneath?",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Sexual Violence",
+            "Drama",
+            "Fantasy",
+            "Web Comic",
+            "Adaptation",
+            "Full Color"
+        ],
+        "status": "hiatus",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": "https://www.webtoons.com/en/romance/the-beast-wont-let-me-sleep/list?title_no=8162",
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=836357",
+        "cover_art_id": "207bbd97-f826-49f0-b375-cfff6058bb93.jpg",
+        "updated_at": "2026-11-02T04:37:31+00:00"
+    },
+    {
+        "id": "d471e66b-dbfd-4538-99b4-49eb0014457e",
+        "title": "I Can't Help But Touch Hao Cang's Ears",
+        "alt_titles": [],
+        "description": "Who could resist those big ears? \n\nBased on the Ash of Echoes video game.",
+        "tags": [
+            "Oneshot",
+            "Animals",
+            "Long Strip",
+            "Romance",
+            "Doujinshi",
+            "Web Comic",
+            "Slice of Life",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2023,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://weibo.com/1876279531/NtUP20fQB",
+        "cover_art_id": "eab0a0ad-d187-4b00-8fd5-cac1f0866ead.png",
+        "updated_at": "2026-11-01T23:14:13+00:00"
+    },
+    {
+        "id": "5f15d9c2-9b2c-4b80-a50f-9a53cd2f0eaa",
+        "title": "Love and Let Lie",
+        "alt_titles": [
+            "Love and Let Lie",
+            "Another Lie"
+        ],
+        "description": "Korea's leading company, H Group.\nTaeyoung is sponsored by the group and adopted by their assistant. He lives a quiet life, thinking that he was only blessed by chance, but he also had one simple wish. To reunite with his first love from his childhood, at a charity banquet.\nThen one day, Taeyeong finds out that the first love he has had in his heart is Heo Minjae, the spoiled adopted son of Group H, and is surprised to see that Minjae is very different from the way he imagined...!",
+        "tags": [
+            "Long Strip",
+            "Boys' Love",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2023,
+        "rating": "safe",
+        "official_en_link": "https://www.lezhinus.com/en/comic/loveletlie",
+        "raw_link": "https://www.lezhin.com/ko/comic/ddolie",
+        "cover_art_id": "8fc26390-3b3f-49c0-9756-ea00040f65c0.jpg",
+        "updated_at": "2026-11-01T02:34:47+00:00"
+    },
+    {
+        "id": "72796d16-387f-4e76-b41c-9c2d86b76705",
+        "title": "Saved by your Haze",
+        "alt_titles": [],
+        "description": "",
+        "tags": [
+            "Monsters",
+            "Long Strip",
+            "Boys' Love",
+            "Drama",
+            "School Life",
+            "Horror",
+            "Supernatural",
+            "Mystery",
+            "Full Color"
+        ],
+        "status": "completed",
+        "year": 2022,
+        "rating": "safe",
+        "official_en_link": "https://www.lezhinus.com/en/comic/saved_haze",
+        "raw_link": null,
+        "cover_art_id": "ce42fe89-a77c-4313-8eaa-a44424ef36d4.jpg",
+        "updated_at": "2026-10-31T10:03:31+00:00"
+    },
+    {
+        "id": "ef26fdab-b97b-4e24-9ac2-66c4bb42bd7b",
+        "title": "Black \"TS\" Magic",
+        "alt_titles": [
+            "Black \"TS\" Magic"
+        ],
+        "description": "",
+        "tags": [
+            "Genderswap",
+            "Self-Published",
+            "Magic",
+            "Girls' Love"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://x.com/A1I_NG/status/2116450894153744539?",
+        "cover_art_id": "20c646de-cb0e-4f59-9b5f-7584f29add25.png",
+        "updated_at": "2026-10-31T08:46:15+00:00"
+    },
+    {
+        "id": "40914764-28dd-4b87-8239-7b248d24fc36",
+        "title": "Drache Heart",
+        "alt_titles": [
+            "Drache Heart"
+        ],
+        "description": "수 없이 죽었다. 정신이 피폐해진다. 이미 대한민국에서도 실패한 인생, 그렇게 만들어진 인생이었다. 그런데 다시 기회를 얻은 것이 용사 튜토리얼 던전의 최약체 몬스터인거지? 최약체 몬스터로 되살아난 드라코의 레벨업 스토리.",
+        "tags": [
+            "Demons",
+            "Long Strip",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2021,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/bestChallenge/list?titleId=766051",
+        "cover_art_id": "3ff46ad6-a0e6-4bf0-94a9-d0cbdc43e2b7.png",
+        "updated_at": "2026-10-31T07:47:07+00:00"
+    },
+    {
+        "id": "ff5a373b-841a-4106-9d20-cb9d7dc652bc",
+        "title": "Roubo Wudi De Buliang Shaonian Zai Youxi Zhong Que Xiang Dang Naima",
+        "alt_titles": [
+            "Ròubó Wúdí De Bùliáng Shàonián Zài Yóuxì Zhōng Què Xiǎng Dāng Nǎimā",
+            "The Unrivaled Delinquent in Combat Has Ended Up Becoming a Healer Within a Game",
+            "The Unrivaled Delinquent Combat King Is Actually a Healer in the Game World?"
+        ],
+        "description": "I just wanted to be a priest and heal others, so why did I become the strongest warrior instead?! I just wanted to enjoy playing the game, but why have I crossed over into the game world instead?! I created a priest character, but I'm now being forced to resolve my problems through brute force. Can't you just let me focus on being a healer?!",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Video Games",
+            "Harem",
+            "Isekai",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2021,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://manga.bilibili.com/detail/mc30216",
+        "cover_art_id": "b157aa23-1a72-47ba-85eb-263357cefb12.jpg",
+        "updated_at": "2026-10-30T06:16:52+00:00"
+    },
+    {
+        "id": "8c64d813-a003-4597-a4d7-695dbbbf6c99",
+        "title": "For My Gentle Monster",
+        "alt_titles": [
+            "For My Gentle Monster",
+            "For my kind monster"
+        ],
+        "description": "After today, I will have no reason to see you again. Abandoned by her husband on the very first day of their marriage, Helena resolves to sever their ill-fated bond, only for their bodies to suddenly switch. Within one year, if you fail to restore the bond of destiny, death shall claim you as fate decrees. With that foreboding prophecy, the two find their intertwined fates beginning to spiral out of control.",
+        "tags": [
+            "Genderswap",
+            "Long Strip",
+            "Romance",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "8e590e38-9501-4ffd-a369-b88047e8bc88.jpg",
+        "updated_at": "2026-10-30T00:13:06+00:00"
+    },
+    {
+        "id": "5784fb43-81fb-4ea8-a8fa-6a5e1b6145dd",
+        "title": "The Heavenly Demon's Otherworld Livestream",
+        "alt_titles": [
+            "The Heavenly Demon's Otherworld Livestream"
+        ],
+        "description": "Unrivaled under the heavens! The strongest in Jianghu, Heavenly Demon 'Chi Yuryang', is trapped on the unknown island of 'Magyeong' by an unidentified force.\n\nWhile living in solitude for 10 years, he learns through a mysterious device that four worlds have merged, and decides to undergo rejuvenation to survive and communicate with the world...\n\n\"Heavenly Demon Nyang~ Thank you, nyang!\"\n\nWill Heavenly Demon Chi Yuryang, newly reborn as a beautiful girl Heavenly Demon—no, 'Heavenly Demon-chan'—be able to conquer Quitch and escape Magyeong?",
+        "tags": [
+            "Genderswap",
+            "Comedy",
+            "Survival",
+            "Martial Arts",
+            "Isekai"
+        ],
+        "status": "ongoing",
+        "year": 2026,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": "https://comic.naver.com/webtoon/list?titleId=851642",
+        "cover_art_id": "5e337a09-987f-43d2-9f4f-e30f50ad3938.jpg",
+        "updated_at": "2026-10-30T00:05:22+00:00"
+    },
+    {
+        "id": "de717ea3-64e2-4293-84e5-91e7267eb03c",
+        "title": "Armored Highschool",
+        "alt_titles": [
+            "Gigap Godeung Hakgyo",
+            "기갑고등학교"
+        ],
+        "description": "A spinoff of Flight Highschool   \n  \nFeatures anthropomorphised modern military armoured fighting vehicles, ranging from tanks to self propelled guns, living daily lives in highschool.",
+        "tags": [
+            "Comedy",
+            "4-Koma",
+            "Doujinshi",
+            "School Life"
+        ],
+        "status": "hiatus",
+        "year": null,
+        "rating": "safe",
+        "official_en_link": null,
+        "raw_link": null,
+        "cover_art_id": "64e730b2-3462-4043-9a16-a2a9fe7d2d5a.jpg",
+        "updated_at": "2026-10-28T06:21:55+00:00"
+    },
+    {
+        "id": "950074ca-8449-4526-96c1-e3ba29e58f63",
+        "title": "BAITS",
+        "alt_titles": [],
+        "description": "Su nam lives a life oblivious to the fact that he is a beast. One day, when he becomes the target of a runaway beast, Si yeol ends up saving him. However, the surprise is short lived as Su nam is brought before the elders who is in charge of the beasts. He is turned into bait for the beasts. When a suggestion is made to solve the case of the runaway beast, Sunam and Siyeol end up working together…",
+        "tags": [
+            "Animals",
+            "Long Strip",
+            "Romance",
+            "Boys' Love",
+            "Fantasy",
+            "Web Comic",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2022,
+        "rating": "erotica",
+        "official_en_link": null,
+        "raw_link": "https://www.lezhin.com/ko/comic/baits_19",
+        "cover_art_id": "9f4f60a7-e982-4f04-af6c-b44a7f57ec0b.jpg",
+        "updated_at": "2026-10-27T14:59:53+00:00"
+    },
+    {
+        "id": "dfb03aab-8fc2-4d64-b327-a8f8224acaa9",
+        "title": "My Beautiful Male Consorts",
+        "alt_titles": [
+            "My Beautiful Male Consorts"
+        ],
+        "description": "A matriarchal empire is ruled by a tyrannical empress who has decreed that her male concubines must bear children. However, due to the biological differences between men and women, the men are required to take a medication daily for three consecutive years—without interruption—to alter their physiology and enable them to become pregnant.\n\nThis treatment carries severe side effects: it weakens their bodies and causes them to experience monthly menstruation, accompanied by excruciating abdominal pain. Consequently, the concubines suffer a progressive decline in their health and live under extremely harsh conditions—to the point where their existence becomes virtually unbearable.",
+        "tags": [
+            "Long Strip",
+            "Romance",
+            "Reverse Harem",
+            "Isekai",
+            "Drama",
+            "Fantasy",
+            "Full Color"
+        ],
+        "status": "ongoing",
+        "year": 2025,
+        "rating": "suggestive",
+        "official_en_link": null,
+        "raw_link": "https://ac.qq.com/Comic/comicInfo/id/653628",
+        "cover_art_id": "074b05db-f2be-45d6-947b-9d3eff396841.jpg",
+        "updated_at": "2026-10-27T08:46:57+00:00"
     }
 ]
